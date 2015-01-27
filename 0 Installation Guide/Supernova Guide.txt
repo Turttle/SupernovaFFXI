@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=1UdSOjQk2Ho
 2. Install the FFXI game and its expansions, Rise of the Zilart, Chains of Promathia, Treasures of Aht Urghan, and Wings of the Goddess. 
 	Final Fantasy collection discs from retail outlets or Steam versions will work fine if you don't have your original discs.
 	Do not ask us about illegal means of obtaining the game, we support only legal copies of the game on Supernova.
-3. Install PlayOnline. If you are on Windows XP you can use the version that comes with the discs. If you're on a newer version of windows, Run the setup file in the "1 POL Setup" folder that came with your Supernova download.
+3. Install PlayOnline by running the setup file in the "1 POL Setup" folder. If you are running windows XP or earlier, use the version that comes with the discs.
 4. Run PlayOnline Viewer and let it update fully.
 5. Install the FFXI Update Patch found in the "2 FFXI Update Patch" folder in your Supernova download.  Place the files in the PlayOnline/Squareenix/Final Fantasy XI directory, overwriting and merging over the files already there.
 6. Relaunch PlayOnline and choose “For PlayOnline Members”, and create a throwaway member name and PlayOnline ID. Ex Name: Joe PlayOnline ID: ABCD1234
@@ -29,8 +29,9 @@ https://www.youtube.com/watch?v=1UdSOjQk2Ho
 16. If you haven't already, register on our forums at supernovaffxi.proboards.com and read the documents there. There are documents you should write your name in.
 17. Create a character and login.
 18. Assimilate with the in-game community by obtaining a linkpearl. Any of the Supernova GMs can give you a pearl. A list of players is at http://supernovaffxi.wikia.com/wiki/Admins
-19. Learn the differences between your Supernova FFXI server and Square Enix's FFXI servers.
+19. Learn the differences between your Supernova FFXI server and Square Enix's FFXI servers. Type @help to be transported to some NPCs with valuable information.
 20. Check out the Chocobo circuit, the Supernova FFXI hangout, it's been completely reinvented for our purposes! Type @choco to teleport there 
+
 
 Supernova specifics (the good stuff!)
 1. Level Cap is 75 with no intent of ever raising it. We like it old school.
