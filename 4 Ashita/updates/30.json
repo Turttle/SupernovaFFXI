@@ -1,0 +1,27 @@
+{
+    "project_id": 30,
+    "project_path": "http://update.ffevo.net/ashita/30/",
+    "repository": {
+        "name": "Clock",
+        "url": "ssh://git@delvl.ffevo.net:2242/addons/clock.git",
+        "description": "Clock is an addon that allows you to display times for various timezones on-screen at all times.",
+        "homepage": "http://delvl.ffevo.net/addons/clock"
+    },
+    "files": [
+        {
+            "name": "README",
+            "hash": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "/README"
+        },
+        {
+            "name": "date.lua",
+            "hash": "240748d39207552e520553657ff67565",
+            "path": "/date.lua"
+        },
+        {
+            "name": "clock.lua",
+            "hash": "0a6b1b1dcdd9eb8df272345dde905bd5",
+            "path": "/clock.lua"
+        }
+    ]
+}

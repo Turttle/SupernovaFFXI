@@ -1,0 +1,87 @@
+{
+    "project_id": 80,
+    "project_path": "http://update.ffevo.net/ashita/80/",
+    "repository": {
+        "name": "Greed",
+        "url": "ssh://git@delvl.ffevo.net:2242/plugins/greed.git",
+        "description": "Grid for FFXI",
+        "homepage": "http://delvl.ffevo.net/plugins/greed"
+    },
+    "files": [
+        {
+            "name": ".gitignore",
+            "hash": "c0d58a9f798cbc6e78136f764d055896",
+            "path": "/.gitignore"
+        },
+        {
+            "name": "Greed.sln",
+            "hash": "56331b0b0d8c867e5bf2e8d5eeebfc10",
+            "path": "/Greed.sln"
+        },
+        {
+            "name": "gradient.tga",
+            "hash": "b6741c9b7f162ab2707de8a5249ebe4d",
+            "path": "/Release/Resources/Greed/gradient.tga"
+        },
+        {
+            "name": "Readme.txt",
+            "hash": "f215f85a57447390899263511f12e8da",
+            "path": "/Release/Docs/Greed/Readme.txt"
+        },
+        {
+            "name": "Greed.xml",
+            "hash": "5d1d693be59ceb9c870300f5ab1fe9fc",
+            "path": "/Release/Docs/Greed/Greed.xml"
+        },
+        {
+            "name": "Greed.dll",
+            "hash": "6358e502c27b61110a94febb363e23a0",
+            "path": "/Release/Plugins/Greed.dll"
+        },
+        {
+            "name": "README.md",
+            "hash": "b2ed3e089dd75ce36cea49ef5f2f633d",
+            "path": "/README.md"
+        },
+        {
+            "name": "exports.def",
+            "hash": "0abee44f6361cf28a42dccf018bfc95f",
+            "path": "/Greed/exports.def"
+        },
+        {
+            "name": "rapidxml_utils.hpp",
+            "hash": "693c2243715f68c8d6b77e3fa232d3c8",
+            "path": "/Greed/rapidxml/rapidxml_utils.hpp"
+        },
+        {
+            "name": "rapidxml_iterators.hpp",
+            "hash": "ff75ea697742405bb7c549e583f11cb5",
+            "path": "/Greed/rapidxml/rapidxml_iterators.hpp"
+        },
+        {
+            "name": "rapidxml.hpp",
+            "hash": "26d084e41cc6a1d856383ff56da25117",
+            "path": "/Greed/rapidxml/rapidxml.hpp"
+        },
+        {
+            "name": "rapidxml_print.hpp",
+            "hash": "181ea8ab8e85672317ccfac166276706",
+            "path": "/Greed/rapidxml/rapidxml_print.hpp"
+        },
+        {
+            "name": "Greed.vcxproj",
+            "hash": "a96c50908df4117b6e10ff60f3e12c88",
+            "path": "/Greed/Greed.vcxproj"
+        },
+        {
+            "name": "Greed.h",
+            "hash": "ba0b34956d5744423a885f3a4cb8b770",
+            "path": "/Greed/Greed.h"
+        },
+        {
+            "name": "main.cpp",
+            "hash": "b289eb0f406f3cd031d95289ac186adf",
+            "path": "/Greed/main.cpp"
+        }
+    ]
+}

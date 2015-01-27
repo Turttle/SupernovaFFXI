@@ -1,0 +1,62 @@
+{
+    "project_id": 44,
+    "project_path": "http://update.ffevo.net/ashita/44/",
+    "repository": {
+        "name": "No-ckback",
+        "url": "ssh://git@delvl.ffevo.net:2242/plugins/no-ckback.git",
+        "description": "Removes knockback from mobskills.",
+        "homepage": "http://delvl.ffevo.net/plugins/no-ckback"
+    },
+    "files": [
+        {
+            "name": ".gitignore",
+            "hash": "c0d58a9f798cbc6e78136f764d055896",
+            "path": "/.gitignore"
+        },
+        {
+            "name": "No-ckback.vcxproj",
+            "hash": "167503121989eb2d176057832b8ddd94",
+            "path": "/No-ckback/No-ckback.vcxproj"
+        },
+        {
+            "name": "No-ckback.h",
+            "hash": "b649240b7bea38a0e78b97dde69ebf9a",
+            "path": "/No-ckback/No-ckback.h"
+        },
+        {
+            "name": "main.cpp",
+            "hash": "d7ace54f18f4f0e162ad4fe93101c2fc",
+            "path": "/No-ckback/main.cpp"
+        },
+        {
+            "name": "Exports.def",
+            "hash": "7bcd09aada4d4425ecb86d71c293db28",
+            "path": "/No-ckback/Exports.def"
+        },
+        {
+            "name": "DSP-Utils.h",
+            "hash": "36dcb74b3f3e872ee2bc0a66f1c6dd87",
+            "path": "/No-ckback/DSP-Utils.h"
+        },
+        {
+            "name": "No-ckback.dll",
+            "hash": "76fd97f095a65d2fb481caaf027e0a14",
+            "path": "/Release/Plugins/No-ckback.dll"
+        },
+        {
+            "name": "README.md",
+            "hash": "684c31660acd6d16c811b592bee8d705",
+            "path": "/README.md"
+        },
+        {
+            "name": "No-ckback.sln",
+            "hash": "37729740f381167f2b1fc9f3aebf6582",
+            "path": "/No-ckback.sln"
+        },
+        {
+            "name": "LICENSE",
+            "hash": "e8c1458438ead3c34974bc0be3a03ed6",
+            "path": "/LICENSE"
+        }
+    ]
+}

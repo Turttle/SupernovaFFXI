@@ -1,0 +1,32 @@
+{
+    "project_id": 62,
+    "project_path": "http://update.ffevo.net/ashita/62/",
+    "repository": {
+        "name": "Synplicity",
+        "url": "ssh://git@delvl.ffevo.net:2242/addons/synplicity.git",
+        "description": "Learns crafts you perform and allows you to repeat them.",
+        "homepage": "http://delvl.ffevo.net/addons/synplicity"
+    },
+    "files": [
+        {
+            "name": "README",
+            "hash": "2f1785825bffa9ff8a5ff4013c000211",
+            "path": "/README"
+        },
+        {
+            "name": "synplicity.lua",
+            "hash": "57f3f7bfaf9efe4913e7d6ef5c508dd8",
+            "path": "/synplicity.lua"
+        },
+        {
+            "name": "bkutils.lua",
+            "hash": "4824d9b73c3e241503d602eddd82d4e5",
+            "path": "/bkutils.lua"
+        },
+        {
+            "name": "tablesave.lua",
+            "hash": "d1cb08cb1d509ed1f6afbad04366a95f",
+            "path": "/tablesave.lua"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+<ashitacast>
+	<sets>
+		<set name="Idle">
+			<head>Walahra Turban</head>
+			<body>Koga Chainmail</body>
+			<hands>Ochiudo's Kote</hands>
+			<legs>Byakko's Haidate</legs>
+			<feet>Fuma Sune-ate</feet>
+			<neck>Peacock Charm</neck>
+			<waist>Sonic Belt +1</waist>
+			<ear1>Suppanomimi</ear1>
+			<ear2>Brutal Earring</ear2>
+			<ring1>Rajas Ring</ring1>
+			<ring2>Mars's Ring</ring2>
+			<back>Cerb. Mantle +1</back>
+		</set>
+		<set name="TP">
+			<head>Walahra Turban</head>
+			<body>Ninja Chainmail</body>
+			<hands>Dusk Gloves +1</hands>
+			<legs>Byakko's Haidate</legs>
+			<feet>Fuma Sune-ate</feet>
+			<neck>Peacock Charm</neck>
+			<waist>Sonic Belt +1</waist>
+			<ear1>Suppanomimi</ear1>
+			<ear2>Brutal Earring</ear2>
+			<ring1>Rajas Ring</ring1>
+			<ring2>Mars's Ring</ring2>
+			<back>Cerb. Mantle +1</back>
+			<ammo>Fire Bomblet</ammo>
+		</set>
+		<set name="WS">
+			<head>Enkidu's Cap</head>
+			<body>Haubergeon +1</body>
+			<hands>Ochiudo's Kote</hands>
+			<legs>Shura Haidate +1</legs>
+			<feet>Heroic Boots +1</feet>
+			<neck>Chivalrous Chain</neck>
+			<waist>Warwolf Belt</waist>
+			<ear1>Brutal Earring</ear1>
+			<ear2>Harmonius Earring</ear2>
+			<ring1>Rajas Ring</ring1>
+			<ring2>Mars's Ring</ring2>
+			<back>Cerb. Mantle +1</back>
+			<ammo>Fire Bomblet</ammo>
+		</set>
+		<set name="Provoke">
+			<head>Yasha Jinpachi +1</head>
+			<body>Yasha Samue +1</body>
+			<hands>Yasha Tekko +1</hands>
+			<legs>Yasha Hakama +1</legs>
+			<feet>Ysh. Sune-ate +1</feet>
+			<neck>Harmonia's Torque</neck>
+			<waist>Warwolf Belt</waist>
+			<ear1>Suppanomimi</ear1>
+			<ear2>Harmonius Earring</ear2>
+			<ring1>Rajas Ring</ring1>
+			<ring2>Mars's Ring</ring2>
+			<back>Cerb. Mantle +1</back>
+			<ammo>Nokizaru Shuriken</ammo>
+		</set>
+		<set name="Tank">
+			<head>Denali Bonnet</head>
+			<body>Antares Harness</body>
+			<hands>Dusk Gloves +1</hands>
+			<legs>Byakko's Haidate</legs>
+			<feet>Fuma Sune-ate</feet>
+			<neck>Evasion Torque</neck>
+			<waist>Koga Sarashi</waist>
+			<ear1>Suppanomimi</ear1>
+			<ear2>Harmonius Earring</ear2>
+			<ring1>Rajas Ring</ring1>
+			<ring2>Toreador's Ring</ring2>
+			<back>Cerb. Mantle +1</back>
+			<ammo>Nokizaru Shuriken</ammo>
+		</set>
+		<set name="Nincast">
+			<head>Walahra Turban</head>
+			<body>Yasha Samue +1</body>
+			<hands>Dusk Gloves +1</hands>
+			<legs>Byakko's Haidate</legs>
+			<feet>Fuma Sune-ate</feet>
+			<neck>Ninjutsu Torque</neck>
+			<waist>Koga Sarashi</waist>
+			<ear1>Ninjutsu Earring</ear1>
+			<ear2>Loquac. Earring</ear2>
+			<ring1>Rajas Ring</ring1>
+			<ring2>Mars's Ring</ring2>
+			<back>Cerb. Mantle +1</back>
+			<ammo>Fire Bomblet</ammo>
+		</set>
+		<include> <!--This is used in the gear/validate functions.-->
+		<item>Kraken Club</item>
+		<item quantity="all">Fudo</item>
+		<item quantity="99">Shihei</item>
+		<item quantity="99">Shinobi-Tabi</item>
+		<item quantity="99">Sanjaku-Tenugui</item>
+		<item quantity="12">Toolbag (Shihei)</item>
+		<item quantity="12">Echo Drops</item>
+		<item quantity="12">R. Curry Bun +1</item> <!--You can specify all for the gear function to retrieve all of an item.-->
+		</include>
+	</sets>
+	<inputcommands>
+	<cmd input="/tankon">
+		<setvar name="Tank" value="true"/>
+		<addtochat color="118">Tank Set Enabled</addtochat>
+	</cmd>
+	<cmd input="/tankoff">
+		<setvar name="Tank" value="false"/>
+		<addtochat color="165">Tank Set Disabled</addtochat>
+	</cmd>
+	</inputcommands>
+
+	<settings> 
+		<!--Contains settings specific to this xml, must be set to true/false to override default-->
+			
+			<buffupdate>true</buffupdate> 
+		<!--Determines if your idlegear will be parsed when you gain/lose a buff. Default: TRUE -->
+			<statusupdate>true</statuspdate>
+		<!--Determines if your idlegear will be parsed when you change status(stand/rest/engage/etc).  Default: TRUE -->
+			<hpupdate>false</hpupdate> 
+		<!--Determines if your idlegear will be parsed when your HP % changes.  Default: FALSE -->
+			<autoupdate>Auto</autoupdate>
+		<!--Determines if your idlegear will be parsed on outgoing status updates(roughly every 350ms).  Default: FALSE -->
+		
+	</settings>
+	<idlegear>
+		<if p_status="!engaged">
+			<if advanced="(%e_time<=6.00)|(%e_time>=18.00)">
+				<equip set="Idle" />
+				<equip><feet>Ninja Kyahan</feet></equip>
+			</if>
+			<else>
+				<equip set="Idle" />
+			</else>			
+		</if>
+		<else>
+			<if advanced="$Tank=true"><equip set="Tank" /></if>
+			<else><equip set="TP" /></else>
+		</else>
+	</idlegear>
+
+	<preranged>
+		<equip set="Snapshot" />
+	</preranged>
+
+	<midranged>
+		<equip set="Ranged" />
+	</midranged>
+	
+	<weaponskill>
+        	<equip set="Ranged" />
+		<if ad_name="Blade: Jin">
+			<equip set="WS" />
+			<equip><neck>Breeze Gorget</neck></equip>
+		</if>
+	</weaponskill>
+	<jobability>
+        <if ad_name="Provoke">
+                <equip set="Provoke" />
+        </if>
+	</jobability>
+	<premagic>
+	<if ad_skill="ninjutsu">
+			<equip><hands>Kog. Tekko +1</hands></equip>
+		</if>
+	</premagic>
+	<midmagic>
+		<if ad_skill="ninjutsu">
+			<equip set="Nincast"/>
+		</if>
+	</midmagic>
+
+</ashitacast>

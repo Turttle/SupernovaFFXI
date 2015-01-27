@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dats>
+    <dat name="spellname"   type="string"   jp="55582"  na="55702"  fr="56242"  de="55822" />
+    <dat name="spelldesc"   type="string"   jp="55614"  na="55734"  fr="56274"  de="55854" />
+    <dat name="abilityname" type="string"   jp="55581"  na="55701"  fr="56241"  de="55821" />
+    <dat name="abilitydesc" type="string"   jp="55613"  na="55733"  fr="56273"  de="55853" />
+    <dat name="spdata"      type="spdata"   jp="81"     na="81"     fr="81"     de="81" />
+    <dat name="keyitems"    type="string"   jp="55575"  na="55697"  fr="56245"  de="55825" />
+    <dat name="days"        type="string"   jp="55538"  na="55658"  fr="56198"  de="55778" />
+    <dat name="statusnames" type="string"   jp="55605"  na="55725"  fr="56272"  de="55852" />
+    <dat name="directions"  type="string"   jp="55539"  na="55659"  fr="56199"  de="55779" />
+    <dat name="errors"      type="string"   jp="55526"  na="55646"  fr="56186"  de="55766" />
+    <dat name="jobs"        type="string"   jp="55536"  na="55467"  fr="56196"  de="55776" />
+    <dat name="regions"     type="string"   jp="55534"  na="55654"  fr="56194"  de="55774" />
+    <dat name="areas"       type="string"   jp="55535"  na="55465"  fr="56195"  de="55775" />
+    <dat name="weather"     type="string"   jp="55537"  na="55657"  fr="56197"  de="55777" />
+    <dat name="item"        type="item"     jp="4"      na="73"     fr="56235"  de="55815" />
+    <dat name="item"        type="item"     jp="5"      na="74"     fr="56236"  de="55816" />
+    <dat name="item"        type="item"     jp="6"      na="75"     fr="56237"  de="55817" />
+    <dat name="item"        type="item"     jp="7"      na="76"     fr="56238"  de="55818" />
+    <dat name="item"        type="item"     jp="55548"  na="55668"  fr="56208"  de="55788" />
+    <dat name="item"        type="item"     jp="8"      na="77"     fr="56239"  de="55819" />
+    <dat name="item"        type="item"     jp="9"      na="91"     fr="56240"  de="55820" />
+    <dat name="item"        type="item"     jp="55547"  na="55667"  fr="56207"  de="55787" />
+    <dat name="item"        type="item"     jp="-1"     na="55669"  fr="-1"     de="-1" />
+    <dat name="item"        type="item"     jp="-1"     na="55670"  fr="-1"     de="-1" />
+    <dat name="item"        type="item"     jp="-1"     na="55671"  fr="-1"     de="-1" />
+    <dat name="mobskills"   type="dialog"   jp="7034"   na="7035"   fr="56271"  de="55851" />
+</dats>

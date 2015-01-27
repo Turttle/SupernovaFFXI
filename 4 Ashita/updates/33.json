@@ -1,0 +1,22 @@
+{
+    "project_id": 33,
+    "project_path": "http://update.ffevo.net/ashita/33/",
+    "repository": {
+        "name": "SingleRace",
+        "url": "ssh://git@delvl.ffevo.net:2242/addons/singlerace.git",
+        "description": "SingleRace is a simple addon that will allow you to force all other player entities into the same race.",
+        "homepage": "http://delvl.ffevo.net/addons/singlerace"
+    },
+    "files": [
+        {
+            "name": "README",
+            "hash": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "/README"
+        },
+        {
+            "name": "singlerace.lua",
+            "hash": "7cfa5b82a1713dd35b0d41748f125809",
+            "path": "/singlerace.lua"
+        }
+    ]
+}

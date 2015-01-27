@@ -1,0 +1,16 @@
+Xper
+A expwatch alternative
+To reset stats /xper reset
+
+Valid vars for use in display
+$tnl   = Experience/neededExperience                             
+$rate  = Experience per hour listed in thousands                 
+$chain = Chain number of last kill                               
+$time  = Time you need to kill EM+ to keep chain                 
+$s_time= Total time this session                                 
+$gain  = Total experience you have gained this session           
+$last  = Last amount of experience you have gotten               
+$limit = Limit points                                            
+$merit = Merits you have stored                                  
+
+vars are also replaced in sent chat via <tnl>,<rate> ect.. format

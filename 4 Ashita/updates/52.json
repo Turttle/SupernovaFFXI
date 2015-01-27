@@ -1,0 +1,22 @@
+{
+    "project_id": 52,
+    "project_path": "http://update.ffevo.net/ashita/52/",
+    "repository": {
+        "name": "AllMaps",
+        "url": "ssh://git@delvl.ffevo.net:2242/addons/allmaps.git",
+        "description": "Addon to allow users to view all maps without actually owning them via /map",
+        "homepage": "http://delvl.ffevo.net/addons/allmaps"
+    },
+    "files": [
+        {
+            "name": "README",
+            "hash": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "/README"
+        },
+        {
+            "name": "allmaps.lua",
+            "hash": "7c49faa9c109338186759603112370e3",
+            "path": "/allmaps.lua"
+        }
+    ]
+}

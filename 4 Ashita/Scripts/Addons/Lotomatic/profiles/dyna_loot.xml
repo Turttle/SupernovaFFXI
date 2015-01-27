@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lotomatic>
+ <!-- Flint Stone -->
+ <itementry id="1455" rule="loot" /> <!-- 1 Byne Bill-->
+ <itementry id="1456" rule="loot" /> <!-- 100 Byne Bill-->
+ <itementry id="1450" rule="loot" /> <!-- L. Jadeshell-->
+ <itementry id="1453" rule="loot" /> <!-- M. Silverpiece-->
+ <itementry id="1452" rule="loot" /> <!-- O. Bronzepiece-->
+ <itementry id="1449" rule="loot" /> <!-- T. Whiteshell-->
+	<itementry id="15124" rule="pass" /> <!-- Abyss Flanchard-->
+	<itementry id="15137" rule="pass" /> <!-- Assassin's Pouln-->
+	<itementry id="15141" rule="pass" /> <!-- Bard's Slippers-->
+	<itementry id="15119" rule="pass" /> <!-- Cleric's Pantaln-->
+	<itementry id="15028" rule="pass" /> <!-- Commodore Gants-->
+	<itementry id="15121" rule="pass" /> <!-- Duelist's Tights-->
+	<itementry id="11396" rule="pass" /> <!-- Etoile Shoes-->
+	<itementry id="3420" rule="pass" /> <!-- Fiendish Tome (17)-->
+	<itementry id="3421" rule="pass" /> <!-- Fiendish Tome (18)-->
+	<itementry id="3422" rule="pass" /> <!-- Fiendish Tome (19)-->
+	<itementry id="3423" rule="pass" /> <!-- Fiendish Tome (20)-->
+	<itementry id="3497" rule="pass" /> <!-- Forgotten Step-->
+	<itementry id="3495" rule="pass" /> <!-- Forgotten Touch-->
+	<itementry id="3496" rule="pass" /> <!-- Frgtn. Journey-->
+	<itementry id="1520" rule="pass" /> <!-- Goblin Grease-->
+	<itementry id="15144" rule="pass" /> <!-- Koga Kyahan-->
+	<itementry id="15103" rule="pass" /> <!-- Melee Gloves-->
+	<itementry id="10974" rule="pass" /> <!-- Mujin Mantle-->
+	<itementry id="11032" rule="pass" /> <!-- Mujin Stud-->
+	<itementry id="3392" rule="pass" /> <!-- Odious Cup-->
+	<itementry id="3393" rule="pass" /> <!-- Odious Die-->
+	<itementry id="3395" rule="pass" /> <!-- Odious Grenade-->
+	<itementry id="3394" rule="pass" /> <!-- Odious Mask-->
+	<itementry id="11031" rule="pass" /> <!-- Oneiros Pearl-->
+	<itementry id="19762" rule="pass" /> <!-- Oneiros Tathlum-->
+	<itementry id="16352" rule="pass" /> <!-- Pantin Churidars-->
+	<itementry id="18344" rule="pass" /> <!-- Relic Bow-->
+	<itementry id="18338" rule="pass" /> <!-- Relic Horn-->
+	<itementry id="15066" rule="pass" /> <!-- Relic Shield-->
+	<itementry id="18326" rule="pass" /> <!-- Relic Staff-->
+	<itementry id="3356" rule="pass" /> <!-- Roving Bijou-->
+	<itementry id="15143" rule="pass" /> <!-- Saotome Sune-Ate-->
+	<itementry id="15082" rule="pass" /> <!-- Scout's Beret-->
+	<itementry id="1470" rule="pass" /> <!-- Sparkling Stone-->
+	<itementry id="15102" rule="pass" /> <!-- Warrior's Mufflers-->
+	<itementry id="15115" rule="pass" /> <!-- Wyrm Fng.Gnt-->
+
+	<!-- Seal Section -->
+	<itementry id="1126" rule="pass" /> <!-- Beastmen's Seal -->
+	<itementry id="1127" rule="pass" /> <!-- Kindred's Seal -->
+	<itementry id="2955" rule="pass" /> <!-- Kindred's Crest -->
+	<itementry id="2956" rule="pass" /> <!-- High Kindred's Crest -->
+</Lotomatic>
+

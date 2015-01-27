@@ -1,0 +1,124 @@
+<ashitacast>
+	<sets>
+		<set name="Idle">
+			<head>War Beret +1</head>
+			<neck>Qiqirn Collar</neck>
+			<ear1>Harmonius Earring</ear1>
+			<ear2>Harmonius Earring</ear2>
+			<body>Kyudogi +1</body>
+			<hands>Blood Fng. Gnt.</hands>
+			<ring1>Behemoth Ring +1</ring1>
+			<ring2>Behemoth Ring +1</ring2>
+			<back>Amemet Mantle +1</back>
+			<waist>Scout's Belt</waist>
+			<legs>Blood Cuisses</legs>
+			<feet>Strider Boots</feet>
+		</set>
+		<set name="Snapshot">
+			<body>Scout's Jerkin</body>
+		</set>
+		<set name="Kraken">
+			<head>Walahra Turban</head>
+			<neck>Qiqirn Collar</neck>
+			<ear1>Pennon Earring +1</ear1>
+			<ear2>Drone Earring</ear2>
+			<body>Kyudogi +1</body>
+			<hands>Dusk Gloves +1</hands>
+			<ring1>Rajas Ring</ring1>
+			<ring2>Behemoth Ring +1</ring2>
+			<back>Amemet Mantle +1</back>
+			<waist>Sonic Belt +1</waist>
+			<legs>Byakko's Haidate</legs>
+			<feet>Dusk Ledelsens +1</feet>
+		</set>
+		<set name="Ranged">
+			<head>Enkidu's Cap</head>
+			<neck>Qiqirn Collar</neck>
+			<ear1>Harmonius Earring</ear1>
+			<ear2>Harmonius Earring</ear2>
+			<body>Kyudogi +1</body>
+			<hands>Blood Fng. Gnt.</hands>
+			<ring1>Rajas Ring</ring1>
+			<ring2>Bellona's Ring</ring2>
+			<back>Amemet Mantle +1</back>
+			<waist>Scout's Belt</waist>
+			<legs>Dusk Trousers +1</legs>
+			<feet>Sct. Socks +1</feet>
+		</set>
+		<set name="WS">
+			<head>Wyvern Helm +1</head>
+			<neck>Qiqirn Collar</neck>
+			<ear1>Harmonius Earring</ear1>
+			<ear2>Harmonius Earring</ear2>
+			<body>Kirin's Osode</body>
+			<hands>Seiryu's Kote</hands>
+			<ring1>Rajas Ring</ring1>
+			<ring2>Bellona's Ring</ring2>
+			<back>Amemet Mantle +1</back>
+			<waist>Scout's Belt</waist>
+			<legs>Dusk Trousers +1</legs>
+			<feet>Sct. Socks +1</feet>
+		</set>
+		<set name="Unlim">
+			<head>Wyvern Helm +1</head>
+			<body>Kirin's Osode</body>
+		</set>
+		<include> <!--This is used in the gear/validate functions.-->
+		<item>Kriegsbeil</item> <!--Quantity is assumed to be 1 if unspecified.-->
+		<item>Kraken Club</item>
+		<item>Ridill</item>
+        <item>Hellfire +1</item>
+		<item>Eurytos' Bow</item>
+		<item>Fransisca</item>
+		<item quantity="all">Silv. Bul. Pouch</item>
+		<item quantity="all">Kabura Quiver</item>
+		<item quantity="all">Kabura Arrow</item>
+		<item quantity="all">Silver Bullet</item>
+		<item quantity="99">Shihei</item>
+		<item quantity="99">Shinobi-Tabi</item>
+		<item quantity="99">Sanjaku-Tenugui</item>
+		<item quantity="12">Toolbag (Shihei)</item>
+		<item quantity="12">Echo Drops</item>
+		<item quantity="12">R. Curry Bun +1</item> <!--You can specify all for the gear function to retrieve all of an item.-->
+		</include>
+	</sets>
+
+	<settings> 
+		<!--Contains settings specific to this xml, must be set to true/false to override default-->
+			
+			<buffupdate>true</buffupdate> 
+		<!--Determines if your idlegear will be parsed when you gain/lose a buff. Default: TRUE -->
+			<statusupdate>true</statuspdate>
+		<!--Determines if your idlegear will be parsed when you change status(stand/rest/engage/etc).  Default: TRUE -->
+			<hpupdate>false</hpupdate> 
+		<!--Determines if your idlegear will be parsed when your HP % changes.  Default: FALSE -->
+			<autoupdate>false</autoupdate>
+		<!--Determines if your idlegear will be parsed on outgoing status updates(roughly every 350ms).  Default: FALSE -->
+	</settings>
+	<idlegear>
+		<if p_status="!engaged">
+			<equip set="Idle" />
+		</if>
+		<else> 
+			<equip set="Kraken" /> 
+		</else>
+	</idlegear>
+
+	<preranged>
+		<equip set="Snapshot" />
+	</preranged>
+
+	<midranged>
+		<equip set="Ranged" />
+	</midranged>
+	
+	<weaponskill>
+        	<equip set="Ranged" />
+		<if ad_name="Sidewinder">
+			<equip set="WS" />
+		</if>
+		<if ad_name="Slugshot">
+			<equip set="WS" />
+		</if>
+	</weaponskill>
+</ashitacast>

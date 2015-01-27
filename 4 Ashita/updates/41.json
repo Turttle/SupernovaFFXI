@@ -1,0 +1,82 @@
+{
+    "project_id": 41,
+    "project_path": "http://update.ffevo.net/ashita/41/",
+    "repository": {
+        "name": "Navi",
+        "url": "ssh://git@delvl.ffevo.net:2242/plugins/navi.git",
+        "description": "Navi is a simple navigation tool that can record, save and playback paths.",
+        "homepage": "http://delvl.ffevo.net/plugins/navi"
+    },
+    "files": [
+        {
+            "name": "tinyxml2.h",
+            "hash": "b0f6f79897439468d0076200b3e9a703",
+            "path": "/tinyxml2.h"
+        },
+        {
+            "name": "navi.h",
+            "hash": "39e301948766cfcee7fd506b24ef0576",
+            "path": "/navi.h"
+        },
+        {
+            "name": "README",
+            "hash": "3c4cae0526be25b343108fd870c7319f",
+            "path": "/README"
+        },
+        {
+            "name": "exports.def",
+            "hash": "f4c864cfb2384dd0a4f5b06dd7e3b4f5",
+            "path": "/exports.def"
+        },
+        {
+            "name": "List.h",
+            "hash": "5b9063556d5868509e743ca9efefaf44",
+            "path": "/List.h"
+        },
+        {
+            "name": "ashitav2-extension-navi.vcxproj.filters",
+            "hash": "a275f9b4f01cc77511a7a758b0fdd48c",
+            "path": "/ashitav2-extension-navi.vcxproj.filters"
+        },
+        {
+            "name": "CommandParse.h",
+            "hash": "0d4d3dc8453125315938a5d77d7c10ab",
+            "path": "/CommandParse.h"
+        },
+        {
+            "name": "stdafx.h",
+            "hash": "7fb1fd7b6928868a1ec5b32b88f332d6",
+            "path": "/stdafx.h"
+        },
+        {
+            "name": "ashitav2-extension-navi.vcxproj",
+            "hash": "57d370d75758566c981b1059a6f50f82",
+            "path": "/ashitav2-extension-navi.vcxproj"
+        },
+        {
+            "name": "tinyxml2.cpp",
+            "hash": "5c9f7b7ffec227b1e36c217f57b5aa86",
+            "path": "/tinyxml2.cpp"
+        },
+        {
+            "name": "navi.cpp",
+            "hash": "10d7fade29e3f4a3548b60f8c431cbf9",
+            "path": "/navi.cpp"
+        },
+        {
+            "name": "WayPoint.h",
+            "hash": "d7d42b0fb7c5917b1f196629099ff470",
+            "path": "/WayPoint.h"
+        },
+        {
+            "name": "resource.h",
+            "hash": "a7ea3468dcb44aade4a3050b53eb3de9",
+            "path": "/resource.h"
+        },
+        {
+            "name": "navi.dll",
+            "hash": "d3733fd26969ef1a4c287f4c53b376e6",
+            "path": "/release/Plugins/navi.dll"
+        }
+    ]
+}

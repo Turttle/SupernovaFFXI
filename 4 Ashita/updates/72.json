@@ -1,0 +1,22 @@
+{
+    "project_id": 72,
+    "project_path": "http://update.ffevo.net/ashita/72/",
+    "repository": {
+        "name": "GearLock",
+        "url": "ssh://git@delvl.ffevo.net:2242/plugins/gearlock.git",
+        "description": "Stops players blinking.",
+        "homepage": "http://delvl.ffevo.net/plugins/gearlock"
+    },
+    "files": [
+        {
+            "name": "GearLock.dll",
+            "hash": "7f2bf09cd688fb7df0cf1bc6bacb0555",
+            "path": "/release/plugins/GearLock.dll"
+        },
+        {
+            "name": "GearLock.txt",
+            "hash": "73e907a50c3d3f9bd746daba9b98e529",
+            "path": "/release/docs/GearLock.txt"
+        }
+    ]
+}

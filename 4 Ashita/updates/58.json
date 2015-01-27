@@ -1,0 +1,22 @@
+{
+    "project_id": 58,
+    "project_path": "http://update.ffevo.net/ashita/58/",
+    "repository": {
+        "name": "mapdot",
+        "url": "ssh://git@delvl.ffevo.net:2242/addons/mapdot.git",
+        "description": "A simple addon that allows all jobs to see the dots on the mini-map that usually only show for certain jobs.",
+        "homepage": "http://delvl.ffevo.net/addons/mapdot"
+    },
+    "files": [
+        {
+            "name": "README",
+            "hash": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "/README"
+        },
+        {
+            "name": "mapdot.lua",
+            "hash": "527e8e7ed372e3411b19da670ac7de92",
+            "path": "/mapdot.lua"
+        }
+    ]
+}

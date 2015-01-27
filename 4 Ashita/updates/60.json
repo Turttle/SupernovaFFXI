@@ -1,0 +1,27 @@
+{
+    "project_id": 60,
+    "project_path": "http://update.ffevo.net/ashita/60/",
+    "repository": {
+        "name": "Gateway",
+        "url": "ssh://git@delvl.ffevo.net:2242/addons/gateway.git",
+        "description": "Too lazy for SkeletonKey? How about every door just staying open for you without any effort on your part? If that is what you want, then Gateway is for you! Just load it up and all doors you approach should be open!",
+        "homepage": "http://delvl.ffevo.net/addons/gateway"
+    },
+    "files": [
+        {
+            "name": ".gitattributes",
+            "hash": "c3204754f376b5f810306ea5473e9251",
+            "path": "/.gitattributes"
+        },
+        {
+            "name": "README",
+            "hash": "4901c2e8d890dacc168bab69ef8d41f9",
+            "path": "/README"
+        },
+        {
+            "name": "gateway.lua",
+            "hash": "f0a58c542cc68cd82acbf2eb4f1aedaf",
+            "path": "/gateway.lua"
+        }
+    ]
+}

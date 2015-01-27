@@ -1,0 +1,81 @@
+<!--This XML can exist as Config\Ashitacast\Gear.XML or as Config\Ashitacast\Playername_Gear.XML
+-Any entries defined in Gear.XML will apply to all characters, while entries defined in specific
+player's files will not.-->
+
+<ashitacast>
+	<settings>
+		<mogsafe priority="6" />  <!--Priority must be numerical, highest numbered container with space is used.-->
+		<moglocker priority="5" />  <!--If you don't want it to use a container, just don't list it here.-->
+		<storage priority="4" />  <!--To allow a container globally, but block it in a Char_Gear.xml file, set it to 0 in the char's file-->
+		<mogcase priority="3" />
+		<mogsack priority="2" />
+		<mogsatchel priority="1" />
+		<mogwardrobe priority="0" />
+	</settings>
+
+	<inventory>
+		<item augment="D51251210">Manibozho Beret</head>
+		<item quantity="3">Echo Drops</item>
+		<item quantity="all">Holy Water</item>
+		<item>Defending Ring</item> <!--Augment and Quantity tags are both optional, and can be used together. Augment will restrict the entry to armor
+		that has the specified augment code as well as the same name.  If no quantity tag is entered, it is assumed to be 1.-->
+	</inventory>
+
+	<mogsafe>
+	</mogsafe>
+
+	<storage>
+	</storage>
+
+	<moglocker>
+	</moglocker>
+
+	<mogsatchel>
+	</mogsatchel>
+
+	<mogsack>
+	</mogsack>
+
+	<mogcase>
+	</mogcase>
+	
+	<mogwardrobe>
+	</mogwardrobe>
+
+	<event name="adl"> <!--If you type "/ac gear adl", these items will be retrieved as well.-->
+		<item>Odious Skull</item>
+		<item>Odious Blood</item>
+		<item>Odious Horn</item>
+		<item>Odious Pen</item>
+		<item>Shrouded Bijou</item>
+		<item>Fiendish Tome (26)</item>
+		<item>Fiendish Tome (27)</item>
+		<item>Fiendish Tome (28)</item>
+		<item>Fiendish Tome (29)</item>
+		<item>Fiendish Tome (30)</item>
+	</event>
+	<event name="assault">
+		<item>Leujaoam Log</item>
+		<item>Mamool Ja Journal</item>
+		<item>Lebros Chronicle</item>
+		<item>Periqia Diary</item>
+		<item>Ilrusi Ledger</item>
+	</event>
+	<event name="voidwatch">
+		<item quantity="all">Rubicund Cell</item>
+		<item quantity="all">Cobalt Cell</item>
+		<item quantity="all">Xanthous Cell</item>
+		<item quantity="all">Jade Cell</item>
+	</event>
+</ashitacast>
+
+<!--Ashitacast will manage your inventory in a preset, simple, manner.
+Any gear movement is done according to the following rules:
+-If your inventory has space and an item you need(from gear xml, inventory preset, or event gear) can be located, the item will be retrieved.
+-If you define an item twice in one container, even in different files, the higher quantity takes precedence.  They are not added together.
+-If your inventory does not have space or no items can be located, items that aren't needed by your xml/inventory preset will be stored.
+-When an item is being stored, it will be placed in the container in which it's defined above.
+-If one is not defined, or the quantity of items is higher than the defined limit for the storage container,
+it will go down priority until it reaches a container that it can access that has space in it.
+-If multiple containers have equal priority, the one with more open space will be used.
+-If no items can be stored or retrieved, the gear function will stop. -->

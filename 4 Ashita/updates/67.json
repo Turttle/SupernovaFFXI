@@ -1,0 +1,62 @@
+{
+    "project_id": 67,
+    "project_path": "http://update.ffevo.net/ashita/67/",
+    "repository": {
+        "name": "Deeps",
+        "url": "ssh://git@delvl.ffevo.net:2242/plugins/deeps.git",
+        "description": "Tracks all damage done by player entities.  Displays info as bars.  Reports damage to chat channels.",
+        "homepage": "http://delvl.ffevo.net/plugins/deeps"
+    },
+    "files": [
+        {
+            "name": ".gitignore",
+            "hash": "c0d58a9f798cbc6e78136f764d055896",
+            "path": "/.gitignore"
+        },
+        {
+            "name": "exports.def",
+            "hash": "dfef0a6a2efbbb1534116209f4f47def",
+            "path": "/Deeps/exports.def"
+        },
+        {
+            "name": "Deeps.h",
+            "hash": "48ae63fc7ecc5055cad406e57b0b9491",
+            "path": "/Deeps/Deeps.h"
+        },
+        {
+            "name": "main.cpp",
+            "hash": "2682fc4072956e5d8376a2e583eb67c8",
+            "path": "/Deeps/main.cpp"
+        },
+        {
+            "name": "DSP-Utils.h",
+            "hash": "36dcb74b3f3e872ee2bc0a66f1c6dd87",
+            "path": "/Deeps/DSP-Utils.h"
+        },
+        {
+            "name": "Deeps.vcxproj",
+            "hash": "bdf6284a50773c6061eafbc67545e7de",
+            "path": "/Deeps/Deeps.vcxproj"
+        },
+        {
+            "name": "bar.tga",
+            "hash": "5dc7837a5b9360f8ea4c0f62b6129f89",
+            "path": "/Release/Resources/Deeps/bar.tga"
+        },
+        {
+            "name": "Deeps.dll",
+            "hash": "8abdb347085ef961c7fd45841b061fa8",
+            "path": "/Release/Plugins/Deeps.dll"
+        },
+        {
+            "name": "README.md",
+            "hash": "2e803de595373c96ad9f66275afe6626",
+            "path": "/README.md"
+        },
+        {
+            "name": "Deeps.sln",
+            "hash": "e0038e3076baedf0fba7836cf53b1450",
+            "path": "/Deeps.sln"
+        }
+    ]
+}

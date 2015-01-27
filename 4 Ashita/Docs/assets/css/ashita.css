@@ -1,0 +1,278 @@
+/**
+ * Ashita.css (c) Ashita Development Team 2011-2014
+ *
+ * Basic style definitions for the documentation.
+ */
+
+ /**
+  * Header Definitions
+  */
+.container.header
+{
+    text-align      : center;
+}
+.container.header h1
+{
+    color           : #AAA;
+    text-shadow     : #FFF 0px 1px 0, #000 0 -1px 0;
+}
+.container.header #download
+{
+    font-weight     : bold;
+    font-size       : 16px;
+}
+
+ /**
+  * Index Content Definitions
+  */
+.whats-new-entries .row
+{
+    margin          : 25px;
+}
+.whats-new-entries .row  h4
+{
+    text-decoration : underline;
+}
+
+/**
+ * Changelog Content Definitions
+ *
+ * These definitions are based on changelog information from Garrys Mod.
+ * http://www.garrysmod.com/updates/
+ */
+article.release
+{
+    overflow        : hidden;
+    margin-bottom   : 25px;
+    padding-bottom  : 15px;
+    border-bottom   : 1px solid #F0F0F0;
+    width           : 1000px;
+}
+article.release:last-child
+{
+    border          : none;
+    padding-bottom  : 0;
+}
+article.release h3
+{
+    margin          : 0;
+    font-family     : Sans-Serif;
+    font-size       : 14px;
+    color           : #888888;
+    font-weight     : bold;
+}
+article.release span.date
+{
+    font-size       : 12px;
+    color           : #999;
+    margin-bottom   : 15px;
+}
+article.release h3 a
+{
+    color           : #353535 !important;
+}
+article.release h3 a:hover
+{
+    text-decoration : underline;
+}
+article.release code
+{
+    display         : block;
+    background      : #ffd;
+    border          : 1px solid #ccc;
+    white-space     : pre;
+}
+
+div.expand
+{
+    cursor          : pointer !important;
+}
+
+ul.changelist
+{
+    clear           : both;
+    list-style      : none;
+    padding-top     : 10px;
+    font-size       : 12px;
+}
+ul.changelist li
+{
+    margin-bottom   : 10px;
+    color           : #555555;
+}
+ul.changelist li span
+{
+    display         : block;
+    float           : left;
+    font-size       : 10px;
+    font-weight     : bold;
+    margin-right    : 5px;
+}
+ul.changelist li span b
+{
+    -moz-border-radius      : 3px;
+    -webkit-border-radius   : 3px;
+    border-radius           : 3px;
+    font-size       : 10px;
+    font-weight     : bold;
+    padding         : 2px 6px 2px;
+    text-transform  : uppercase;
+    color           : #fff;
+    display         : block;
+    min-width       : 35px;
+    text-align      : center;
+}
+ul.changelist li.blue span b
+{
+    background      : #1FA3E0;
+}
+ul.changelist li.green span b
+{
+    background      : #6BBD43;
+}
+ul.changelist li.teal span b
+{
+    background      : #53B9D7;
+}
+ul.changelist li.red span b
+{
+    background      : #F5252E;
+}
+ul.changelist li.gray span b
+{
+    background      : #555555;
+}
+ul.changelist li.orange span b
+{
+    background      : #FFA600;
+}
+
+/**
+ * Footer Content Definitions
+ */
+footer
+{
+    border-top      : 2px solid #FF0000;
+}
+.wrapper
+{
+    margin          : 0 auto;
+    padding         : 0;
+    width           : 100%;
+    text-align      : left;
+}
+.wrapper.footer 
+{
+    background      : #202020;
+    padding         : 30px 0;
+}
+.wrapper.footer:after 
+{
+    content         : "";
+    display         : table;
+    clear           : both;
+}
+footer .container
+{
+    padding         : 0 10px;
+    position        : relative;
+    text-align      : left;
+}
+footer .container:after
+{
+    content         : "";
+    display         : table;
+    clear           : both;
+}
+.row
+{
+    width           : 100%;
+    margin          : 0 auto;
+    position        : relative;
+    max-width       : 960px;
+}
+.row:after
+{
+    content         : "";
+    display         : table;
+    clear           : both;
+}
+.col4
+{
+    display         : inline;
+    float           : left;
+    margin-bottom   : 5px;
+    margin-top      : 5px;
+    min-height      : 1px;
+    position        : relative;
+    width           : 25%;
+}
+.col12
+{
+    display         : inline;
+    float           : left;
+    margin-left     : 2.4%;
+    margin-bottom   : 5px;
+    margin-top      : 5px;
+    min-height      : 1px;
+    position        : relative;
+    width           : 100%;
+}
+[class*="col"]:first-child
+{
+    margin-left     : 0;
+}
+footer
+{
+    font-size       : 14px;
+    font-weight     : 400;
+    color           : #FFFFFF;
+}
+footer a
+{
+    color           : #FF0000;
+    text-decoration : underline;
+    
+    -webkit-transition-property         : color, background;
+    -webkit-transition-duration         : 130ms, 130ms;
+    -webkit-transition-timing-function  : linear, ease-in;
+}
+footer h2
+{
+    border-bottom   : 1px solid #80AAFF;
+    color           : #FFFFFF;
+    display         : block;
+    font-size       : 18px;
+    font-weight     : 300;
+    margin-bottom   : 8px;
+    padding-bottom  : 10px;
+}
+footer ul, footer li
+{
+    list-style      : none;
+    margin          : 0;
+    padding         : 0;
+}
+footer .col4 a
+{
+    color           : #606060;
+    display         : block;
+    font-size       : 14px;
+    line-height     : 14px;
+    padding         : 5px 0px;
+    margin          : 0;
+    text-decoration : none;
+}
+footer .col4 a:hover
+{
+    color           : #82CAFA;
+}
+footer .col12
+{
+    border-top      : 1px solid #00FF00;
+    color           : #FFFFFF;
+    display         : block;
+    margin-left     : 0;
+    margin-top      : 20px;
+    padding-top     : 15px;
+}

@@ -1,0 +1,46 @@
+<dressme>
+
+	<priority> <!--Set the order in which your containers are filled.  Simply omit a container to remove it from the order.-->
+		<bank equiponly="true" /> <!--equiponly tag means only equippable items will be stored here.-->
+		<storage equiponly="true" />
+		<locker equiponly="true" />
+		<satchel />
+		<sack />
+		<case noequip="true" /> <!--noequip tag means that only non-equippable items will be stored here.-->
+		<wardrobe />
+	</priority>
+
+	<inventory> <!--Define items that should never be stored.-->
+	</inventory>
+
+	<bank> <!--Define items you want to always be stored in mog house.-->
+		<item>O. Bronzepiece</item>
+		<item>M. Silverpiece</item>
+		<item>R. Goldpiece</item>
+		<item>T. Whiteshell</item>
+		<item>L. Jadeshell</item>
+		<item>R. Stripeshell</item>
+		<item>1 Byne Bill</item>
+		<item>100 Byne Bill</item>
+		<item>10,000 Byne Bill</item>
+	</bank>
+
+	<storage> <!--Define items you want to always be stored in storage.-->
+	</storage>
+
+	<locker> <!--Define items you want to always be stored in locker.-->
+	</locker>
+
+	<satchel> <!--Define items you want to always be stored in satchel.-->
+	</satchel>
+
+	<sack> <!--Define items you want to always be stored in sack.-->
+	</sack>
+
+	<case> <!--Define items you want to always be stored in case.-->
+	</case>
+
+	<wardrobe> <!--Define items you want to always be stored in wardrobe.-->
+	</wardrobe>
+
+</dressme>

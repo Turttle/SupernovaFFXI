@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <setting name="ypos">-2147483648</setting>
+    <setting name="xpos">-2147483648</setting>
+    <setting name="show_both_xp_and_merits_when_capped">true</setting>
+    <setting name="font_size">11</setting>
+    <setting name="font_name">Arial</setting>
+    <setting name="auto_reset_time">45</setting>
+    <setting name="auto_reset_enabled">false</setting>
+</settings>

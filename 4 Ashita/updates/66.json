@@ -1,0 +1,87 @@
+{
+    "project_id": 66,
+    "project_path": "http://update.ffevo.net/ashita/66/",
+    "repository": {
+        "name": "Ashitacast",
+        "url": "ssh://git@delvl.ffevo.net:2242/plugins/ashitacast.git",
+        "description": "A plugin to manage gear swapping in Final Fantasy XI.",
+        "homepage": "http://delvl.ffevo.net/plugins/ashitacast"
+    },
+    "files": [
+        {
+            "name": "Ashitacast.dll",
+            "hash": "1ea107f25b0da8acb9deb8310b6b2123",
+            "path": "/release/plugins/Ashitacast.dll"
+        },
+        {
+            "name": "XML Structure.xml",
+            "hash": "f338907bf2a8f1d8d1592427c90d256f",
+            "path": "/release/docs/Ashitacast/XML Structure.xml"
+        },
+        {
+            "name": "Variables.txt",
+            "hash": "3199d071d41fd462ef5f03d8f9f3353c",
+            "path": "/release/docs/Ashitacast/Variables.txt"
+        },
+        {
+            "name": "readme.txt",
+            "hash": "755832f46e35d4d0fdc2bc3eb21657ac",
+            "path": "/release/docs/Ashitacast/readme.txt"
+        },
+        {
+            "name": "RDM.xml",
+            "hash": "02b9ef59bdb398eb2f858095f3656c9f",
+            "path": "/release/docs/Ashitacast/Sample XMLs/RDM.xml"
+        },
+        {
+            "name": "COR.xml",
+            "hash": "e2c7c5730dcf32822421ec5622d556d2",
+            "path": "/release/docs/Ashitacast/Sample XMLs/COR.xml"
+        },
+        {
+            "name": "RNG.xml",
+            "hash": "e9d2a9333df016bc0ca94c19aa3c81cb",
+            "path": "/release/docs/Ashitacast/Sample XMLs/RNG.xml"
+        },
+        {
+            "name": "THF.xml",
+            "hash": "bcbe3620adfcbd48ee02bbe97b5689e4",
+            "path": "/release/docs/Ashitacast/Sample XMLs/THF.xml"
+        },
+        {
+            "name": "NIN.xml",
+            "hash": "49ad5c9bfed8242b67e06b984c97bd1e",
+            "path": "/release/docs/Ashitacast/Sample XMLs/NIN.xml"
+        },
+        {
+            "name": "WHM.xml",
+            "hash": "37b6dcc19ab0581477a950a962b6e049",
+            "path": "/release/docs/Ashitacast/Sample XMLs/WHM.xml"
+        },
+        {
+            "name": "BRD.xml",
+            "hash": "3f9036ee7a4bf659b54d1e8605c7e7ae",
+            "path": "/release/docs/Ashitacast/Sample XMLs/BRD.xml"
+        },
+        {
+            "name": "MNK.xml",
+            "hash": "1d1cb3b13cd7f94d368b18397af5eb4c",
+            "path": "/release/docs/Ashitacast/Sample XMLs/MNK.xml"
+        },
+        {
+            "name": "SAM.xml",
+            "hash": "5429a868dd86b5078204986fe89dd919",
+            "path": "/release/docs/Ashitacast/Sample XMLs/SAM.xml"
+        },
+        {
+            "name": "SCH.xml",
+            "hash": "7a3b5a28e32acb9bee8fec1137c933a7",
+            "path": "/release/docs/Ashitacast/Sample XMLs/SCH.xml"
+        },
+        {
+            "name": "GEO.xml",
+            "hash": "de4236e08f51966830dcbedc43207f82",
+            "path": "/release/docs/Ashitacast/Sample XMLs/GEO.xml"
+        }
+    ]
+}

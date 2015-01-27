@@ -1,0 +1,30 @@
+Repeater
+
+Allows you to set a command to be executed repeatedly, set 
+how often they should be executed, and then start or stop 
+it at will.
+
+
+Load Repeater with
+/addon load repeater
+
+Commands:
+
+/repeat set <command>
+
+Sets the command you wish to be repeated. Can also change
+the command while running.
+
+/repeat start
+
+Starts executing your set command.
+
+/repeat stop
+
+Stops executing your set command.
+
+/repeat cycle #
+
+Sets how many seconds to wait before executing the next 
+repeated command. This is not sensitive to changes in
+framerate.

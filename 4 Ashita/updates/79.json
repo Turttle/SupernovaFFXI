@@ -1,0 +1,22 @@
+{
+    "project_id": 79,
+    "project_path": "http://update.ffevo.net/ashita/79/",
+    "repository": {
+        "name": "macrofix",
+        "url": "ssh://git@delvl.ffevo.net:2242/addons/macrofix.git",
+        "description": "MacroFix is an addon that alters how the macro bars show in the game. Instead of having a delay, macros are shown instantly. Original application and full credit to Sorien. Converted to an Ashita addon by atom0s.",
+        "homepage": "http://delvl.ffevo.net/addons/macrofix"
+    },
+    "files": [
+        {
+            "name": "README",
+            "hash": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "/README"
+        },
+        {
+            "name": "macrofix.lua",
+            "hash": "65e78f2143fa4d464c334c76ec64482f",
+            "path": "/macrofix.lua"
+        }
+    ]
+}

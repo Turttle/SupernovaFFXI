@@ -1,0 +1,17 @@
+{
+    "project_id": 71,
+    "project_path": "http://update.ffevo.net/ashita/71/",
+    "repository": {
+        "name": "Enternity",
+        "url": "ssh://git@delvl.ffevo.net:2242/plugins/enternity.git",
+        "description": "Removes the 'press enter' flag from cutscenes and NPC speech, allowing them to advance automatically.",
+        "homepage": "http://delvl.ffevo.net/plugins/enternity"
+    },
+    "files": [
+        {
+            "name": "Enternity.dll",
+            "hash": "4af64d763176e0619c51ee82b7734ad3",
+            "path": "/release/plugins/Enternity.dll"
+        }
+    ]
+}

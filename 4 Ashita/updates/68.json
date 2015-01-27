@@ -1,0 +1,17 @@
+{
+    "project_id": 68,
+    "project_path": "http://update.ffevo.net/ashita/68/",
+    "repository": {
+        "name": "Autojoin",
+        "url": "ssh://git@delvl.ffevo.net:2242/plugins/autojoin.git",
+        "description": "Accepts or declines party invites based on a configuration XML.",
+        "homepage": "http://delvl.ffevo.net/plugins/autojoin"
+    },
+    "files": [
+        {
+            "name": "Autojoin.dll",
+            "hash": "09e12bc139f3ca1d54db7a7d7515cf6f",
+            "path": "/release/plugins/Autojoin.dll"
+        }
+    ]
+}

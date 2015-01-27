@@ -1,0 +1,27 @@
+{
+    "project_id": 63,
+    "project_path": "http://update.ffevo.net/ashita/63/",
+    "repository": {
+        "name": "Repeater",
+        "url": "ssh://git@delvl.ffevo.net:2242/addons/repeater.git",
+        "description": "Allows you to set a command to be executed repeatedly, set how often they should be executed, and then start or stop it at will.",
+        "homepage": "http://delvl.ffevo.net/addons/repeater"
+    },
+    "files": [
+        {
+            "name": ".gitattributes",
+            "hash": "c3204754f376b5f810306ea5473e9251",
+            "path": "/.gitattributes"
+        },
+        {
+            "name": "README",
+            "hash": "60e6c04fe0ee6aa758fc57dc1996ff08",
+            "path": "/README"
+        },
+        {
+            "name": "repeater.lua",
+            "hash": "a08070485249c1ff71fbda435688c0f7",
+            "path": "/repeater.lua"
+        }
+    ]
+}

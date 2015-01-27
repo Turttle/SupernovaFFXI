@@ -1,0 +1,22 @@
+{
+    "project_id": 73,
+    "project_path": "http://update.ffevo.net/ashita/73/",
+    "repository": {
+        "name": "Lootwhore",
+        "url": "ssh://git@delvl.ffevo.net:2242/plugins/lootwhore.git",
+        "description": "Manages treasure pool, can be configured to automatically lot, pass, drop, and store items.",
+        "homepage": "http://delvl.ffevo.net/plugins/lootwhore"
+    },
+    "files": [
+        {
+            "name": "Lootwhore.dll",
+            "hash": "27a94989ac6a3bbf39c4b4aada084cbf",
+            "path": "/release/plugins/Lootwhore.dll"
+        },
+        {
+            "name": "Lootwhore.txt",
+            "hash": "1e943820c19f8407a0aa6887c9da7da7",
+            "path": "/release/docs/Lootwhore.txt"
+        }
+    ]
+}

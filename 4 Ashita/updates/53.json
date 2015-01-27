@@ -1,0 +1,22 @@
+{
+    "project_id": 53,
+    "project_path": "http://update.ffevo.net/ashita/53/",
+    "repository": {
+        "name": "CFHBlock",
+        "url": "ssh://git@delvl.ffevo.net:2242/addons/cfhblock.git",
+        "description": "A simple addon that blocks call for help packets from being sent.",
+        "homepage": "http://delvl.ffevo.net/addons/cfhblock"
+    },
+    "files": [
+        {
+            "name": "README",
+            "hash": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "/README"
+        },
+        {
+            "name": "cfhblock.lua",
+            "hash": "e1b36986699612dc7d874eb2155e5015",
+            "path": "/cfhblock.lua"
+        }
+    ]
+}

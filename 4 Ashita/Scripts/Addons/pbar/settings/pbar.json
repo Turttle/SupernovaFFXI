@@ -1,0 +1,19 @@
+{
+    "color": {
+                    "hp_color": "255,255,255",
+                 "hp_color_25": "255,0,0",
+                 "hp_color_50": "255,165,0",
+                 "hp_color_75": "255,255,0",
+                    "tp_color": "255,255,255",
+                 "tp_color_99": "255,0,0"
+             },
+     "font": {
+                   "bgcolor": 2147483648,
+                 "bgvisible": true,
+                      "bold": true,
+                     "color": 4294967295,
+                      "name": "Arial",
+                  "position": [ 7, 120 ],
+                      "size": 10
+             }
+}

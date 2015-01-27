@@ -1,0 +1,22 @@
+{
+    "project_id": 51,
+    "project_path": "http://update.ffevo.net/ashita/51/",
+    "repository": {
+        "name": "recast",
+        "url": "ssh://git@delvl.ffevo.net:2242/addons/recast.git",
+        "description": "Recast addon to monitor ability and spell cooldowns.",
+        "homepage": "http://delvl.ffevo.net/addons/recast"
+    },
+    "files": [
+        {
+            "name": "README",
+            "hash": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "/README"
+        },
+        {
+            "name": "recast.lua",
+            "hash": "ad43b3111f3ec0259be78678ac278cda",
+            "path": "/recast.lua"
+        }
+    ]
+}

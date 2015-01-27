@@ -1,0 +1,17 @@
+{
+    "project_id": 75,
+    "project_path": "http://update.ffevo.net/ashita/75/",
+    "repository": {
+        "name": "StatusTimers",
+        "url": "ssh://git@delvl.ffevo.net:2242/plugins/statustimers.git",
+        "description": "Displays timers above each of your buffs, indicating how long they've been active.  Can be configured to show countdown.",
+        "homepage": "http://delvl.ffevo.net/plugins/statustimers"
+    },
+    "files": [
+        {
+            "name": "StatusTimers.dll",
+            "hash": "043ea9a9d47a36c9c7ebe665afb73352",
+            "path": "/release/Plugins/StatusTimers.dll"
+        }
+    ]
+}

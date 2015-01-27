@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <setting name="flag">GM</setting>
+    <setting name="enable_ja0wait">false</setting>
+    <setting name="enable_flag">true</setting>
+    <setting name="enable_Speed">false</setting>
+    <setting name="Speed">4</setting>
+</settings>

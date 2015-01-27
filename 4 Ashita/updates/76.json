@@ -1,0 +1,52 @@
+{
+    "project_id": 76,
+    "project_path": "http://update.ffevo.net/ashita/76/",
+    "repository": {
+        "name": "Novo",
+        "url": "ssh://git@delvl.ffevo.net:2242/plugins/novo.git",
+        "description": "You can edit your Status, enable Ja0Wait and set your icon to Gm,Staff,SE and NoClip, Flag- NoClip will  allow you to walk through objects (doors,walls etc.).",
+        "homepage": "http://delvl.ffevo.net/plugins/novo"
+    },
+    "files": [
+        {
+            "name": "exports.def",
+            "hash": "2df4210c33b090c15fb2f8f0d03544ee",
+            "path": "/exports.def"
+        },
+        {
+            "name": "Novo.sln",
+            "hash": "53e232487da8c956bd4b60f7a0ee64b4",
+            "path": "/Novo.sln"
+        },
+        {
+            "name": "Novo.vcxproj",
+            "hash": "206e89acb32e5eae242845e4b2b3e778",
+            "path": "/Novo.vcxproj"
+        },
+        {
+            "name": "main.cpp",
+            "hash": "26053f75735e38a8a7c564cc8342e466",
+            "path": "/main.cpp"
+        },
+        {
+            "name": "Novo.v12.suo",
+            "hash": "c1d7700e0711200b55e3c6a21e161424",
+            "path": "/Novo.v12.suo"
+        },
+        {
+            "name": "Novo.h",
+            "hash": "249582d9694f7af953e76b428bf880c1",
+            "path": "/Novo.h"
+        },
+        {
+            "name": "Novo.vcxproj.filters",
+            "hash": "4b9fb9cb3f18d45beeceb7e96ff620da",
+            "path": "/Novo.vcxproj.filters"
+        },
+        {
+            "name": "Novo.dll",
+            "hash": "a7763161808cf6915bbd0202c62ae713",
+            "path": "/release/Plugins/Novo.dll"
+        }
+    ]
+}

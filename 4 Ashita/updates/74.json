@@ -1,0 +1,27 @@
+{
+    "project_id": 74,
+    "project_path": "http://update.ffevo.net/ashita/74/",
+    "repository": {
+        "name": "Shorthand",
+        "url": "ssh://git@delvl.ffevo.net:2242/plugins/shorthand.git",
+        "description": "Allows you to skip punctuation and spaces when typing spell names.  Allows partial target names(player or mob).",
+        "homepage": "http://delvl.ffevo.net/plugins/shorthand"
+    },
+    "files": [
+        {
+            "name": "Settings XML Structure.xml",
+            "hash": "0f5e1528a5c67c282482b99569d627f9",
+            "path": "/release/docs/Shorthand/Settings XML Structure.xml"
+        },
+        {
+            "name": "readme.txt",
+            "hash": "cf84be76467c3d239ecdb31f9e65abe4",
+            "path": "/release/docs/Shorthand/readme.txt"
+        },
+        {
+            "name": "Shorthand.dll",
+            "hash": "7fa4aa1c113df94e6151e482c60af340",
+            "path": "/release/Plugins/Shorthand.dll"
+        }
+    ]
+}

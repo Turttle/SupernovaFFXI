@@ -1,0 +1,62 @@
+{
+    "project_id": 42,
+    "project_path": "http://update.ffevo.net/ashita/42/",
+    "repository": {
+        "name": "WatchEXP",
+        "url": "ssh://git@delvl.ffevo.net:2242/plugins/watchexp.git",
+        "description": "WatchEXP allows you to watch how much EXP or Merit Points you're gaining, as well as shows other information such as time left in abyssea, lights accrued and dynamis time extensions.",
+        "homepage": "http://delvl.ffevo.net/plugins/watchexp"
+    },
+    "files": [
+        {
+            "name": "README",
+            "hash": "1af9f4677f20976fa66f13b1635af54f",
+            "path": "/README"
+        },
+        {
+            "name": "WatchEXP.vcxproj.filters",
+            "hash": "87ecdf4d073d49bd0205f86960740ec3",
+            "path": "/WatchEXP/WatchEXP.vcxproj.filters"
+        },
+        {
+            "name": "exports.def",
+            "hash": "03fd0e0518bfaa8c6bc8b4f345b7727a",
+            "path": "/WatchEXP/exports.def"
+        },
+        {
+            "name": "CommandParse.h",
+            "hash": "0d4d3dc8453125315938a5d77d7c10ab",
+            "path": "/WatchEXP/CommandParse.h"
+        },
+        {
+            "name": "WatchEXP.cpp",
+            "hash": "00c71d2168c75f1bf2d3ec13bf482e78",
+            "path": "/WatchEXP/WatchEXP.cpp"
+        },
+        {
+            "name": "WatchEXP.vcxproj.user",
+            "hash": "8ca0a4e2472203eafd6eafe89d6eefcd",
+            "path": "/WatchEXP/WatchEXP.vcxproj.user"
+        },
+        {
+            "name": "WatchEXP.vcxproj",
+            "hash": "0b087900a89ceab1b4611ea45376db1c",
+            "path": "/WatchEXP/WatchEXP.vcxproj"
+        },
+        {
+            "name": "WatchEXP.h",
+            "hash": "5b346baf0a054be74e1417c866f170fe",
+            "path": "/WatchEXP/WatchEXP.h"
+        },
+        {
+            "name": "WatchEXP.sln",
+            "hash": "956b5bc439b21f6e6c3bc465041860a0",
+            "path": "/WatchEXP.sln"
+        },
+        {
+            "name": "WatchEXP.dll",
+            "hash": "4093b3916c394113d083c1d19601a41e",
+            "path": "/release/Plugins/WatchEXP.dll"
+        }
+    ]
+}

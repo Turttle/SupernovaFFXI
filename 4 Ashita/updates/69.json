@@ -1,0 +1,32 @@
+{
+    "project_id": 69,
+    "project_path": "http://update.ffevo.net/ashita/69/",
+    "repository": {
+        "name": "Dressme",
+        "url": "ssh://git@delvl.ffevo.net:2242/plugins/dressme.git",
+        "description": "Automatically gathers gear based on either your Ashitacast XML or a seperate configuration XML.",
+        "homepage": "http://delvl.ffevo.net/plugins/dressme"
+    },
+    "files": [
+        {
+            "name": "DressMe.dll",
+            "hash": "642042180e894669418bd84ab0fe651e",
+            "path": "/release/plugins/DressMe.dll"
+        },
+        {
+            "name": "Settings Structure.xml",
+            "hash": "642197ce0376be439ce32a389478d0ca",
+            "path": "/release/docs/Dressme/Settings Structure.xml"
+        },
+        {
+            "name": "Profile Structure.xml",
+            "hash": "04df20f0447970484a6deb93df2b35ad",
+            "path": "/release/docs/Dressme/Profile Structure.xml"
+        },
+        {
+            "name": "readme.txt",
+            "hash": "78458a04d3a646f355a4a495c3af7cd9",
+            "path": "/release/docs/Dressme/readme.txt"
+        }
+    ]
+}

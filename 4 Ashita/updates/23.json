@@ -1,0 +1,22 @@
+{
+    "project_id": 23,
+    "project_path": "http://update.ffevo.net/ashita/23/",
+    "repository": {
+        "name": "pbar",
+        "url": "ssh://git@delvl.ffevo.net:2242/addons/pbar.git",
+        "description": "pbar is a v2 addon for displaying pet information for beastmaster's and pupetmaster's",
+        "homepage": "http://delvl.ffevo.net/addons/pbar"
+    },
+    "files": [
+        {
+            "name": "README",
+            "hash": "4b712a2438eb3148194196890f1d4317",
+            "path": "/README"
+        },
+        {
+            "name": "pbar.lua",
+            "hash": "c7768cb5a01474982e5110b9ac35ae3f",
+            "path": "/pbar.lua"
+        }
+    ]
+}

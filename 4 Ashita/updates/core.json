@@ -1,0 +1,452 @@
+{
+    "project_id": 15,
+    "project_path": "http://update.ffevo.net/ashita/15/",
+    "repository": {
+        "name": "Ashita v2",
+        "url": "ssh://git@delvl.ffevo.net:2242/atom0s/ashita-v2.git",
+        "description": "Public releases of Ashita v2",
+        "homepage": "http://delvl.ffevo.net/atom0s/ashita-v2"
+    },
+    "files": [
+        {
+            "name": "Distance.lua",
+            "hash": "1b00b39b3bef2446678982a61fcdfd1b",
+            "path": "/Scripts/addons/Distance/Distance.lua"
+        },
+        {
+            "name": "fps.lua",
+            "hash": "daf5a34f9365021cd46b873042733446",
+            "path": "/Scripts/addons/FPS/fps.lua"
+        },
+        {
+            "name": "tableex.lua",
+            "hash": "08445ab37cd3fb82482d5fc81f4a2798",
+            "path": "/Scripts/addons/libs/tableex.lua"
+        },
+        {
+            "name": "json.lua",
+            "hash": "01d384820e2286673109fd777f41d18e",
+            "path": "/Scripts/addons/libs/json/json.lua"
+        },
+        {
+            "name": "common.lua",
+            "hash": "3cc80855723a52eb8fb0d91a69449612",
+            "path": "/Scripts/addons/libs/common.lua"
+        },
+        {
+            "name": "packet.lua",
+            "hash": "347dd05f52c7c087aa6564032dc3d52c",
+            "path": "/Scripts/addons/libs/packet.lua"
+        },
+        {
+            "name": "log.lua",
+            "hash": "a35f3413830d9750adbdc852530ab907",
+            "path": "/Scripts/addons/libs/log.lua"
+        },
+        {
+            "name": "color.lua",
+            "hash": "b36e6835d4299ed274f0125166f08ec8",
+            "path": "/Scripts/addons/libs/color.lua"
+        },
+        {
+            "name": "events.lua",
+            "hash": "8315f436d64a3234bb6663c802786622",
+            "path": "/Scripts/addons/libs/events.lua"
+        },
+        {
+            "name": "mathex.lua",
+            "hash": "205ad32d591791b42032f9d2d110b4d2",
+            "path": "/Scripts/addons/libs/mathex.lua"
+        },
+        {
+            "name": "common.lua",
+            "hash": "545676ec851ba3d39b6799624a2f9913",
+            "path": "/Scripts/addons/libs/ffxi/common.lua"
+        },
+        {
+            "name": "recast.lua",
+            "hash": "7341e83daaa7946644b6e1e39903711f",
+            "path": "/Scripts/addons/libs/ffxi/recast.lua"
+        },
+        {
+            "name": "target.lua",
+            "hash": "0a7e48707b5f23bdb8b8a2f89654022b",
+            "path": "/Scripts/addons/libs/ffxi/target.lua"
+        },
+        {
+            "name": "vanatime.lua",
+            "hash": "a356b23c7661f24ab28ad69e2581195f",
+            "path": "/Scripts/addons/libs/ffxi/vanatime.lua"
+        },
+        {
+            "name": "weather.lua",
+            "hash": "031d909d79da3fc1a4bbdc76b770df76",
+            "path": "/Scripts/addons/libs/ffxi/weather.lua"
+        },
+        {
+            "name": "timer.lua",
+            "hash": "526630fcd054e44b29feef5a42c9c009",
+            "path": "/Scripts/addons/libs/timer.lua"
+        },
+        {
+            "name": "stringex.lua",
+            "hash": "7bbe3dc6852cd0651ac2d6b30f373035",
+            "path": "/Scripts/addons/libs/stringex.lua"
+        },
+        {
+            "name": "settings.lua",
+            "hash": "3f5f41dec0fdf4618770a01ca63b75d9",
+            "path": "/Scripts/addons/libs/settings.lua"
+        },
+        {
+            "name": "timestamp.lua",
+            "hash": "4a507c2c52cbdde6813110a5e2851a1a",
+            "path": "/Scripts/addons/Timestamp/timestamp.lua"
+        },
+        {
+            "name": "TParty.lua",
+            "hash": "58ebdc12956abf018c4ed7048be19ddf",
+            "path": "/Scripts/addons/TParty/TParty.lua"
+        },
+        {
+            "name": "drawdistance.lua",
+            "hash": "a788188c89514a55f89e3a79699b78d7",
+            "path": "/Scripts/addons/DrawDistance/drawdistance.lua"
+        },
+        {
+            "name": ".gitignore",
+            "hash": "b9aba4c5c73d027e7359e23abfe42dbf",
+            "path": "/.gitignore"
+        },
+        {
+            "name": "pol.exe",
+            "hash": "0518d0ba2a67d4ac08b648f2c0af2f4f",
+            "path": "/ffxi-bootmod/pol.exe"
+        },
+        {
+            "name": "ashita.datmap.xml",
+            "hash": "9eca0972d31759cffd5dafea1b21b73d",
+            "path": "/Config/ashita.datmap.xml"
+        },
+        {
+            "name": "ashita.pointers.xml",
+            "hash": "98ecc644ffe8a13257c8d6779679721b",
+            "path": "/Config/ashita.pointers.xml"
+        },
+        {
+            "name": "index.html",
+            "hash": "8cacebb4455c10253b305adb6d09e2e5",
+            "path": "/Docs/index.html"
+        },
+        {
+            "name": "jquery-2.1.0.min.js",
+            "hash": "5ca7582261c421482436dfdf3af9bffe",
+            "path": "/Docs/assets/js/jquery-2.1.0.min.js"
+        },
+        {
+            "name": "bootstrap.min.js",
+            "hash": "ba847811448ef90d98d272aeccef2a95",
+            "path": "/Docs/assets/js/bootstrap.min.js"
+        },
+        {
+            "name": "fontawesome-webfont.ttf",
+            "hash": "dcb26c7239d850266941e80370e207c1",
+            "path": "/Docs/assets/fonts/fontawesome-webfont.ttf"
+        },
+        {
+            "name": "glyphicons-halflings-regular.ttf",
+            "hash": "e49d52e74b7689a0727def99da31f3eb",
+            "path": "/Docs/assets/fonts/glyphicons-halflings-regular.ttf"
+        },
+        {
+            "name": "csstableless.gif",
+            "hash": "f185f19a6a9c07487ac8f555eff22c29",
+            "path": "/Docs/assets/csstableless.gif"
+        },
+        {
+            "name": "valid-css.png",
+            "hash": "0ef556da42bee2d7b1c63f6a55209be7",
+            "path": "/Docs/assets/valid-css.png"
+        },
+        {
+            "name": "valid-html5.png",
+            "hash": "ea9071db0e91341cede81529a1e80eb3",
+            "path": "/Docs/assets/valid-html5.png"
+        },
+        {
+            "name": "ashita.css",
+            "hash": "0cea14f05bb7b8aad2b92d2ac616cce4",
+            "path": "/Docs/assets/css/ashita.css"
+        },
+        {
+            "name": "bootstrap.min.css",
+            "hash": "8a7442ca6bedd62cec4881040b9a9e83",
+            "path": "/Docs/assets/css/bootstrap.min.css"
+        },
+        {
+            "name": "bootstrap-theme.min.css",
+            "hash": "ddbca5c2c952b7e52496bfd8ca81aaeb",
+            "path": "/Docs/assets/css/bootstrap-theme.min.css"
+        },
+        {
+            "name": "font-awesome.min.css",
+            "hash": "fa6868c22ceca7f65191ec25c68a9bb5",
+            "path": "/Docs/assets/css/font-awesome.min.css"
+        },
+        {
+            "name": "Ashita.ico",
+            "hash": "c279369c4a9e28a6d36e07cf512eb471",
+            "path": "/Docs/assets/Ashita.ico"
+        },
+        {
+            "name": "shadow.png",
+            "hash": "c15de45226010da6e9a3dfd9b5c3d3c0",
+            "path": "/Docs/assets/shadow.png"
+        },
+        {
+            "name": "changelog.html",
+            "hash": "ab79787ee99db33790b31b916826dc7b",
+            "path": "/Docs/changelog.html"
+        },
+        {
+            "name": "Ashita.dll",
+            "hash": "f55e0e9fc823fc0dfe3ed0cb0e244157",
+            "path": "/Ashita.dll"
+        },
+        {
+            "name": "AS_Data.h",
+            "hash": "18a82b726b40c03457e1b24ab1424b01",
+            "path": "/Plugins/ADK/AS_Data.h"
+        },
+        {
+            "name": "AS_Exception.h",
+            "hash": "cde0dc885642dd77e9dea10373254991",
+            "path": "/Plugins/ADK/AS_Exception.h"
+        },
+        {
+            "name": "AS_WindowProps.h",
+            "hash": "9ddbb489d1c216373e4b5e7dc88a3a0c",
+            "path": "/Plugins/ADK/AS_WindowProps.h"
+        },
+        {
+            "name": "AS_Registry.h",
+            "hash": "5c3cd3a419441148f5b635677ed397ad",
+            "path": "/Plugins/ADK/AS_Registry.h"
+        },
+        {
+            "name": "d3dx8mesh.h",
+            "hash": "f2451535b3c238d2f028f04ac8180f4e",
+            "path": "/Plugins/ADK/d3d8/includes/d3dx8mesh.h"
+        },
+        {
+            "name": "d3d8.h",
+            "hash": "e5581660886a274a1f0bcadce2f8ce13",
+            "path": "/Plugins/ADK/d3d8/includes/d3d8.h"
+        },
+        {
+            "name": "d3dx8tex.h",
+            "hash": "019bbbfbc3172640bf60eeb55180243a",
+            "path": "/Plugins/ADK/d3d8/includes/d3dx8tex.h"
+        },
+        {
+            "name": "d3d8caps.h",
+            "hash": "99f60a4f35945074d275d1a02be21e0d",
+            "path": "/Plugins/ADK/d3d8/includes/d3d8caps.h"
+        },
+        {
+            "name": "d3dx8shape.h",
+            "hash": "ef48179ffba7645578c854d1719a7334",
+            "path": "/Plugins/ADK/d3d8/includes/d3dx8shape.h"
+        },
+        {
+            "name": "d3dx8math.inl",
+            "hash": "251ce4d836a78bb0c529329c097f034c",
+            "path": "/Plugins/ADK/d3d8/includes/d3dx8math.inl"
+        },
+        {
+            "name": "d3dx8.h",
+            "hash": "3e93703326994864e69cb1c9f3bf4864",
+            "path": "/Plugins/ADK/d3d8/includes/d3dx8.h"
+        },
+        {
+            "name": "d3d8types.h",
+            "hash": "ccaf52a18db89377c5e1604f6087fd0f",
+            "path": "/Plugins/ADK/d3d8/includes/d3d8types.h"
+        },
+        {
+            "name": "dxfile.h",
+            "hash": "eb7462711d21da961a7537b21c33ec65",
+            "path": "/Plugins/ADK/d3d8/includes/dxfile.h"
+        },
+        {
+            "name": "dinput.h",
+            "hash": "74a2eaf084aea763eb146c365b0bc4fd",
+            "path": "/Plugins/ADK/d3d8/includes/dinput.h"
+        },
+        {
+            "name": "d3dx8math.h",
+            "hash": "160c52d49d90417698b3fe1342a34dd2",
+            "path": "/Plugins/ADK/d3d8/includes/d3dx8math.h"
+        },
+        {
+            "name": "d3dx8core.h",
+            "hash": "1e85b81568643fbb703b121bae4b28ba",
+            "path": "/Plugins/ADK/d3d8/includes/d3dx8core.h"
+        },
+        {
+            "name": "dxerr8.h",
+            "hash": "2848bf2102e21e8b350d9f70ee764cc7",
+            "path": "/Plugins/ADK/d3d8/includes/dxerr8.h"
+        },
+        {
+            "name": "d3dx8effect.h",
+            "hash": "08fcb08fb9285563def57d4b4bfbcefc",
+            "path": "/Plugins/ADK/d3d8/includes/d3dx8effect.h"
+        },
+        {
+            "name": "dxguid.lib",
+            "hash": "dd35d94f2d35d27ba8ae545afc0f2e99",
+            "path": "/Plugins/ADK/d3d8/lib/dxguid.lib"
+        },
+        {
+            "name": "DxErr8.lib",
+            "hash": "7e202cad8eae0492354aa7d6e3de8f2d",
+            "path": "/Plugins/ADK/d3d8/lib/DxErr8.lib"
+        },
+        {
+            "name": "d3dx8.lib",
+            "hash": "cc70c4a50075e8715a1dec6d87f26370",
+            "path": "/Plugins/ADK/d3d8/lib/d3dx8.lib"
+        },
+        {
+            "name": "d3d8.lib",
+            "hash": "818d03811cf8fee9853cf541f5f89414",
+            "path": "/Plugins/ADK/d3d8/lib/d3d8.lib"
+        },
+        {
+            "name": "target.h",
+            "hash": "d72cf85f1e090ce620a4037a1b6568fe",
+            "path": "/Plugins/ADK/ffxi/target.h"
+        },
+        {
+            "name": "enums.h",
+            "hash": "ab16aba15f9b23998a9e94397411cb4b",
+            "path": "/Plugins/ADK/ffxi/enums.h"
+        },
+        {
+            "name": "inventory.h",
+            "hash": "626fc2b211517dfe5f591bfe4079da87",
+            "path": "/Plugins/ADK/ffxi/inventory.h"
+        },
+        {
+            "name": "entity.h",
+            "hash": "7be39c037d832ed67124f65b7a91a905",
+            "path": "/Plugins/ADK/ffxi/entity.h"
+        },
+        {
+            "name": "player.h",
+            "hash": "1252090d3177da18dddbb2bbc07a9c3b",
+            "path": "/Plugins/ADK/ffxi/player.h"
+        },
+        {
+            "name": "party.h",
+            "hash": "81fe16b3085aaa0a9314fa8e3ad7379c",
+            "path": "/Plugins/ADK/ffxi/party.h"
+        },
+        {
+            "name": "Ashita.h",
+            "hash": "1e1d9a94be067a7b88a7b4e3c4ada432",
+            "path": "/Plugins/ADK/Ashita.h"
+        },
+        {
+            "name": "newIDirectInputDevice8A.h",
+            "hash": "093e062c3d6498259c175eef213c1d30",
+            "path": "/Plugins/ADK/newIDirectInputDevice8A.h"
+        },
+        {
+            "name": "AS_Rect.h",
+            "hash": "04de3d06214736cac297eb57d41a89a6",
+            "path": "/Plugins/ADK/AS_Rect.h"
+        },
+        {
+            "name": "AS_Memory.h",
+            "hash": "ebfa73a314150bdd11ed1cf14ef094a1",
+            "path": "/Plugins/ADK/AS_Memory.h"
+        },
+        {
+            "name": "AS_String.h",
+            "hash": "dcad94b347cadccd5b9bde8d9e4c8537",
+            "path": "/Plugins/ADK/AS_String.h"
+        },
+        {
+            "name": "AS_Event.h",
+            "hash": "937979f6212dfba2beae2878833c2494",
+            "path": "/Plugins/ADK/AS_Event.h"
+        },
+        {
+            "name": "AS_LockableObject.h",
+            "hash": "4f2ff24a928cfac1cbb7a8138fc4aef1",
+            "path": "/Plugins/ADK/AS_LockableObject.h"
+        },
+        {
+            "name": "AS_Thread.h",
+            "hash": "70246b67eff036cacd5cbf10cc17355a",
+            "path": "/Plugins/ADK/AS_Thread.h"
+        },
+        {
+            "name": "AS_CommandParse.h",
+            "hash": "f997a88af8a784e84fdbc7159b864b7f",
+            "path": "/Plugins/ADK/AS_CommandParse.h"
+        },
+        {
+            "name": "Screenshot.dll",
+            "hash": "4be0faf90bad146c3da6b0c9b064fd06",
+            "path": "/Plugins/Screenshot.dll"
+        },
+        {
+            "name": "Addons.dll",
+            "hash": "0a75d524e4c92a9bb588ca3260bbc19c",
+            "path": "/Plugins/Addons.dll"
+        },
+        {
+            "name": "Timestamp.dll",
+            "hash": "a960ad4f3efacaac357ab3333fc9badb",
+            "path": "/Plugins/Timestamp.dll"
+        },
+        {
+            "name": "ItemTools.dll",
+            "hash": "9a00429c303fe77028c66d0d5a166e05",
+            "path": "/Plugins/ItemTools.dll"
+        },
+        {
+            "name": "WindowerInput.dll",
+            "hash": "1015966cfdab91eceebc1778ccdfaaf9",
+            "path": "/Plugins/WindowerInput.dll"
+        },
+        {
+            "name": "Stfu.dll",
+            "hash": "add1114b25e41608bcbfb2ae8a896a5d",
+            "path": "/Plugins/Stfu.dll"
+        },
+        {
+            "name": "Peekaboo.dll",
+            "hash": "2f532210664bf04788b5be31acbe371b",
+            "path": "/Plugins/Peekaboo.dll"
+        },
+        {
+            "name": "SexChange.dll",
+            "hash": "56001806cad0858e52fef1e7f099fa87",
+            "path": "/Plugins/SexChange.dll"
+        },
+        {
+            "name": "WatchDog.dll",
+            "hash": "67e60b9c499afbde553fac606f081d15",
+            "path": "/Plugins/WatchDog.dll"
+        },
+        {
+            "name": "Paste.dll",
+            "hash": "d43e03516cd8bc2cb718690e90c5f399",
+            "path": "/Plugins/Paste.dll"
+        }
+    ]
+}

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!-- See that document tag above?  That should be included at the beginning of every Ashitacast script. -->
+<!-- It helps if you need to run your script through an XML validator to see if you messed up anything. -->
+
+
+<!--
+===============================================================================
+Korietsu's RDM script for Ashitacast
+v1K, 01/22/14
+
+Changes:
+* Added custom single effect spells. 
+
+To do:
+* Customize Elemental Dots /BLM, customize constant spellset. 
+* Buff checking for sneak/invis. 
+===============================================================================
+-->
+<ashitacast>
+
+<settings>
+<autoupdate>true</autoupdate>
+</settings>
+<sets>
+	<set name="Standing">
+		<main>Terra's Staff</main>
+		<sub>Bugard Strap +1</sub>
+		<range>Lamian Kaman +1</range>
+		<head>Dls. Chapeau +1</head>
+		<neck>Enfeebling Torque</neck>
+		<lear>Antivenom Earring</lear>
+		<rear>Celestial Earring</rear>
+		<body>Dalmatica +1</body>
+		<hands>Dls. Gloves +1</hands>
+		<rring>Celestial Ring</rring>
+		<lring>Celestial Ring</lring>
+		<back>Prism Cape</back>
+		<waist>Witch Sash</waist>
+		<legs>Blood Cuisses</legs>
+		<feet>Dls. Boots +1</feet>
+	</set>
+	<set name="NinCast">
+		<head>Warlock's Chapeau</head>
+		<waist>Sonic Belt +1</waist>
+		<body>Dls. Tabard +1</body>
+		<hands>Dusk Gloves +1</hands>
+		<feet>Dusk Ledelsens +1</feet>
+	</set>
+	<set name="TP">
+		<main>Excalibur</main>
+		<sub>Joyeuse</sub>
+		<range>Failnaught</range>
+		<head>Walahra Turban</head>
+		<neck>Chivalrous Chain</neck>
+		<lear>Harmonius Earring</lear>
+		<rear>Suppanomimi</rear>
+		<body>Antares Harness</body>
+		<hands>Dusk Gloves +1</hands>
+		<rring>Rajas Ring</rring>
+		<lring>Toreador's Ring</lring>
+		<back>Cerb. Mantle +1</back>
+		<waist>Sonic Belt +1</waist>
+		<legs>Dusk Trousers +1</legs>
+		<feet>Dusk Ledelsens +1</feet>
+	</set>
+	<set name="Enfeeble_INT">
+		<range>Aureole</range>
+		<head>Dls. Chapeau +1</head>
+		<neck>Enfeebling Torque</neck>
+		<rear>Enfeebling Earring</rear>
+		<lear>Phtm. Earring +1</lear>
+		<body>Wlk. Tabard +1</body>
+		<hands>Dls. Gloves +1</hands>
+		<rring>Omn. Ring +1</rring>
+		<lring>Onm. Ring +1</lring>		
+		<back>Prism Cape</back>
+		<waist>Witch Sash</waist>
+		<legs>Mahatma Slops</legs>
+		<feet>Goliard Clogs</feet>		
+	</set>
+	<set name="Enfeeble_MND">
+		<range>Aureole</range>
+		<head>Dls. Chapeau +1</head>
+		<neck>Enfeebling Torque</neck>
+		<rear>Enfeebling Earring</rear>
+		<lear>Celestial Earring</lear>
+		<body>Wlk. Tabard +1</body>
+		<hands>Bricta's Cuffs</hands>
+		<rring>Celestial Ring</rring>
+		<lring>Celestial Ring</lring>		
+		<back>Prism Cape</back>
+		<waist>Witch Sash</waist>
+		<legs>Mahatma Slops</legs>
+		<feet>Mahatma Pigaches</feet>	
+	</set>	
+	<set name="Elemental">
+		<ammo>Aureole</ammo>
+		<sub>Bugard Strap +1</sub>
+		<head>Warlock's Chapeau</head>
+		<neck>Lmg. Medallion +1</neck>
+		<rear>Elemental Earring</rear>
+		<lear>Moldavite Earring</lear>
+		<body>Blood Scale Mail</body>
+		<hands>Zenith Mitts +1</hands>
+		<rring>Omn. Ring +1</rring>
+		<lring>Omn. Ring +1</lring>		
+		<back>Hecate's Cape</back>
+		<waist>Witch Sash</waist>
+		<legs>Dls. Tights +1</legs>
+		<feet>Dls. Boots +1</feet>		
+	</set>
+	<set name="Elemental_Blizzard">
+		<main>Aquilo's Staff</main>
+		<ammo>Aureole</ammo>
+		<sub>Bugard Strap +1</sub>
+		<head>Warlock's Chapeau</head>
+		<neck>Lmg. Medallion +1</neck>
+		<rear>Elemental Earring</rear>
+		<lear>Moldavite Earring</lear>
+		<body>Blood Scale Mail</body>
+		<hands>Zenith Mitts +1</hands>
+		<rring>Omn. Ring +1</rring>
+		<lring>Omn. Ring +1</lring>		
+		<back>Hecate's Cape</back>
+		<waist>Witch Sash</waist>
+		<legs>Dls. Tights +1</legs>
+		<feet>Dls. Boots +1</feet>			
+	</set>
+	<set name="Healing">
+		<ammo>Aureole</ammo>
+		<head>Dls. Chapeau +1</head>
+		<neck>Fylgja Torque +1</neck>
+		<rear>Healing Earring</rear>
+		<lear>Roundel Earring</lear>
+		<body>Dalmatica +1</body>
+		<hands>Marine M Gloves</hands>
+		<rring>Celestial Ring</rring>
+		<lring>Celestial Ring</lring>	
+		<back>Prism Cape</back>
+		<waist>Qiqirn Sash +1</waist>
+		<legs>Blood Cuisses</legs>
+		<feet>Mahatma Pigaches</feet>
+	</set>	
+	<set name="Dark">
+		<ammo>Aureole</ammo>
+		<head>Dls. Chapeau +1</head>
+		<neck>Dark Torque</neck>
+		<rear>Dark Earring</rear>
+		<lear>Phtm. Earring +1</lear>
+		<body>Dalmatica +1</body>
+		<hands>Blood Fng. Gnt.</hands>
+		<rring>Genius Ring +1</rring>
+		<lring>Genius Ring +1</lring>		
+		<back>Prism Cape</back>
+		<waist>Witch Sash</waist>
+		<legs>Mahatma Slops</legs>
+		<feet>Goliard Clogs</feet>	
+	</set>	
+	<set name="Enhance">
+		<ammo>Aureole</ammo>
+		<head>Dls. Chapeau +1</head>
+		<neck>Enhancing Torque</neck>
+		<rear>Augment. Earring</rear>
+		<lear>Celestial Earring</lear>
+		<body>Dalmatica +1</body>
+		<hands>Dls. Gloves +1</hands>
+		<rring>Celestial Ring</rring>
+		<lring>Celestial Ring</lring>		
+		<back>Prism Cape</back>
+		<waist>Witch Sash</waist>
+		<legs>Warlock's Tights</legs>
+		<feet>Dls. Boots +1</feet>	
+	</set>	
+	<set name="Stoneskin">
+		<ammo>Aureole</ammo>
+		<head>Dls. Chapeau +1</head>
+		<neck>Holy Phial</neck>
+		<rear>Augment. Earring</rear>
+		<lear>Celestial Earring</lear>
+		<body>Blood Scale Mail</body>
+		<hands>Dls. Gloves +1</hands>
+		<rring>Celestial Ring</rring>
+		<lring>Celestial Ring</lring>		
+		<back>Prism Cape</back>
+		<waist>Witch Sash</waist>
+		<legs>Warlock's Tights</legs>
+		<feet>Mahatma Pigaches</feet>	
+	</set>	
+	<set name="Precast">
+		<head>Warlock's Chapeau</head>
+		<body>Dls. Tabard +1</body>
+		<lear>Loquac. Earring</lear>
+	</set>
+	<set name="HMP">
+		<main>Chatoyant Staff</main>
+		<ammo>Aureole</ammo>
+		<head>Dls. Chapeau +1</head>
+		<neck>Holy Phial</neck>
+		<lear>Antivenom Earring</lear>
+		<rear>Celestial Earring</rear>
+		<body>Wlk. Tabard +1</body>
+		<hands>Marine M Gloves</hands>
+		<rring>Celestial Ring</rring>
+		<lring>Celestial Ring</lring>
+		<back>Prism Cape</back>
+		<waist>Duelist's Belt</waist>
+		<legs>Zenith Slacks +1</legs>
+		<feet>Goliard Clogs</feet>
+	</set>
+	
+	<include>
+		<item quantity="all">Melon Pie +1</item>
+		<item quantity="all">Remedy</item>
+		<item quantity="all">Echo Drops</item>
+		<item quantity="all">Shihei</item>
+		<item quantity="all">Shinobi-Tabi</item>
+		<item quantity="all">Sanjaku-Tenugui</item>
+		<item quantity="all">Melon Pie</item>
+		<item quantity="all">Toolbag (Shihe)</item>
+		<item>Chatoyant Staff</item>
+		<item>Joyeuse</item>
+		<item>Excalibur</item>
+		<item>Terra's staff</item>
+		<item>Genbu's Shield</item>
+	</include>
+			
+</sets>
+
+<variables>
+</variables>
+
+<inputcommands>
+	<cmd input="/staffon">
+		<setvar name="Staff" value="true"/>
+		<addtochat color="118">Staves will be used when casting.</addtochat>
+	</cmd>
+	<cmd input="/staffoff">
+		<setvar name="Staff" value="false"/>
+		<addtochat color="165">Staves will NOT be used when casting.</addtochat>
+	</cmd>
+		
+</inputcommands>
+
+<idlegear>
+	<if p_status="idle">
+		<if advanced="$Staff=true"><equip set="Standing" /></if>
+		<else><equip set="TP" /></else>
+	</if>
+	
+	<if p_status="resting"><equip set="HMP" /></if>
+	
+	<if P_status="engaged"><equip set="TP" /></if>
+	
+</idlegear>
+
+<premagic>
+	<equip set="Precast" />
+		<if advanced="$Staff=true">
+			<equip>
+				<main>Chatoyant Staff</main>
+				<sub>Vivid Strap +1</sub>
+			</equip>
+		</if>
+</premagic>
+	
+<midmagic>
+	<if ad_skill="Healingmagic">
+		<equip set="Healing"/>
+	</if>
+	
+	<if ad_skill="ninjutsu">
+		<equip set="NinCast"/>
+	</if>
+	
+	<elseif ad_skill="Enfeeblingmagic">
+		<if ad_name="Paralyze*|Slow*">
+			<if advanced="$Staff=true">
+			<equip>
+				<main>Alkalurops</main>
+			</equip>
+			</if>
+			<equip set="Enfeeble_MND"/>
+		</if>
+		<elseif ad_name="Blind*|Poison*|Gravity*|Bind|Dia*|Sleep*|Silence">
+			<if advanced="$Staff=true">
+			<equip>
+				<main>Alkalurops</main>
+			</equip>
+			</if>
+			<equip set="Enfeeble_INT"/>
+		</elseif>
+	</elseif>
+	
+	<elseif ad_skill="Elementalmagic">
+		<if ad_name="Blizzard*">
+			<equip set="Elemental_Blizzard"/>
+		</if>
+		<else>
+			<equip set="Elemental"/>
+		</else>
+		<if ad_name="*IV"> <!-- Tier IV -->
+				<gearlock length="9" />
+		</if>
+		<elseif ad_name="*III"> <!-- Tier III -->
+				<if ad_name="*ga III">
+						<gearlock length="8" />
+				</if>
+				<else>
+						<gearlock length="7" />
+				</else>
+		</elseif>
+		<elseif ad_name="*II"> <!-- Tier II -->
+				<if ad_name="*ga II">
+						<gearlock length="6" />
+				</if>
+				<else>
+						<gearlock length="5" />
+				</else>
+		</elseif>
+		<else> <!-- Tier I -->
+				<if ad_name="*ga">
+						<gearlock length="4" />
+				</if>
+				<else>
+						<gearlock length="3" />
+				</else>
+		</else>
+	</elseif>
+	
+	<elseif ad_skill="Darkmagic">
+		<equip set="Dark"/>
+	</elseif>
+	
+	<elseif ad_skill="enhancingmagic">
+		<if ad_name="Stoneskin">
+			<equip set="Stoneskin"/>
+		</if>
+		<else>
+			<equip set="Enhance"/>
+		</else>
+	</elseif>		
+	
+</midmagic>
+
+</ashitacast>

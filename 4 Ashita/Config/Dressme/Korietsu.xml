@@ -1,0 +1,397 @@
+<dressme>
+
+	<priority>
+		<bank/>
+		<storage />
+		<locker/>
+		<satchel equiponly="true"  />
+		<sack equiponly="true"  />
+		<case equiponly="true"  />
+		<wardrobe equiponly="true"  />
+	</priority>
+
+	<inventory>
+		<item>Alkalurops</item>
+		<item>Antivenom Earring</item>
+		<item>Aquilo's Staff</item>
+		<item>Astral Earring</item>
+		<item quantity="31" >Bast Parchment</item>
+		<item quantity="16" >Black Ink</item>
+		<item>Blood Cuisses</item>
+		<item>Blood Fng. Gnt.</item>
+		<item>Bricta's Cuffs</item>
+		<item>Byakko's Haidate</item>
+		<item>Celestial Earring</item>
+		<item quantity="2" >Celestial Ring</item>
+		<item>Chatoyant Staff</item>
+		<item>Dalmatica +1</item>
+		<item>Dls. Boots +1</item>
+		<item>Dls. Chapeau +1</item>
+		<item>Dls. Gloves +1</item>
+		<item>Dls. Tights +1</item>
+		<item>Duelist's Belt</item>
+		<item>Dusk Gloves +1</item>
+		<item>Dusk Trousers +1</item>
+		<item>Elemental Earring</item>
+		<item>Enfeebling Earring</item>
+		<item>Enfeebling Torque</item>
+		<item>Enhancing Torque</item>
+		<item>Enkidu's Cap</item>
+		<item>Excalibur</item>
+		<item>Fylgja Torque +1</item>
+		<item>Goliard Clogs</item>
+		<item>Hecate's Cape</item>
+		<item quantity="5" >Kabura Arrow</item>
+		<item>Lmg. Medallion +1</item>
+		<item>Loquac. Earring</item>
+		<item>Mahatma Pigaches</item>
+		<item>Mahatma Slops</item>
+		<item>Moldavite Earring</item>
+		<item quantity="2" >Omn. Ring +1</item>
+		<item>Oracle's Cap</item>
+		<item>Oracle's Robe</item>
+		<item>Pearlsack</item>
+		<item>Prism Cape</item>
+		<item quantity="2" >Reraise Earring</item>
+		<item>Roundel Earring</item>
+		<item>Sheepskin</item>
+		<item quantity="270" >Shihei</item>
+		<item>Src. Petasos +1</item>
+		<item>Suppanomimi</item>
+		<item>Terra's Staff</item>
+		<item>Vivid Strap +1</item>
+		<item>Walahra Turban</item>
+		<item>Warlock's Tights</item>
+		<item>Witch Sash</item>
+		<item>Wlk. Tabard +1</item>
+		<item>Yoichinoyumi</item>
+		<item>Zenith Mitts +1</item>
+	</inventory>
+
+	<bank> <!--Define items you want to always be stored in mog house.-->
+		<item>O. Bronzepiece</item>
+		<item>M. Silverpiece</item>
+		<item>R. Goldpiece</item>
+		<item>T. Whiteshell</item>
+		<item>L. Jadeshell</item>
+		<item>R. Stripeshell</item>
+		<item>1 Byne Bill</item>
+		<item>100 Byne Bill</item>
+		<item>10,000 Byne Bill</item>	
+	</bank>
+
+	<storage>
+		<item>A.Abjuration: Ft.</item>
+		<item quantity="13" >Antacid</item>
+		<item>Astral Ring</item>
+		<item>Black Cape +1</item>
+		<item>Black Neckerchief</item>
+		<item>Brave Belt</item>
+		<item>Chaosbringer</item>
+		<item>Corsair Die</item>
+		<item>Custom M Boots</item>
+		<item>E Rice Cake</item>
+		<item>E.Abjuration: Ft.</item>
+		<item quantity="2" >Eremite's Ring +1</item>
+		<item>Exact. Mantle +1</item>
+		<item>Failnaught</item>
+		<item>Flora Cotehardie</item>
+		<item>Heavy Shell</item>
+		<item>Mohbwa Sash +1</item>
+		<item>Moogle Rod</item>
+		<item>Morion Earring +1</item>
+		<item>Nomad Mog. Shield</item>
+		<item>Ntn. Coffer Key</item>
+		<item quantity="9" >Prism Powder</item>
+		<item quantity="2" >Puissance Ring +1</item>
+		<item>Royal Cloak</item>
+		<item quantity="96" >Sanjaku-Tenugui</item>
+		<item>Sct. Bracers -1</item>
+		<item>Seer's Mitts +1</item>
+		<item>Seer's Slacks +1</item>
+		<item>Serket Ring</item>
+		<item quantity="99" >Shinobi-Tabi</item>
+		<item quantity="10" >Silent Oil</item>
+		<item quantity="6" >Silv. Bul. Pouch</item>
+		<item quantity="11" >Sole Sushi +1</item>
+		<item>Sorcerer's Coat</item>
+		<item>Sorcerer's Tonban</item>
+		<item>Suzaku's Sune-Ate</item>
+		<item>Valor Gauntlets</item>
+		<item>Vermillion Jelly</item>
+		<item>Yellow Drop</item>
+		<item>Zenith Crown +1</item>
+	</storage>
+
+	<locker>
+		<item>B. Borer's Cocoon</item>
+		<item>Carbuncle's Ruby</item>
+		<item>Carpenter's Apron</item>
+		<item>Carpenter's Gloves</item>
+		<item>Chamrosh's Beak</item>
+		<item>Comm. Trews -1</item>
+		<item>Emperor Band</item>
+		<item>Gem of the South</item>
+		<item>Herald's Juju</item>
+		<item>Hi-Reraiser</item>
+		<item quantity="95" >Imp. Mtl. Piece</item>
+		<item>Leaping Boots</item>
+		<item>Reraiser</item>
+		<item quantity="98" >Sanjaku-Tenugui</item>
+		<item>Saotome Kote</item>
+		<item>Savory Shank</item>
+		<item>Seal of Seiryu</item>
+		<item>Seal of Suzaku</item>
+		<item quantity="99" >Shinobi-Tabi</item>
+		<item>Sparkling Stone</item>
+		<item>Src. Coat -1</item>
+		<item>Src. Tonban -1</item>
+		<item>Vulpangue's Wing</item>
+		<item>Wizard's Sabots</item>
+	</locker>
+
+	<satchel>
+		<item quantity="2" >Aern Organ</item>
+		<item>Balance Ring +1</item>
+		<item>Cassie Earring</item>
+		<item>Cesti +1</item>
+		<item>Chocomilk</item>
+		<item>Commodore Gants</item>
+		<item>Custom Slacks</item>
+		<item>Dcl.Grd. Ring</item>
+		<item>Diabolos's Pole</item>
+		<item>Dinner Hose</item>
+		<item>Dinner Jacket</item>
+		<item quantity="3" >Euvhi Organ</item>
+		<item>Exact. Mantle +1</item>
+		<item>Fafnir Statue</item>
+		<item>Florid Stone</item>
+		<item quantity="2" >H.Q. Euvhi Organ</item>
+		<item>H.Q. Hpemde Org.</item>
+		<item>H.Q. Xzomit Organ</item>
+		<item>Hi-Elixir</item>
+		<item quantity="12" >Holy Water</item>
+		<item quantity="2" >Hpemde Organ</item>
+		<item>Joyeuse</item>
+		<item>Kabura Quiver</item>
+		<item>Kog. Hakama -1</item>
+		<item>Koga Hakama</item>
+		<item>Koga Hatsuburi</item>
+		<item>Koga Kyahan</item>
+		<item>Koga Sarashi</item>
+		<item>Luminian Tissue</item>
+		<item quantity="4" >Luminion Chip</item>
+		<item>Mannequin Body</item>
+		<item quantity="12" >Meat Chiefkabob</item>
+		<item>Peacock Charm</item>
+		<item quantity="11" >Phuabo Organ</item>
+		<item quantity="9" >Rainbow Velvet</item>
+		<item>Reraise Gorget</item>
+		<item>Ridill</item>
+		<item quantity="95" >Sanjaku-Tenugui</item>
+		<item>Saotome Haidate</item>
+		<item>Saotome Sune-Ate</item>
+		<item>Scout's Bracers</item>
+		<item>Sct. Beret -1</item>
+		<item>Sheepskin</item>
+		<item quantity="97" >Shinobi-Tabi</item>
+		<item quantity="9" >Sole Sushi +1</item>
+		<item>Tidal Talisman</item>
+		<item quantity="6" >Toolbag (Shihe)</item>
+		<item>Valor Leggings</item>
+		<item>Valor Surcoat</item>
+		<item>Warrior's Stone</item>
+		<item>Wind Crystal</item>
+		<item quantity="4" >Yovra Organ</item>
+	</satchel>
+
+	<sack>
+		<item>Argyro Rivet</item>
+		<item>Brown Doeskin</item>
+		<item>Charcoal Cotton</item>
+		<item>Comm. Bottes -1</item>
+		<item>Commodore Belt</item>
+		<item>Druid's Slops</item>
+		<item>Ebony Lacquer</item>
+		<item>Fencing Degen</item>
+		<item>Flameshun Cloth</item>
+		<item>Flat Shield</item>
+		<item>Green VCS Plaque</item>
+		<item>Hellfire +1</item>
+		<item>Hermes Quencher</item>
+		<item>Hunter's Beret</item>
+		<item>Kog. Kyahan -1</item>
+		<item>Koga Tekko</item>
+		<item>Lib. Abjuration</item>
+		<item>Onoko Yukata</item>
+		<item>Pearlsack</item>
+		<item>Ranger's Necklace</item>
+		<item>Relic Dagger</item>
+		<item>Republic Aketon</item>
+		<item>Republic Cuisses</item>
+		<item>Ryl.Ftm. Gloves</item>
+		<item quantity="2" >Saintly Ring +1</item>
+		<item>Scout's Beret</item>
+		<item>Speed Belt</item>
+		<item>Sylvan Stone</item>
+		<item>Tavnazian Ring</item>
+		<item>Valor Cape</item>
+		<item>White Joker</item>
+		<item>Zenith Slacks +1</item>
+	</sack>
+
+	<case>
+		<item quantity="2" >Aern Organ</item>
+		<item>Anniversary Ring</item>
+		<item>Astral Ring</item>
+		<item>Atst. of Accuracy</item>
+		<item>Atst. of Celerity</item>
+		<item>Blau Dolch</item>
+		<item>Blood Greaves</item>
+		<item>Brass Grip +1</item>
+		<item>Canvas Toile</item>
+		<item>Carapace Ring +1</item>
+		<item>Cerb. Mantle +1</item>
+		<item>Charcoal Chip</item>
+		<item>Colored Egg</item>
+		<item>Comm. Bottes</item>
+		<item>Comm. Culottes</item>
+		<item>Commodore Frac</item>
+		<item quantity="2" >Courage Ring</item>
+		<item>Crapaud Earring</item>
+		<item>Denali Bonnet</item>
+		<item>Diabolic Silk</item>
+		<item>E.Abjuration: Lg.</item>
+		<item>Empress Band</item>
+		<item>Euvhi Organ</item>
+		<item>Gold Stud</item>
+		<item>H.Q. Aern Organ</item>
+		<item>Hpemde Organ</item>
+		<item>Koga Chainmail</item>
+		<item quantity="2" >Luminian Tissue</item>
+		<item>M.Abjuration: Bd.</item>
+		<item>M.Abjuration: Hd.</item>
+		<item>Mannequin Hands</item>
+		<item>Metal Chip</item>
+		<item>N.Abjuration: Hn.</item>
+		<item>Ocean Sash</item>
+		<item>Ocean Stone</item>
+		<item>Phtm. Tathlum</item>
+		<item>Raphael's Rod</item>
+		<item>Republic Aketon</item>
+		<item>Saotome Domaru</item>
+		<item quantity="11" >Scorpion Quiver</item>
+		<item>Scout's Braccae</item>
+		<item>Scp. Harness +1</item>
+		<item>Seal of Byakko</item>
+		<item>Smoky Chip</item>
+		<item>Smooth Stone</item>
+		<item quantity="7" >Sole Sushi +1</item>
+		<item>Solitaire Cape</item>
+		<item>Soul Plate</item>
+		<item quantity="12" >Squid Sushi +1</item>
+		<item>Tiphia Sting</item>
+		<item quantity="7" >Toolbag (Sanja)</item>
+		<item quantity="4" >Toolbag (Shino)</item>
+		<item>Valor Breeches</item>
+		<item>Valor Coronet</item>
+		<item>Warlock's Boots</item>
+		<item>Warlock's Gloves</item>
+	</case>
+
+	<wardrobe>
+		<item>Abyss Burgeonet</item>
+		<item>Amemet Mantle +1</item>
+		<item>Antares Harness</item>
+		<item>Aureole</item>
+		<item>Battle Bow +1</item>
+		<item quantity="2" >Behemoth Ring +1</item>
+		<item>Bellona's Ring</item>
+		<item>Blood Scale Mail</item>
+		<item quantity="77" >Bloody Bolt</item>
+		<item>Brass Grip +1</item>
+		<item>Bugard Strap +1</item>
+		<item>Byakko's Axe</item>
+		<item>Chivalrous Chain</item>
+		<item>Comm. Tricorne</item>
+		<item>Custom M Gloves</item>
+		<item>Demon Helm +1</item>
+		<item>Dls. Tabard +1</item>
+		<item>Dusk Ledelsens +1</item>
+		<item>Dusk Trousers +1</item>
+		<item>Emperor Hairpin</item>
+		<item>Eurytos' Bow</item>
+		<item>Fortitude Torque</item>
+		<item>Fransisca</item>
+		<item>Fuma Kyahan</item>
+		<item>Genbu's Shield</item>
+		<item>Genie Huaraches</item>
+		<item>Genie Lappas</item>
+		<item>Genie Tiara</item>
+		<item>Genie Weskit</item>
+		<item quantity="2" >Harmonius Earring</item>
+		<item>Harvester</item>
+		<item>Herald's Gaiters</item>
+		<item>Hyorin Obi</item>
+		<item>Iron Scale Mail +1</item>
+		<item>Jujitsu Gi</item>
+		<item>Kagehide</item>
+		<item>Kirin's Osode</item>
+		<item>Kraken Club</item>
+		<item>Kriegsbeil</item>
+		<item>Kyudogi +1</item>
+		<item>Lamian Kaman +1</item>
+		<item>Mahatma Hpl.</item>
+		<item>Marine M Gloves</item>
+		<item>Mars's Ring</item>
+		<item>Mercurial Pole</item>
+		<item>Mokusa</item>
+		<item>Ocean Belt</item>
+		<item>Ochiudo's Kote</item>
+		<item>Oracle's Braconi</item>
+		<item>Oracle's Gloves</item>
+		<item>Oracle's Pigaches</item>
+		<item>Pantin Cape</item>
+		<item quantity="2" >Puissance Ring +1</item>
+		<item>Qiqirn Collar</item>
+		<item>Qiqirn Sash +1</item>
+		<item>Quick Belt</item>
+		<item>Rajas Ring</item>
+		<item>Relic Sword</item>
+		<item>Republic Aketon</item>
+		<item quantity="2" >Ryl.Sqr. Breeches</item>
+		<item quantity="96" >Scorpion Arrow</item>
+		<item>Scout's Belt</item>
+		<item>Sct. Socks +1</item>
+		<item>Seiryu's Kote</item>
+		<item>Sonic Belt +1</item>
+		<item>Src. Gloves +1</item>
+		<item>Src. Sabots +1</item>
+		<item>Strider Boots</item>
+		<item>Summoner's Dblt.</item>
+		<item>Thunder Grip</item>
+		<item>Vulcan's Staff</item>
+		<item>War Beret +1</item>
+		<item>Warlock's Chapeau</item>
+		<item>Warrior's Lorica</item>
+		<item>Wyvern Helm +1</item>
+		<item>Wzd. Gloves +1</item>
+	</wardrobe>
+	
+	<event name="RDM"> <!--Define an event.-->
+
+	</event>
+	<event name="RNG"> <!--Define an event.-->
+
+	</event>
+	<event name="NIN"> <!--Define an event.-->
+
+	</event>
+	<event name="SAM"> <!--Define an event.-->
+
+	</event>
+	<event name="BLM"> <!--Define an event.-->
+
+	</event>
+
+</dressme>

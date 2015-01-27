@@ -1,0 +1,27 @@
+{
+    "project_id": 32,
+    "project_path": "http://update.ffevo.net/ashita/32/",
+    "repository": {
+        "name": "Lotomatic",
+        "url": "ssh://git@delvl.ffevo.net:2242/addons/lotomatic.git",
+        "description": "Lotomatic is an addon that helps you manage treasure pool drops automatically. It can automatically pass and loot on items that you assign within a profile. Lotomatic can also easily help with force-passing or force-looting on every item that drops.",
+        "homepage": "http://delvl.ffevo.net/addons/lotomatic"
+    },
+    "files": [
+        {
+            "name": "profiles.lua",
+            "hash": "43ce5d3df3c30be4fbd1fb135f9a8aee",
+            "path": "/profiles.lua"
+        },
+        {
+            "name": "README",
+            "hash": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "/README"
+        },
+        {
+            "name": "lotomatic.lua",
+            "hash": "9a41764d059ab7a9173bc18a8525fd91",
+            "path": "/lotomatic.lua"
+        }
+    ]
+}

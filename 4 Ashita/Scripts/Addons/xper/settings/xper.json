@@ -1,0 +1,13 @@
+{
+      "expmode": "$tnl $ratek/hr Chain $chain:$time Gained:$gain($last)",
+         "font": {
+                       "bgcolor": "180,0,0,0",
+                     "bgvisible": true,
+                          "bold": false,
+                         "color": "255,255,255,255",
+                          "name": "Arial",
+                      "position": [ 25, 1064 ],
+                          "size": 11
+                 },
+    "limitmode": "$limit/10k($merit) $ratek/hr Chain $chain:$time Gained:$gain($last)"
+}

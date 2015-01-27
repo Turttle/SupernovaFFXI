@@ -1,0 +1,184 @@
+<ashitacast>
+	<settings>
+		<mogsafe priority="6" />  <!--Priority can be specified from 0-5 and cannot match.-->
+		<moglocker priority="5" />  <!--If you don't want it to use a container, just don't list it here.-->
+		<storage priority="4" />  <!--To allow a container globally, but block it in a Char_Gear.xml file, set it to 255 in the char's file-->
+		<mogsack priority="3" />
+		<mogcase priority="2" />
+		<mogsatchel priority="1" />
+	</settings>
+
+	<inventory>
+		<item quantity="all">Pluton Case</item>
+		<item quantity="all">Pluton Box</item>
+		<item quantity="all">Beitetsu Parcel</item>
+		<item quantity="all">Beitetsu Box</item>
+		<item quantity="all">Boulder Case</item>
+		<item quantity="all">Boulder Box</item>
+	</inventory>
+
+	<mogsafe>
+	</mogsafe>
+
+	<storage>
+	</storage>
+
+	<moglocker>
+	</moglocker>
+
+	<mogsatchel>
+		<!--Meds-->
+		<item quantity="all">Echo Drops</item>
+		<item quantity="all">Panacea</item>
+		<item quantity="all">Antacid</item>
+		<item quantity="all">Holy Water</item>
+		<item quantity="all">Remedy</item>
+		<item>Vile Elixir</item>
+		<item>Vile Elixir +1</item>
+		<item quantity="all">Silent Oil</item>
+		<item quantity="all">Prism Powder</item>
+		
+		<!--Food-->
+		<item quantity="all">Hydra Kofte</item>
+		<item quantity="all">Hydra Kofte +1</item>
+		<item quantity="all">Red Curry Bun</item>
+		<item quantity="all">R. Curry Bun +1</item>
+		<item quantity="all">Squid Sushi</item>
+		<item quantity="all">Squid Sushi +1</item>
+		<item quantity="all">Tavnazian Taco</item>
+		<item quantity="all">Leremieu Taco</item>
+		<item quantity="all">Marinara Slice</item>
+		<item quantity="all">Marinara Slice +1</item>
+		<item quantity="all">Pescatora</item>
+		
+		<!--Misc-->
+		<item quantity="all">Maze Tabula R01</item>
+		<item quantity="all">Maze Tabula R02</item>
+		<item quantity="all">Maze Tabula R03</item>
+		<item quantity="all">Toolbag (Shihe)</item>
+		<item quantity="all">Shihei</item>
+		<item quantity="all">Forbidden Key</item>
+		
+		<!--Warps-->
+		<item quantity="all">Warp Cudgel</item>
+		<item quantity="all">Nexus Cape</item>
+		<item quantity="all">Tavnazian Ring</item>
+		
+		<!--Reraise-->
+		<item quantity="all">Reraise Earring</item>
+		
+		<!--Triggers-->
+		<item quantity="all">Odious Skull</item>
+		<item quantity="all">Odious Blood</item>
+		<item quantity="all">Odious Horn</item>
+		<item quantity="all">Odious Pen</item>
+		<item quantity="all">Shrouded Bijou</item>
+		<item quantity="all">Fiendish Tome (26)</item>
+		<item quantity="all">Fiendish Tome (27)</item>
+		<item quantity="all">Fiendish Tome (28)</item>
+		<item quantity="all">Fiendish Tome (29)</item>
+		<item quantity="all">Fiendish Tome (30)</item>	
+		<item>Leujaoam Log</item>
+		<item>Mamool Ja Journal</item>
+		<item>Lebros Chronicle</item>
+		<item>Periqia Diary</item>
+		<item>Ilrusi Ledger</item>
+	</mogsatchel>
+
+	<mogsack>
+		<!--Storage Slips-->
+		<item quantity="all">Storage Slip 01</item>
+		<item quantity="all">Storage Slip 02</item>
+		<item quantity="all">Storage Slip 03</item>
+		<item quantity="all">Storage Slip 04</item>
+		<item quantity="all">Storage Slip 05</item>
+		<item quantity="all">Storage Slip 06</item>
+		<item quantity="all">Storage Slip 07</item>
+		<item quantity="all">Storage Slip 08</item>
+		<item quantity="all">Storage Slip 09</item>
+		<item quantity="all">Storage Slip 10</item>
+		<item quantity="all">Storage Slip 11</item>
+		<item quantity="all">Storage Slip 12</item>
+		<item quantity="all">Storage Slip 13</item>
+		<item quantity="all">Storage Slip 14</item>		
+	</mogsack>
+
+	<mogcase>
+		<item quantity="all">T. Whiteshell</item>
+		<item quantity="all">L. Jadeshell</item>
+		<item quantity="all">O. Bronzepiece</item>
+		<item quantity="all">M. Silverpiece</item>
+		<item quantity="all">1 Byne Bill</item>
+		<item quantity="all">100 Byne Bill</item>
+		<item quantity="all">Frgtn. Thought</item>
+		<item quantity="all">Forgotten Hope</item>
+		<item quantity="all">Forgotten Touch</item>
+		<item quantity="all">Frgtn. Journey</item>
+		<item quantity="all">Forgotten Step</item>
+		<item quantity="all">Alexandrite</item>
+		<item quantity="all">Heavy Metal</item>
+		<item quantity="all">Riftdross</item>
+		<item quantity="all">Riftcinder</item>
+		<item quantity="all">Umbral Marrow</item>
+		<item quantity="all">Devious Die</item>
+		<item quantity="all">Liminal Residue</item>
+		<item quantity="all">Abdhaljs's Honor</item>
+		<item quantity="all">Airlixir +2</item>
+		<item quantity="all">Gabbrath Horn</item>
+		<item quantity="all">Bztavian Wing</item>
+		<item quantity="all">Bztavian Stinger</item>
+		<item quantity="all">Rockfin Tooth</item>
+		<item quantity="all">Beryllium Ore</item>
+		<item quantity="all">Exalted Log</item>
+		<item quantity="all">Hepatizon Ore</item>
+		<item quantity="all">Sif's Lock</item>
+		<item quantity="all">Pluton</item>
+		<item quantity="all">Beitetsu</item>
+		<item quantity="all">Riftborn Boulder</item>
+		<item quantity="all">Ghastly Stone</item>
+		<item quantity="all">Ghastly Stone +1</item>
+		<item quantity="all">Ghastly Stone +2</item>
+		<item quantity="all">Verdigris St.</item>
+		<item quantity="all">Verdigris St. +1</item>
+		<item quantity="all">Verdigris St. +2</item>
+		<item quantity="all">Wailing Stone</item>
+		<item quantity="all">Wailing Stone +1</item>
+		<item quantity="all">Wailing Stone +2</item>
+	</mogcase>
+
+	<event name="adl">
+		<item>Odious Skull</item>
+		<item>Odious Blood</item>
+		<item>Odious Horn</item>
+		<item>Odious Pen</item>
+		<item>Shrouded Bijou</item>
+		<item>Fiendish Tome (26)</item>
+		<item>Fiendish Tome (27)</item>
+		<item>Fiendish Tome (28)</item>
+		<item>Fiendish Tome (29)</item>
+		<item>Fiendish Tome (30)</item>
+	</event>
+	<event name="assault">
+		<item>Leujaoam Log</item>
+		<item>Mamool Ja Journal</item>
+		<item>Lebros Chronicle</item>
+		<item>Periqia Diary</item>
+		<item>Ilrusi Ledger</item>
+	</event>
+	<event name="voidwatch"> <!--If you type "/ac gear voidwatch", these items will be retrieved as well.-->
+		<item quantity="all">Rubicund Cell</item>
+		<item quantity="all">Cobalt Cell</item>
+		<item quantity="all">Xanthous Cell</item>
+		<item quantity="all">Jade Cell</item>
+	</event>
+</ashitacast>
+
+<!--Ashitacast will manage your inventory in a preset, simple, manner.
+Any gear movement is done according to the following rules:
+-If your inventory has space and an item you need(from gear xml, inventory preset, or event gear) can be located, the item will be retrieved.
+-If you define an item twice, the higher quantity takes precedence.  They are not added together.
+-If your inventory does not have space or no items can be located, items that aren't needed by your xml/inventory preset will be stored.
+-When an item is being stored, it will be placed in the container in which it's defined above.
+-If one is not defined, or the quantity of items is higher than the defined limit for the storage container,
+it will go down priority until it reaches a container that it can access that has space in it.
+-If no items can be stored or retrieved, the gear function will stop. -->

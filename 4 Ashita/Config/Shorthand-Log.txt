@@ -1,0 +1,3618 @@
+[21:13:00.984] /staffon
+[21:13:33.566] /invite
+[21:13:38.564] /join
+[21:14:25.002] /s @goto bope
+[21:14:41.299] /ja composure
+[21:14:41.309] /raw /ja "Composure" 22288
+[21:14:52.220] /ma "Stoneskin" <me>
+[21:14:52.231] /raw /ma "Stoneskin" 22288
+[21:14:54.880] /ma "Stoneskin" <me>
+[21:14:54.890] /raw /ma "Stoneskin" 22288
+[21:14:55.696] /ma "Stoneskin" <me>
+[21:14:55.707] /raw /ma "Stoneskin" 22288
+[21:14:59.739] /ma "Stoneskin" <me>
+[21:14:59.749] /raw /ma "Stoneskin" 22288
+[21:14:59.979] /ma "Stoneskin" <me>
+[21:14:59.990] /raw /ma "Stoneskin" 22288
+[21:15:00.964] /ma "Stoneskin" <me>
+[21:15:00.975] /raw /ma "Stoneskin" 22288
+[21:15:13.916] /ma "Phalanx" <me>
+[21:15:13.926] /raw /ma "Phalanx" 22288
+[21:15:18.761] /ma "Phalanx" <me>
+[21:15:18.772] /raw /ma "Phalanx" 22288
+[21:15:19.510] /ma "Phalanx" <me>
+[21:15:19.520] /raw /ma "Phalanx" 22288
+[21:15:48.361] /psych
+[21:15:52.168] /psych
+[21:16:05.293] /jobemote war
+[21:16:11.003] /jobemote war
+[21:16:16.892] /jobemote mnk
+[21:16:24.985] /ac unload
+[21:17:16.401] /sea all nov
+[21:19:10.528] /ac load
+[21:19:12.672] /staffon
+[21:23:27.737] /addon load find
+[21:23:35.290] /find strider
+[21:25:46.986] /staffon
+[21:26:37.376] /wardrobe
+[21:27:05.014] /ja composure
+[21:27:05.024] /raw /ja "Composure" 22288
+[21:28:09.680] /ma teleportmea
+[21:28:09.691] /raw /ma "Teleport-Mea" 22288
+[21:29:13.080] /map
+[21:29:18.996] /map
+[21:29:29.781] /map
+[21:29:43.040] /map
+[21:29:59.356] /map
+[21:30:03.507] /map
+[21:30:49.968] /p mfw
+[21:30:55.817] /p hafl bottle jameson
+[21:30:56.698] /map
+[21:31:03.015] /map
+[21:31:27.939] /p CAUSE THATS NOT THE GAME
+[21:31:37.661] /map
+[21:31:49.935] /map
+[21:31:56.364] /map
+[21:32:22.035] /map
+[21:32:30.804] /map
+[21:32:42.604] /map
+[21:32:52.291] /map
+[21:33:08.544] /map
+[21:33:26.532] /map
+[21:33:45.299] /slap
+[21:34:03.894] /map
+[21:36:10.274] /ma sneak me
+[21:36:10.284] /raw /ma "Sneak" 22288
+[21:36:32.409] /map
+[21:36:38.834] /map
+[21:36:57.976] /ma "Stoneskin" <me>
+[21:36:57.987] /raw /ma "Stoneskin" 22288
+[21:37:07.470] /ma sleep <t>
+[21:37:07.481] /raw /ma "Sleep" <t>
+[21:37:08.965] /ma "Phalanx" <me>
+[21:37:08.976] /raw /ma "Phalanx" 22288
+[21:37:15.359] /ma "Refresh" <stpt>
+[21:37:15.370] /raw /ma "Refresh" <stpt>
+[21:37:15.370] /ma "Refresh" 22288
+[21:37:15.699] /ma "Refresh" 22288
+[21:37:46.123] /ma "Phalanx" <me>
+[21:37:46.133] /raw /ma "Phalanx" 22288
+[21:37:54.456] /ma blink me
+[21:37:54.467] /raw /ma "Blink" 22288
+[21:38:05.501] /ma "Haste" <stpt>
+[21:38:05.511] /raw /ma "Haste" <stpt>
+[21:38:05.511] /ma "Haste" 22288
+[21:38:06.079] /ma "Haste" 22288
+[21:39:00.008] /p you shouldnt be using the aketon >_>
+[21:39:16.923] /p and windy is coded properly
+[21:39:22.228] /p other two are not 
+[21:39:37.206] /wave
+[21:42:18.713] /ma Paralyze2 <t>
+[21:42:18.724] /raw /ma "Paralyze II" <t>
+[21:42:24.661] /ma slow2 <t>
+[21:42:24.672] /raw /ma "Slow II" <t>
+[21:42:24.867] /ma slow2 <t>
+[21:42:24.877] /raw /ma "Slow II" <t>
+[21:42:25.885] /ma slow2 <t>
+[21:42:25.896] /raw /ma "Slow II" <t>
+[21:42:33.673] /p like serket is gonna do anything
+[21:42:35.884] /ma "Stoneskin" <me>
+[21:42:35.895] /raw /ma "Stoneskin" 22288
+[21:42:37.854] /ma "Stoneskin" <me>
+[21:42:37.864] /raw /ma "Stoneskin" 22288
+[21:42:39.183] /ma "Stoneskin" <me>
+[21:42:39.193] /raw /ma "Stoneskin" 22288
+[21:42:50.130] /ma sleep2
+[21:42:50.141] /raw /ma "Sleep II" 17596717
+[21:42:55.976] /ja divineseal
+[21:42:55.986] /raw /ja "Divine Seal" 22288
+[21:42:58.325] /ma curaga2 me
+[21:42:58.335] /raw /ma "Curaga II" 22288
+[21:43:06.074] /ma "Phalanx" <me>
+[21:43:06.085] /raw /ma "Phalanx" 22288
+[21:43:12.909] /ma poisona me
+[21:43:12.919] /raw /ma "Poisona" 22288
+[21:43:18.486] /ma poisona bope
+[21:43:18.496] /raw /ma "Poisona" 21829
+[21:43:22.158] /ma poisona bope
+[21:43:22.169] /raw /ma "Poisona" 21829
+[21:43:31.847] /ma "Stoneskin" <me>
+[21:43:31.858] /raw /ma "Stoneskin" 22288
+[21:43:32.425] /ma "Stoneskin" <me>
+[21:43:32.435] /raw /ma "Stoneskin" 22288
+[21:43:33.341] /ma "Stoneskin" <me>
+[21:43:33.352] /raw /ma "Stoneskin" 22288
+[21:43:34.124] /ma "Stoneskin" <me>
+[21:43:34.134] /raw /ma "Stoneskin" 22288
+[21:43:34.362] /ma "Stoneskin" <me>
+[21:43:34.373] /raw /ma "Stoneskin" 22288
+[21:43:35.042] /ma "Stoneskin" <me>
+[21:43:35.052] /raw /ma "Stoneskin" 22288
+[21:43:36.028] /ma "Stoneskin" <me>
+[21:43:36.039] /raw /ma "Stoneskin" 22288
+[21:43:36.334] /ma "Stoneskin" <me>
+[21:43:36.344] /raw /ma "Stoneskin" 22288
+[21:43:36.640] /ma "Stoneskin" <me>
+[21:43:36.651] /raw /ma "Stoneskin" 22288
+[21:43:39.025] /p wtf gaiz
+[21:43:39.771] /ma "Stoneskin" <me>
+[21:43:39.781] /raw /ma "Stoneskin" 22288
+[21:43:39.975] /ma "Stoneskin" <me>
+[21:43:39.986] /raw /ma "Stoneskin" 22288
+[21:43:49.937] /ma curaga me
+[21:43:49.948] /raw /ma "Curaga" 22288
+[21:43:53.506] /p we kill nidhogg
+[21:43:56.751] /p and wipe to serket lol
+[21:44:01.499] /ma cure3 bope
+[21:44:01.510] /raw /ma "Cure III" 21829
+[21:44:07.208] /p Kill the ghost first
+[21:44:09.976] /ma erase bope
+[21:44:09.986] /raw /ma "Erase" 21829
+[21:44:15.718] /ma poisona bope
+[21:44:15.729] /raw /ma "Poisona" 21829
+[21:44:20.345] /ma cure4 ranki
+[21:44:24.149] /ma cure4 anki
+[21:44:24.159] /raw /ma "Cure IV" 21885
+[21:44:29.964] /ma "Silence" <t>
+[21:44:29.974] /raw /ma "Silence" <t>
+[21:44:30.135] /ma "Silence" <t>
+[21:44:30.145] /raw /ma "Silence" <t>
+[21:44:30.304] /ma "Silence" <t>
+[21:44:30.315] /raw /ma "Silence" <t>
+[21:44:30.915] /ma "Silence" <t>
+[21:44:30.926] /raw /ma "Silence" <t>
+[21:44:35.575] /ma "Silence" <t>
+[21:44:35.585] /raw /ma "Silence" <t>
+[21:44:35.747] /ma "Silence" <t>
+[21:44:35.757] /raw /ma "Silence" <t>
+[21:44:40.913] /ma sleep2
+[21:44:40.924] /raw /ma "Sleep II" 17596717
+[21:44:42.680] /ma sleep2
+[21:44:42.690] /raw /ma "Sleep II" 17596717
+[21:44:47.099] /ma "Cure IV" <stpt>
+[21:44:47.110] /raw /ma "Cure IV" <stpt>
+[21:44:47.110] /ma "Cure IV" 22288
+[21:44:48.799] /ma "Cure IV" 22993
+[21:44:55.939] /ma curaga2 me
+[21:44:55.950] /raw /ma "Curaga II" 22288
+[21:45:04.139] /ma "Stoneskin" <me>
+[21:45:04.149] /raw /ma "Stoneskin" 22288
+[21:45:04.340] /ma "Stoneskin" <me>
+[21:45:04.351] /raw /ma "Stoneskin" 22288
+[21:45:14.369] /p you can use me to TA/SA
+[21:45:15.387] /ma "Cure IV" <stpt>
+[21:45:15.397] /raw /ma "Cure IV" <stpt>
+[21:45:15.397] /ma "Cure IV" 22288
+[21:45:16.202] /ma "Cure IV" 22993
+[21:45:22.666] /ma paralyna bope
+[21:45:22.677] /raw /ma "Paralyna" 21829
+[21:45:27.802] /ma "Cure IV" <stpt>
+[21:45:27.813] /raw /ma "Cure IV" <stpt>
+[21:45:27.813] /ma "Cure IV" 22288
+[21:45:29.060] /ma "Cure IV" 23003
+[21:45:34.638] /ma curaga2 me
+[21:45:34.648] /raw /ma "Curaga II" 22288
+[21:45:41.774] /ma sleep2
+[21:45:41.784] /raw /ma "Sleep II" 17596717
+[21:45:48.573] /ma "Cure IV" <stpt>
+[21:45:48.583] /raw /ma "Cure IV" <stpt>
+[21:45:48.583] /ma "Cure IV" 22288
+[21:45:49.222] /ma "Cure IV" 21829
+[21:45:51.294] /ma "Cure IV" <stpt>
+[21:45:51.305] /raw /ma "Cure IV" <stpt>
+[21:45:51.305] /ma "Cure IV" 22288
+[21:45:51.909] /ma "Cure IV" 21829
+[21:45:55.205] /ma "Cure IV" <stpt>
+[21:45:55.215] /raw /ma "Cure IV" <stpt>
+[21:45:55.215] /ma "Cure IV" 22288
+[21:45:56.325] /ma "Cure III" <stpt>
+[21:45:56.335] /raw /ma "Cure III" <stpt>
+[21:45:56.335] /ma "Cure III" 22288
+[21:45:57.005] /ma "Cure III" 21829
+[21:46:01.665] /ja convert
+[21:46:01.676] /raw /ja "Convert" 22288
+[21:46:02.518] /ma "Cure IV" <stpt>
+[21:46:02.529] /raw /ma "Cure IV" <stpt>
+[21:46:02.529] /ma "Cure IV" 22288
+[21:46:03.064] /ma "Cure IV" 22288
+[21:46:08.942] /ma "Cure III" <stpt>
+[21:46:08.953] /raw /ma "Cure III" <stpt>
+[21:46:08.953] /ma "Cure III" 22288
+[21:46:09.653] /ma "Cure III" 21829
+[21:46:24.036] /ma blink me
+[21:46:24.046] /raw /ma "Blink" 22288
+[21:46:32.675] /ma "Cure IV" <stpt>
+[21:46:32.686] /raw /ma "Cure IV" <stpt>
+[21:46:32.686] /ma "Cure IV" 22288
+[21:46:34.611] /ma "Cure IV" <stpt>
+[21:46:34.621] /raw /ma "Cure IV" <stpt>
+[21:46:34.623] /ma "Cure IV" 22288
+[21:46:39.544] /ma "Dispel" <t>
+[21:46:39.554] /raw /ma "Dispel" <t>
+[21:46:57.242] /ma raise valda
+[21:47:00.880] /ma raise valda
+[21:47:07.374] /ma raise asira
+[21:47:09.923] /ma raise az
+[21:47:09.934] /raw /ma "Raise" 22410
+[21:47:17.538] /ma lorx
+[21:47:19.919] /ma raise lorx
+[21:47:19.930] /raw /ma "Raise" 22945
+[21:48:00.244] /ma raise anier
+[21:48:00.254] /raw /ma "Raise" 22934
+[21:48:07.345] /addon load recast
+[21:48:08.264] /heal
+[21:51:40.723] /heal off
+[21:51:40.755] /heal off
+[21:51:40.790] /heal off
+[21:51:40.824] /heal off
+[21:52:10.114] /ma "Phalanx" <me>
+[21:52:10.124] /raw /ma "Phalanx" 22288
+[21:52:22.247] /ma "Refresh" <stpt>
+[21:52:22.257] /raw /ma "Refresh" <stpt>
+[21:52:22.257] /ma "Refresh" 22288
+[21:52:22.554] /ma "Refresh" 22288
+[21:52:29.661] /ma "Haste" <stpt>
+[21:52:29.672] /raw /ma "Haste" <stpt>
+[21:52:29.672] /ma "Haste" 22288
+[21:52:30.135] /ma "Haste" 22288
+[21:55:03.232] /ma sneak me
+[21:55:03.243] /raw /ma "Sneak" 22288
+[21:55:10.367] /ma invisible me
+[21:55:10.378] /raw /ma "Invisible" 22288
+[21:56:32.975] /p how bout, we enjoy the event yeah?
+[21:56:39.638] /ta novah
+[21:57:25.664] /p /
+[21:57:33.139] /p no aketons
+[21:57:34.569] /p jerks
+[21:57:35.758] /map
+[21:57:46.229] /map
+[21:57:54.489] /map
+[21:58:13.870] /ac unload
+[21:58:22.267] /map
+[21:58:41.446] /ma invisible me
+[21:58:41.456] /raw /ma "Invisible" 22288
+[21:58:42.364] /map
+[21:59:07.693] /map
+[21:59:14.460] /map
+[22:00:03.562] /map
+[22:00:30.423] /load ashitacast
+[22:00:33.452] /ac load
+[22:00:35.252] /ma sleep
+[22:00:35.263] /raw /ma "Sleep" 17596507
+[22:00:39.912] /staffon
+[22:00:48.612] /map
+[22:00:56.602] /ma sneak me
+[22:00:56.612] /raw /ma "Sneak" 22288
+[22:01:01.739] /ma invisible me
+[22:01:01.749] /raw /ma "Invisible" 22288
+[22:01:04.288] /ma invisible me
+[22:01:04.298] /raw /ma "Invisible" 22288
+[22:01:09.081] /ac unload
+[22:01:15.574] /map
+[22:01:25.944] /map
+[22:01:31.931] /map
+[22:01:42.603] /map
+[22:01:50.734] /map
+[22:02:27.251] /addon load skeletonkey
+[22:02:29.611] /skeletonkey <t>
+[22:02:33.317] /map
+[22:03:11.066] /ac load
+[22:03:40.342] /staffon
+[22:04:01.369] /t acrueid mfw no one listened and I wore aketon to catch up
+[22:04:11.981] /t arcueid mfw I wore aketon to catch up to cheaters
+[22:05:03.316] /ma sleep2
+[22:05:03.327] /raw /ma "Sleep II" 17269106
+[22:05:12.905] /ma "Stoneskin" <me>
+[22:05:12.915] /raw /ma "Stoneskin" 22288
+[22:10:23.541] /ma "Silence" <t>
+[22:10:23.551] /raw /ma "Silence" <t>
+[22:12:28.352] /ma Paralyze2 <t>
+[22:12:28.362] /raw /ma "Paralyze II" <t>
+[22:12:34.097] /ma slow2 <t>
+[22:12:34.108] /raw /ma "Slow II" <t>
+[22:12:34.302] /ma slow2 <t>
+[22:12:34.313] /raw /ma "Slow II" <t>
+[22:12:50.962] /ma Paralyze2 <t>
+[22:12:50.972] /raw /ma "Paralyze II" <t>
+[22:12:53.128] /ma Paralyze2 <t>
+[22:12:53.138] /raw /ma "Paralyze II" <t>
+[22:13:03.875] /ma cure3 vith
+[22:13:03.885] /raw /ma "Cure III" 22155
+[22:13:18.016] /ma Paralyze2 <t>
+[22:13:18.027] /raw /ma "Paralyze II" <t>
+[22:13:24.012] /ma slow2 <t>
+[22:13:24.023] /raw /ma "Slow II" <t>
+[22:13:29.452] /attack
+[22:13:29.463] /raw /attack <t>
+[22:14:10.895] /ma "Phalanx" <me>
+[22:14:10.906] /raw /ma "Phalanx" 22288
+[21:49:12.363] /sea all skadi
+[21:49:19.128] /t skadi everyone there already?
+[21:49:29.096] /s @goto skadi
+[21:50:50.929] /join
+[21:50:55.725] /magic "Cure III" 22353
+[21:51:03.613] /ma "Phalanx" <me>
+[21:51:03.623] /raw /ma "Phalanx" 22288
+[21:51:11.297] /magic "Cure III" 22353
+[21:51:24.183] /ma "Refresh" <stpt>
+[21:51:24.194] /raw /ma "Refresh" <stpt>
+[21:51:24.194] /ma "Refresh" 22353
+[21:51:28.335] /ma "Refresh" <stpt>
+[21:51:28.345] /raw /ma "Refresh" <stpt>
+[21:51:28.345] /ma "Refresh" 22288
+[21:51:28.980] /ma "Refresh" 22288
+[21:51:38.735] /ma cure3 anki
+[21:51:38.746] /raw /ma "Cure III" 21885
+[21:51:49.993] /ma cure3 anki
+[21:51:50.003] /raw /ma "Cure III" 21885
+[21:52:03.014] /ma cure3 anki
+[21:52:03.025] /raw /ma "Cure III" 21885
+[21:52:13.621] /heal
+[21:53:46.795] /heal off
+[21:53:46.831] /heal off
+[21:53:46.865] /heal off
+[21:53:58.252] /p give it a min
+[21:54:08.965] /ja composure
+[21:54:08.975] /raw /ja "Composure" 22288
+[21:54:12.770] /ma "Refresh" <stpt>
+[21:54:12.781] /raw /ma "Refresh" <stpt>
+[21:54:12.781] /ma "Refresh" 22288
+[21:54:13.281] /ma "Refresh" 22288
+[21:54:19.538] /ma "Haste" <stpt>
+[21:54:19.549] /raw /ma "Haste" <stpt>
+[21:54:19.549] /ma "Haste" 22288
+[21:54:21.204] /ma "Haste" 22288
+[21:54:41.636] /ma protect3 skadi
+[21:54:41.646] /raw /ma "Protect III" 22353
+[21:54:48.510] /ma shell3 anki
+[21:54:48.521] /raw /ma "Shell III" 21885
+[21:54:51.093] /ma shell2 anki
+[21:54:51.104] /raw /ma "Shell II" 21885
+[21:54:57.718] /ma protect3 anki
+[21:54:57.729] /raw /ma "Protect III" 21885
+[21:55:00.205] /p lemme get mp first
+[21:55:02.309] /heal
+[21:56:20.379] /heal off
+[21:56:20.414] /heal off
+[21:56:20.549] /heal off
+[21:56:21.739] /p ready
+[21:56:29.628] /ma blink me
+[21:56:29.639] /raw /ma "Blink" 22288
+[21:56:39.691] /ma paralyze
+[21:56:39.701] /raw /ma "Paralyze" 16896155
+[21:56:46.251] /ma slow
+[21:56:46.262] /raw /ma "Slow" 16896155
+[21:56:53.291] /ma cure3 anki
+[21:56:53.302] /raw /ma "Cure III" 21885
+[21:56:59.035] /ma "Dispel" <t>
+[21:56:59.045] /raw /ma "Dispel" <t>
+[21:56:59.239] /ma "Dispel" <t>
+[21:56:59.249] /raw /ma "Dispel" <t>
+[21:57:07.402] /ma cure3 skadi
+[21:57:07.413] /raw /ma "Cure III" 22353
+[21:57:15.561] /ma regen anki
+[21:57:15.571] /raw /ma "Regen" 21885
+[21:57:23.451] /ma "Refresh" <stpt>
+[21:57:23.461] /raw /ma "Refresh" <stpt>
+[21:57:23.461] /ma "Refresh" 22288
+[21:57:24.877] /ma "Refresh" 21885
+[21:57:33.415] /ma cure3 skadi
+[21:57:33.425] /raw /ma "Cure III" 22353
+[21:57:40.557] /ma dia2
+[21:57:40.567] /raw /ma "Dia II" 16896155
+[21:57:56.400] /magic "Fire II" 16896155
+[21:58:06.121] /magic "Water II" 16896155
+[21:58:17.339] /ma cure3 anki
+[21:58:17.349] /raw /ma "Cure III" 21885
+[21:58:22.813] /heal
+[21:58:41.351] /heal off
+[21:58:41.384] /heal off
+[21:58:41.520] /heal off
+[21:58:41.554] /heal off
+[21:58:45.430] /ma "Dispel" <t>
+[21:58:45.441] /raw /ma "Dispel" <t>
+[21:58:52.770] /heal
+[21:59:07.800] /heal off
+[21:59:07.936] /heal off
+[21:59:07.970] /heal off
+[21:59:10.756] /ma cure3 anki
+[21:59:10.766] /raw /ma "Cure III" 21885
+[21:59:16.060] /heal
+[21:59:23.372] /heal off
+[21:59:23.473] /heal off
+[21:59:23.508] /heal off
+[21:59:25.547] /ma cure3 anki
+[21:59:25.558] /raw /ma "Cure III" 21885
+[21:59:37.922] /ma "Dispel" <t>
+[21:59:37.933] /raw /ma "Dispel" <t>
+[21:59:48.020] /ma cure3 anki
+[21:59:48.031] /raw /ma "Cure III" 21885
+[21:59:55.262] /ma cure2 anki
+[21:59:55.273] /raw /ma "Cure II" 21885
+[22:00:03.015] /ja divineseal
+[22:00:03.025] /raw /ja "Divine Seal" 22288
+[22:00:06.212] /ja convert
+[22:00:06.222] /raw /ja "Convert" 22288
+[22:00:06.933] /ma "Phalanx" <me>
+[22:00:06.944] /raw /ma "Phalanx" 22288
+[22:00:07.164] /ma "Cure IV" <stpt>
+[22:00:07.175] /raw /ma "Cure IV" <stpt>
+[22:00:07.175] /ma "Cure IV" 22288
+[22:00:08.082] /ma "Cure IV" 22288
+[22:00:18.112] /ma blink me
+[22:00:18.122] /raw /ma "Blink" 22288
+[22:00:29.331] /magic "Fire II" 16896155
+[22:00:39.634] /magic "Blizzard" 16896155
+[22:00:46.775] /ma "Cure IV" <stpt>
+[22:00:46.785] /raw /ma "Cure IV" <stpt>
+[22:00:46.785] /ma "Cure IV" 22288
+[22:00:48.202] /ma "Cure IV" 22353
+[22:00:54.696] /heal
+[22:00:57.144] /p thats rough
+[22:01:58.373] /heal off
+[22:01:58.402] /heal off
+[22:01:58.441] /heal off
+[22:01:58.475] /heal off
+[22:03:06.225] /s @choco
+[22:06:05.357] /l @Manofsteel They will eventually be updated and added. 
+[22:06:17.428] /l As of now, only the first 2 missions of one of crystalline work
+[22:06:36.272] /p turtle killed today?
+[22:06:40.862] /p I want to go slap it with BLM
+[22:06:55.384] /p as usual lol
+[22:07:04.023] /l Just dnc/sch quests really.
+[22:07:40.164] /l Basically, everything on Supernova is <= TOAU
+[22:07:51.695] /l Some new TOAU content is in the works but we wont have that for a while. 
+[22:09:06.664] /l Pup doesnt work at all
+[22:09:22.405] /l You can summon the automaton, but it doesnt do anything or skill up
+[22:10:06.086] /l Duna has 75 pup just for the lulz though. 
+[22:16:46.065] /l Gotta have them ýSý
+[22:17:05.586] /l what was it karru?
+[22:17:17.617] /l I went through and fixed it, i need to know what's happening
+[22:17:37.693] /l ýý
+[22:17:42.181] /l Ill take a look at it soon. 
+[22:17:52.960] /l I had a hell of a time with it before. 
+[22:19:02.369] /l Yep
+[22:19:15.195] /l ý<·ý
+[22:20:03.117] /l its 3-5 str, 3-5 dex, store tp +5
+[22:20:10.022] /addon find rajas
+[22:20:13.422] /addon load find
+[22:20:14.813] /find rajas
+[22:20:16.852] /case
+[22:20:32.152] /l and +5 ý 3ý
+[22:20:45.753] /l If you get any other ring you're dumb 
+[22:20:55.857] /l On retail it made sense to get tamas or sattiva
+[22:21:09.454] /l depending on server economy /jobs
+[22:21:13.942] /l back in the day at least
+[22:21:49.654] /l ý9ý were like 25m
+[22:22:01.788] /l Snow rings were like 15m
+[22:22:05.903] /l so it made sense lol
+[22:22:17.735] /l since I did CoP before I got the crafting bug
+[22:22:43.696] /wave
+[22:22:51.469] /s Welcome!
+[22:23:02.320] /s Alt or new to the server?
+[22:24:07.174] /l Also, how many folks are using ashita right now?
+[22:24:20.432] /l Im assuming almost everyone
+[22:24:35.153] /l Please check the forums for a guide if you're using V2 in prep for august 12th
+[22:24:53.349] /l We probably wont upgrade the day of, so you'll need to make sure you set ashita to use --noupdate
+[22:26:37.759] /l There was a post on FB, but ill make a post in the forums/fb again for it on sunday
+[22:30:21.378] /s @warp
+[22:31:29.073] /locker
+[22:31:34.549] /s @goto kori
+[22:35:11.042] /s @goto pixie
+[22:35:25.394] /wave
+[22:35:33.755] /s ýý Welcome to Supernova
+[22:36:05.112] /l Alt / new player / afk?
+[22:36:15.928] /poke
+[22:36:56.261] /s Are you there?
+[22:38:59.561] /s @got pixie
+[22:39:05.619] /s @goto pixie
+[22:39:21.610] /wave
+[22:39:27.119] /s Welcome to Supernova
+[22:39:30.720] /s Couple of ground rules
+[22:39:36.094] /s No hacks of any kind
+[22:39:43.064] /s Server hangout is in the chocobo circuit
+[22:39:45.273] /s and have fun!
+[22:40:29.668] /s go ahead and pop that on
+[22:41:07.493] /l ýý <t> everyone!
+[22:41:13.270] /goodbye
+[22:41:17.519] /jobemote thf
+[22:41:19.456] /s @choco
+[22:43:22.680] /l Well, anyone need help with anything pressing at the moment?
+[22:44:26.535] /l Contrary to popular belief, I am not a food delivery robot. I'm a enfeebling delivering robot. 
+[22:45:16.176] /l I know what I can bring you!
+[22:45:21.583] /l A trip to Mordion!
+[22:45:26.016] /l DING DING DING!
+[22:45:36.917] /l j/k
+[22:45:41.472] /l Sup novah
+[22:46:12.402] /l muhahaha
+[22:46:16.005] /l Novah
+[22:46:21.003] /l If you havent played perfect dark
+[22:46:25.999] /l Im gonna have to send you a cart. 
+[22:46:34.229] /l casue PD > Goldeneye all day erry day
+[22:48:04.850] /l *crickets*
+[22:51:02.605] /find shi
+[22:51:11.676] /case
+[22:51:14.361] /case
+[22:51:27.860] /satchel
+[22:53:10.317] /wardrobe
+[22:53:56.637] /ac unload
+[22:54:04.083] /ma "Utsusemi: Ni" <me>
+[22:54:04.094] /raw /ma "Utsusemi: Ni" 22288
+[22:54:56.951] /load watchexp
+[22:55:17.668] /l <t>
+[22:55:49.138] /ma sneak me
+[22:55:49.148] /raw /ma "Sneak" 22288
+[22:55:55.292] /ma invisible me
+[22:55:55.303] /raw /ma "Invisible" 22288
+[22:56:11.074] /l aaannnd there he goes
+[22:56:24.912] /ja composure
+[22:56:24.923] /raw /ja "Composure" 22288
+[22:56:26.243] /ma sneak me
+[22:56:26.253] /raw /ma "Sneak" 22288
+[22:56:31.850] /ma invisible me
+[22:56:31.860] /raw /ma "Invisible" 22288
+[22:56:49.362] /s @choco
+[22:58:08.784] /l im out for a while. I'll pop back on later. 
+[02:34:00.246] /load recast
+[02:34:03.852] /addon load recast
+[02:34:05.767] /staffon 
+[02:34:16.307] /l Lemme know if you need help Vithis
+[02:34:21.714] /l I has RDM/NIN on standby. 
+[02:34:24.910] /ma "Utsusemi: Ichi" <me>
+[02:34:24.920] /raw /ma "Utsusemi: Ichi" 22288
+[02:34:36.471] /ma haste me
+[02:34:36.482] /raw /ma "Haste" 22288
+[02:34:42.317] /ma refresh me
+[02:34:42.328] /raw /ma "Refresh" 22288
+[02:35:04.699] /t valda send me deets on the showing up and things. 
+[02:35:20.375] /t valda I have a show on the 15th, work 11th-15th
+[02:35:47.768] /t valda 9 - whenver the fuck m-f
+[02:36:11.838] /t valda I worked 24o hours in 15 days in november last year
+[02:36:38.435] /t valda I am a fucking hardass at work, but /rage 
+[02:36:43.806] /t valda niggas dont appreciate
+[02:36:54.346] /t valda but thats why I got two 10k raises back to back
+[02:37:27.495] /t valda also, dont judge me, im a messy as fuck person. My apt is just for me lol
+[02:38:28.264] /t valda until like august last year, I didnt even have a bed lol
+[02:38:43.363] /t valda I was sleeping on the floor for two winters and not givinga func
+[02:38:49.860] /t valda also im drunk as fuck lol
+[02:39:02.372] /l faf/nnidd been kill recently?
+[02:39:13.591] /ma "Utsusemi: Ni" <me>
+[02:39:13.602] /raw /ma "Utsusemi: Ni" 22288
+[02:39:15.355] /ma "Utsusemi: Ni" <me>
+[02:39:15.366] /raw /ma "Utsusemi: Ni" 22288
+[03:30:07.535] /ja composure
+[03:30:07.545] /raw /ja "Composure" 22288
+[03:30:09.671] /ma "Stoneskin" <me>
+[03:30:09.681] /raw /ma "Stoneskin" 22288
+[03:30:18.508] /ma protect4 me
+[03:30:18.519] /raw /ma "Protect IV" 22288
+[03:30:19.733] /ma protect4 me
+[03:30:19.743] /raw /ma "Protect IV" 22288
+[03:30:27.045] /ma shell4 me
+[03:30:27.055] /raw /ma "Shell IV" 22288
+[03:30:31.771] /ma "Stoneskin" <me>
+[03:30:31.782] /raw /ma "Stoneskin" 22288
+[03:30:31.975] /ma "Stoneskin" <me>
+[03:30:31.986] /raw /ma "Stoneskin" 22288
+[03:30:37.757] /s im durnk as fuck
+[03:30:38.095] /ma "Stoneskin" <me>
+[03:30:38.105] /raw /ma "Stoneskin" 22288
+[03:30:43.025] /s results not garunteeded
+[03:30:48.056] /ma "Refresh" <stpt>
+[03:30:48.067] /raw /ma "Refresh" <stpt>
+[03:30:48.068] /ma "Refresh" 22288
+[03:30:48.736] /ma "Refresh" 22288
+[03:30:56.285] /ma "Phalanx" <me>
+[03:30:56.296] /raw /ma "Phalanx" 22288
+[03:31:03.251] /ma aquaveil
+[03:31:03.261] /raw /ma "Aquaveil" 22288
+[03:31:19.610] /heal
+[03:31:23.518] /l anyone for charbs?
+[03:31:29.231] /l 70 plus for Vithis?
+[03:31:32.629] /join
+[03:31:57.981] /l <t>
+[03:32:23.547] /p mfw im about to solo this lol
+[03:32:34.009] /l free teleports for peeps helping
+[03:32:35.075] /heal off
+[03:32:35.110] /heal off
+[03:32:35.245] /heal off
+[03:32:35.277] /heal off
+[03:32:40.068] /ma sleep2
+[03:32:40.078] /raw /ma "Sleep II" 17498522
+[03:32:45.849] /ma "Utsusemi: Ni" <me>
+[03:32:45.860] /raw /ma "Utsusemi: Ni" 22288
+[03:32:49.893] /ma haste me
+[03:32:49.904] /raw /ma "Haste" 22288
+[03:32:56.763] /ma "Utsusemi: Ni" <me>
+[03:32:56.774] /raw /ma "Utsusemi: Ni" 22288
+[03:33:09.580] /sea n
+[03:33:12.673] /sea all n
+[03:33:23.787] /s @bring neirukaizaa
+[03:33:28.310] /ma "Bind" <t>
+[03:33:28.320] /raw /ma "Bind" <t>
+[03:33:35.420] /load shorthand
+[03:33:38.377] /ma "Bind" <t>
+[03:33:38.387] /raw /ma "Bind" <t>
+[03:33:42.956] /ma Paralyze2 <t>
+[03:33:42.967] /raw /ma "Paralyze II" <t>
+[03:33:44.623] /ma Paralyze2 <t>
+[03:33:44.634] /raw /ma "Paralyze II" <t>
+[03:33:49.758] /ma slow2 <t>
+[03:33:49.768] /raw /ma "Slow II" <t>
+[03:33:49.929] /ma slow2 <t>
+[03:33:49.940] /raw /ma "Slow II" <t>
+[03:33:50.063] /ma slow2 <t>
+[03:33:50.074] /raw /ma "Slow II" <t>
+[03:33:51.559] /ma slow2 <t>
+[03:33:51.569] /raw /ma "Slow II" <t>
+[03:33:57.373] /ma "Blind" <t>
+[03:33:57.384] /raw /ma "Blind" <t>
+[03:33:57.577] /ma "Blind" <t>
+[03:33:57.587] /raw /ma "Blind" <t>
+[03:34:02.984] /ma poison2
+[03:34:02.994] /raw /ma "Poison II" 17498522
+[03:34:04.955] /ma poison2
+[03:34:04.965] /raw /ma "Poison II" 17498522
+[03:34:09.715] /ma poison2
+[03:34:09.727] /raw /ma "Poison II" 17498522
+[03:34:11.654] /ma poison2
+[03:34:11.665] /raw /ma "Poison II" 17498522
+[03:34:20.188] /ma blizzard3
+[03:34:24.203] /ma blizzard3
+[03:34:26.650] /ma blizzard3
+[03:34:26.661] /raw /ma "Blizzard III" 17498522
+[03:34:29.162] /p wait
+[03:34:35.419] /ma "Gravity" <t>
+[03:34:35.430] /raw /ma "Gravity" <t>
+[03:34:42.188] /ma thundeer3
+[03:34:57.078] /ma "Bind" <t>
+[03:34:57.088] /raw /ma "Bind" <t>
+[03:35:05.035] /ma thunder3
+[03:35:05.047] /raw /ma "Thunder III" 17498522
+[03:35:15.910] /ma bizzard3
+[03:35:21.318] /ma blizzard3
+[03:35:21.328] /raw /ma "Blizzard III" 17498522
+[03:35:31.550] /heal
+[03:35:38.047] /p ill call for WS
+[03:35:51.852] /p mfw this is what I did in retail solo
+[03:36:01.512] /heal off
+[03:36:01.546] /heal off
+[03:36:01.681] /heal off
+[03:36:01.716] /heal off
+[03:36:04.573] /ma "Gravity" <t>
+[03:36:04.583] /raw /ma "Gravity" <t>
+[03:36:17.592] /ma "Bind" <t>
+[03:36:17.602] /raw /ma "Bind" <t>
+[03:36:23.781] /ma "Utsusemi: Ni" <me>
+[03:36:23.792] /raw /ma "Utsusemi: Ni" 22288
+[03:36:30.617] /ma bio 2
+[03:36:30.628] /raw /ma "Bio II" 17498522
+[03:36:35.920] /heal
+[03:36:40.781] /heal off
+[03:36:40.815] /heal off
+[03:36:40.848] /heal off
+[03:36:42.040] /ma "Gravity" <t>
+[03:36:42.051] /raw /ma "Gravity" <t>
+[03:36:45.749] /ma "Gravity" <t>
+[03:36:45.759] /raw /ma "Gravity" <t>
+[03:36:51.458] /heal
+[03:37:12.779] /ma "Stoneskin" <me>
+[03:37:12.789] /raw /ma "Stoneskin" 22288
+[03:37:22.773] /ma slow2 <t>
+[03:37:22.784] /raw /ma "Slow II" <t>
+[03:37:33.477] /ma "Bind" <t>
+[03:37:33.488] /raw /ma "Bind" <t>
+[03:37:36.234] /addon load recast
+[03:37:44.392] /ma blizzard3
+[03:37:44.403] /raw /ma "Blizzard III" 17498522
+[03:37:47.354] /ma blizzard3
+[03:37:47.364] /raw /ma "Blizzard III" 17498522
+[03:37:57.281] /ma thunder3
+[03:37:57.292] /raw /ma "Thunder III" 17498522
+[03:38:00.340] /ma thunder3
+[03:38:00.351] /raw /ma "Thunder III" 17498522
+[03:38:08.606] /heal
+[03:38:25.637] /addon load find
+[03:38:27.643] /find vile
+[03:38:35.802] /heal off
+[03:38:35.838] /heal off
+[03:38:39.170] /ma bio2
+[03:38:39.181] /raw /ma "Bio II" 17498522
+[03:38:47.464] /ma "Utsusemi: Ni" <me>
+[03:38:47.475] /raw /ma "Utsusemi: Ni" 22288
+[03:38:55.966] /ma "Bind" <t>
+[03:38:55.976] /raw /ma "Bind" <t>
+[03:39:02.664] /ma "Gravity" <t>
+[03:39:02.675] /raw /ma "Gravity" <t>
+[03:39:10.447] /ma cure2 me
+[03:39:10.458] /raw /ma "Cure II" 22288
+[03:39:28.976] /ma blizzard3
+[03:39:28.987] /raw /ma "Blizzard III" 17498522
+[03:39:37.072] /ma thunder3
+[03:39:37.083] /raw /ma "Thunder III" 17498522
+[03:39:51.217] /ma "Dispel" <t>
+[03:39:51.228] /raw /ma "Dispel" <t>
+[03:40:00.635] /ma poison2
+[03:40:00.645] /raw /ma "Poison II" 17498522
+[03:40:11.819] /ma "Utsusemi: Ni" <me>
+[03:40:11.830] /raw /ma "Utsusemi: Ni" 22288
+[03:40:19.467] /ma "Bind" <t>
+[03:40:19.478] /raw /ma "Bind" <t>
+[03:40:27.118] /ma "Stoneskin" <me>
+[03:40:27.128] /raw /ma "Stoneskin" 22288
+[03:40:35.892] /ma "Cure IV" <stpt>
+[03:40:35.903] /raw /ma "Cure IV" <stpt>
+[03:40:35.903] /ma "Cure IV" 22288
+[03:40:36.439] /ma "Cure IV" 22288
+[03:40:39.051] /ma "Cure IV" <stpt>
+[03:40:39.061] /raw /ma "Cure IV" <stpt>
+[03:40:39.061] /ma "Cure IV" 22288
+[03:40:39.531] /ma "Cure IV" 22288
+[03:40:45.550] /ma poison2 
+[03:40:45.561] /raw /ma "Poison II" 17498522
+[03:40:49.868] /ma poison2 
+[03:40:51.396] /ma poison2 
+[03:40:56.093] /ma poison2 
+[03:40:56.104] /raw /ma "Poison II" 17498522
+[03:41:00.111] /ma bio2
+[03:41:00.121] /raw /ma "Bio II" 17498522
+[03:41:01.979] /ma bio2
+[03:41:01.989] /raw /ma "Bio II" 17498522
+[03:41:07.757] /ma "Phalanx" <me>
+[03:41:07.767] /raw /ma "Phalanx" 22288
+[03:41:14.015] /ma "Gravity" <t>
+[03:41:14.026] /raw /ma "Gravity" <t>
+[03:41:14.388] /ma "Gravity" <t>
+[03:41:14.398] /raw /ma "Gravity" <t>
+[03:41:22.173] /heal
+[03:41:24.383] /heal off
+[03:41:24.418] /heal off
+[03:41:24.453] /heal off
+[03:41:24.557] /heal off
+[03:41:24.590] /heal off
+[03:41:24.727] /heal off
+[03:41:24.759] /heal off
+[03:41:36.827] /ma "Bind" <t>
+[03:41:36.837] /raw /ma "Bind" <t>
+[03:41:44.458] /ma "Utsusemi: Ni" <me>
+[03:41:44.469] /raw /ma "Utsusemi: Ni" 22288
+[03:41:52.140] /heal
+[03:42:11.794] /heal off
+[03:42:11.829] /heal off
+[03:42:11.859] /heal off
+[03:42:12.746] /ma "Bind" <t>
+[03:42:12.756] /raw /ma "Bind" <t>
+[03:42:12.983] /ma "Bind" <t>
+[03:42:12.994] /raw /ma "Bind" <t>
+[03:42:14.142] /ma "Bind" <t>
+[03:42:14.153] /raw /ma "Bind" <t>
+[03:42:14.649] /ma "Bind" <t>
+[03:42:14.660] /raw /ma "Bind" <t>
+[03:42:14.890] /ma "Bind" <t>
+[03:42:14.900] /raw /ma "Bind" <t>
+[03:42:15.092] /ma "Bind" <t>
+[03:42:15.102] /raw /ma "Bind" <t>
+[03:42:15.260] /ma "Bind" <t>
+[03:42:15.270] /raw /ma "Bind" <t>
+[03:42:15.466] /ma "Bind" <t>
+[03:42:15.476] /raw /ma "Bind" <t>
+[03:42:16.316] /ma "Bind" <t>
+[03:42:16.327] /raw /ma "Bind" <t>
+[03:42:16.483] /ma "Bind" <t>
+[03:42:16.493] /raw /ma "Bind" <t>
+[03:42:16.657] /ma "Bind" <t>
+[03:42:16.668] /raw /ma "Bind" <t>
+[03:42:16.826] /ma "Bind" <t>
+[03:42:16.837] /raw /ma "Bind" <t>
+[03:42:17.544] /ma "Bind" <t>
+[03:42:17.554] /raw /ma "Bind" <t>
+[03:42:18.459] /ma "Bind" <t>
+[03:42:18.470] /raw /ma "Bind" <t>
+[03:42:19.954] /ma "Bind" <t>
+[03:42:19.964] /raw /ma "Bind" <t>
+[03:42:20.939] /ma "Bind" <t>
+[03:42:20.950] /raw /ma "Bind" <t>
+[03:42:21.143] /ma "Bind" <t>
+[03:42:21.154] /raw /ma "Bind" <t>
+[03:42:28.896] /ma "Utsusemi: Ni" <me>
+[03:42:28.906] /raw /ma "Utsusemi: Ni" 22288
+[03:42:31.989] /ma "Refresh" <stpt>
+[03:42:32.000] /raw /ma "Refresh" <stpt>
+[03:42:32.000] /ma "Refresh" 22288
+[03:42:33.384] /ma "Refresh" 22288
+[03:42:37.734] /p almost time to engage
+[03:42:41.307] /ma "Haste" <stpt>
+[03:42:41.317] /raw /ma "Haste" <stpt>
+[03:42:41.317] /ma "Haste" 22288
+[03:42:41.814] /ma "Haste" 22288
+[03:42:48.548] /heal
+[03:43:07.383] /heal off
+[03:43:07.417] /heal off
+[03:43:07.451] /heal off
+[03:43:07.589] /heal off
+[03:43:07.621] /heal off
+[03:43:11.225] /ma bio2
+[03:43:13.467] /ma bio2
+[03:43:13.478] /raw /ma "Bio II" 17498522
+[03:43:16.426] /ma bio2
+[03:43:16.437] /raw /ma "Bio II" 17498522
+[03:43:18.877] /ma bio2
+[03:43:18.888] /raw /ma "Bio II" 17498522
+[03:43:21.460] /ma bio2
+[03:43:21.471] /raw /ma "Bio II" 17498522
+[03:43:23.500] /p stop a bi
+[03:43:25.743] /ma poison2
+[03:43:25.754] /raw /ma "Poison II" 17498522
+[03:43:27.750] /ma poison2
+[03:43:27.761] /raw /ma "Poison II" 17498522
+[03:43:35.945] /ma "Bind" <t>
+[03:43:35.956] /raw /ma "Bind" <t>
+[03:43:44.411] /ma "Utsusemi: Ni" <me>
+[03:43:44.422] /raw /ma "Utsusemi: Ni" 22288
+[03:43:48.252] /ma "Dispel" <t>
+[03:43:48.263] /raw /ma "Dispel" <t>
+[03:43:48.457] /ma "Dispel" <t>
+[03:43:48.468] /raw /ma "Dispel" <t>
+[03:43:49.614] /ma "Dispel" <t>
+[03:43:49.625] /raw /ma "Dispel" <t>
+[03:43:54.137] /ma "Dispel" <t>
+[03:43:54.148] /raw /ma "Dispel" <t>
+[03:43:56.074] /p go nuts
+[03:44:01.275] /ma Paralyze2 <t>
+[03:44:01.286] /raw /ma "Paralyze II" <t>
+[03:44:07.433] /ma slow2 <t>
+[03:44:07.443] /raw /ma "Slow II" <t>
+[03:44:07.635] /ma slow2 <t>
+[03:44:07.645] /raw /ma "Slow II" <t>
+[03:44:12.836] /ma "Stoneskin" <me>
+[03:44:12.846] /raw /ma "Stoneskin" 22288
+[03:44:13.008] /ma "Stoneskin" <me>
+[03:44:13.019] /raw /ma "Stoneskin" 22288
+[03:44:13.176] /ma "Stoneskin" <me>
+[03:44:13.186] /raw /ma "Stoneskin" 22288
+[03:44:15.047] /ma "Stoneskin" <me>
+[03:44:15.057] /raw /ma "Stoneskin" 22288
+[03:44:15.319] /ma "Stoneskin" <me>
+[03:44:15.330] /raw /ma "Stoneskin" 22288
+[03:44:25.075] /ma "Utsusemi: Ni" <me>
+[03:44:25.086] /raw /ma "Utsusemi: Ni" 22288
+[03:44:37.518] /ma dia2
+[03:44:37.529] /raw /ma "Dia II" 17498522
+[03:44:43.675] /ja convert me
+[03:44:43.686] /raw /ja "Convert" 22288
+[03:44:45.038] /ma "Cure IV" <stpt>
+[03:44:45.049] /raw /ma "Cure IV" <stpt>
+[03:44:45.049] /ma "Cure IV" 22288
+[03:44:45.479] /ma "Cure IV" 22288
+[03:44:49.560] /ma "Cure III" <stpt>
+[03:44:49.570] /raw /ma "Cure III" <stpt>
+[03:44:49.574] /ma "Cure III" 22288
+[03:44:50.918] /ma "Cure III" 22288
+[03:44:54.690] /p you can TA me
+[03:44:56.458] /p you can TA me
+[03:45:00.131] /ma "Cure IV" <stpt>
+[03:45:00.142] /raw /ma "Cure IV" <stpt>
+[03:45:00.142] /ma "Cure IV" 22288
+[03:45:00.439] /ma "Cure IV" 22288
+[03:45:06.934] /ma "Cure III" <stpt>
+[03:45:06.945] /raw /ma "Cure III" <stpt>
+[03:45:06.945] /ma "Cure III" 23003
+[03:45:27.880] /ma bio 2
+[03:45:27.890] /raw /ma "Bio II" 17498522
+[03:45:31.076] /ma "Cure IV" <stpt>
+[03:45:31.086] /raw /ma "Cure IV" <stpt>
+[03:45:31.086] /ma "Cure IV" 22288
+[03:45:32.774] /ma "Cure III" <stpt>
+[03:45:32.785] /raw /ma "Cure III" <stpt>
+[03:45:32.785] /ma "Cure III" 22288
+[03:45:33.384] /ma "Cure III" 23003
+[03:45:38.113] /p disenage
+[03:45:39.472] /ma "Cure IV" <stpt>
+[03:45:39.483] /raw /ma "Cure IV" <stpt>
+[03:45:39.483] /ma "Cure IV" 22288
+[03:45:40.080] /ma "Cure IV" 23003
+[03:45:45.495] /ma "Bind" <t>
+[03:45:45.505] /raw /ma "Bind" <t>
+[03:45:45.657] /ma "Bind" <t>
+[03:45:45.668] /raw /ma "Bind" <t>
+[03:45:57.083] /heal
+[03:45:59.224] /p rest a bit
+[03:46:08.200] /p Man I used to solo this for cash
+[03:46:12.312] /p and now I cant do it anymore lol
+[03:46:21.050] /p cause I actually drink lol
+[03:46:39.378] /p I spent like 2 hours soling him
+[03:46:44.408] /p on retail for my joytoy
+[03:46:47.674] /heal off
+[03:46:47.708] /heal off
+[03:46:47.843] /heal off
+[03:46:53.384] /ma "Bind" <t>
+[03:46:53.395] /raw /ma "Bind" <t>
+[03:47:02.257] /ma "Utsusemi: Ni" <me>
+[03:47:02.267] /raw /ma "Utsusemi: Ni" 22288
+[03:47:09.296] /am bio2
+[03:47:13.143] /ma Paralyze2 <t>
+[03:47:13.153] /raw /ma "Paralyze II" <t>
+[03:47:18.721] /ma slow2 <t>
+[03:47:18.731] /raw /ma "Slow II" <t>
+[03:47:18.925] /ma slow2 <t>
+[03:47:18.935] /raw /ma "Slow II" <t>
+[03:47:24.502] /ma bio2
+[03:47:24.513] /raw /ma "Bio II" 17498522
+[03:47:27.664] /ma bio2
+[03:47:27.675] /raw /ma "Bio II" 17498522
+[03:47:32.525] /ma poison2
+[03:47:32.536] /raw /ma "Poison II" 17498522
+[03:47:36.947] /ma thunder3
+[03:47:36.958] /raw /ma "Thunder III" 17498522
+[03:47:46.125] /ma poison2
+[03:47:46.136] /raw /ma "Poison II" 17498522
+[03:47:53.438] /ma "Blind" <t>
+[03:47:53.448] /raw /ma "Blind" <t>
+[03:48:00.438] /ma "Bind" <t>
+[03:48:00.449] /raw /ma "Bind" <t>
+[03:48:01.936] /ma "Bind" <t>
+[03:48:01.947] /raw /ma "Bind" <t>
+[03:48:04.453] /ma "Bind" <t>
+[03:48:04.463] /raw /ma "Bind" <t>
+[03:48:14.820] /ma blizzard3
+[03:48:14.830] /raw /ma "Blizzard III" 17498522
+[03:48:18.224] /ma blizzard3
+[03:48:18.235] /raw /ma "Blizzard III" 17498522
+[03:48:27.473] /ma thunder3
+[03:48:27.483] /raw /ma "Thunder III" 17498522
+[03:48:29.408] /p engage
+[03:48:38.591] /ma "Haste" <stpt>
+[03:48:38.601] /raw /ma "Haste" <stpt>
+[03:48:38.607] /ma "Haste" 22288
+[03:48:39.680] /ma "Haste" 23003
+[03:48:49.743] /ma "Utsusemi: Ni" <me>
+[03:48:49.754] /raw /ma "Utsusemi: Ni" 22288
+[03:48:53.890] /ma "Stoneskin" <me>
+[03:48:53.900] /raw /ma "Stoneskin" 22288
+[03:48:54.131] /ma "Stoneskin" <me>
+[03:48:54.141] /raw /ma "Stoneskin" 22288
+[03:48:55.249] /ma "Stoneskin" <me>
+[03:48:55.259] /raw /ma "Stoneskin" 22288
+[03:49:05.077] /ma "Utsusemi: Ichi" <me>
+[03:49:05.087] /raw /ma "Utsusemi: Ichi" 22288
+[03:49:12.522] /ma "Cure IV" <stpt>
+[03:49:12.532] /raw /ma "Cure IV" <stpt>
+[03:49:12.533] /ma "Cure IV" 22288
+[03:49:12.929] /ma "Cure IV" 22288
+[03:49:24.151] /p disengage in 10
+[03:49:26.228] /ma "Utsusemi: Ni" <me>
+[03:49:26.239] /raw /ma "Utsusemi: Ni" 22288
+[03:49:36.254] /p Disengage
+[03:49:36.731] /p Disengage
+[03:49:37.206] /p Disengage
+[03:49:37.682] /p Disengage
+[03:49:38.022] /p Disengage
+[03:49:39.147] /ma "Bind" <t>
+[03:49:39.157] /raw /ma "Bind" <t>
+[03:49:46.281] /heal
+[03:50:04.453] /p hahaha
+[03:50:19.073] /heal off
+[03:50:19.107] /heal off
+[03:50:19.141] /heal off
+[03:50:20.634] /ma Paralyze2 <t>
+[03:50:20.645] /raw /ma "Paralyze II" <t>
+[03:50:23.355] /ma Paralyze2 <t>
+[03:50:23.365] /raw /ma "Paralyze II" <t>
+[03:50:28.420] /ma slow2 <t>
+[03:50:28.431] /raw /ma "Slow II" <t>
+[03:50:29.914] /ma slow2 <t>
+[03:50:29.925] /raw /ma "Slow II" <t>
+[03:50:34.713] /heal
+[03:50:38.825] /heal off
+[03:50:38.860] /heal off
+[03:50:38.893] /heal off
+[03:50:39.574] /ma "Silence" <t>
+[03:50:39.585] /raw /ma "Silence" <t>
+[03:50:50.036] /ma "Bind" <t>
+[03:50:50.046] /raw /ma "Bind" <t>
+[03:50:57.380] /ma "Gravity" <t>
+[03:50:57.391] /raw /ma "Gravity" <t>
+[03:51:03.672] /ma "Utsusemi: Ni" <me>
+[03:51:03.683] /raw /ma "Utsusemi: Ni" 22288
+[03:51:06.899] /heal
+[03:51:36.618] /l come whack charby
+[03:51:40.016] /l I has bring 
+[03:51:45.461] /l pst when ready
+[03:51:49.233] /heal off
+[03:51:49.268] /heal off
+[03:51:49.438] /heal off
+[03:51:49.983] /ma "Haste" <stpt>
+[03:51:49.994] /raw /ma "Haste" <stpt>
+[03:51:49.994] /ma "Haste" 22288
+[03:51:50.390] /ma "Haste" 22288
+[03:51:57.492] /ma "Gravity" <t>
+[03:51:57.503] /raw /ma "Gravity" <t>
+[03:51:58.005] /ma "Bind" <t>
+[03:51:58.016] /raw /ma "Bind" <t>
+[03:52:00.486] /ma "Bind" <t>
+[03:52:00.496] /raw /ma "Bind" <t>
+[03:52:00.657] /ma "Bind" <t>
+[03:52:00.667] /raw /ma "Bind" <t>
+[03:52:10.210] /ma "Utsusemi: Ni" <me>
+[03:52:10.220] /raw /ma "Utsusemi: Ni" 22288
+[03:52:14.729] /l atm im tanking
+[03:52:18.062] /l but just come blast
+[03:52:20.991] /heal
+[03:52:29.116] /s @bring arcueid
+[03:52:48.430] /p Engage in 10
+[03:52:53.494] /heal off
+[03:52:53.526] /heal off
+[03:52:53.663] /heal off
+[03:52:53.699] /heal off
+[03:52:53.733] /heal off
+[03:52:55.976] /ma bio2
+[03:52:55.986] /raw /ma "Bio II" 17498522
+[03:52:59.853] /p use me for TA?SA
+[03:53:03.084] /ma bio2
+[03:53:03.094] /raw /ma "Bio II" 17498522
+[03:53:07.777] /ma "Utsusemi: Ni" <me>
+[03:53:07.787] /raw /ma "Utsusemi: Ni" 22288
+[03:53:07.944] /ma "Utsusemi: Ni" <me>
+[03:53:07.955] /raw /ma "Utsusemi: Ni" 22288
+[03:53:08.116] /ma "Utsusemi: Ni" <me>
+[03:53:08.126] /raw /ma "Utsusemi: Ni" 22288
+[03:53:13.724] /ma "Blind" <t>
+[03:53:13.735] /raw /ma "Blind" <t>
+[03:53:19.572] /ma "Utsusemi: Ichi" <me>
+[03:53:19.582] /raw /ma "Utsusemi: Ichi" 22288
+[03:53:25.352] /ma "Stoneskin" <me>
+[03:53:25.363] /raw /ma "Stoneskin" 22288
+[03:53:25.526] /ma "Stoneskin" <me>
+[03:53:25.536] /raw /ma "Stoneskin" 22288
+[03:53:42.962] /p dise
+[03:53:47.928] /p oh shit lol
+[03:53:51.636] /p brb lol
+[03:53:59.773] /s @goto arcueid
+[03:54:06.648] /ja composure
+[03:54:06.658] /raw /ja "Composure" 22288
+[03:54:14.782] /ma "Cure IV" <stpt>
+[03:54:14.792] /raw /ma "Cure IV" <stpt>
+[03:54:14.792] /ma "Cure IV" 22288
+[03:54:15.698] /ma "Cure IV" 23003
+[03:54:22.088] /ma "Utsusemi: Ni" <me>
+[03:54:22.099] /raw /ma "Utsusemi: Ni" 22288
+[03:54:22.257] /ma "Utsusemi: Ni" <me>
+[03:54:22.268] /raw /ma "Utsusemi: Ni" 22288
+[03:54:25.898] /ma "Stoneskin" <me>
+[03:54:25.908] /raw /ma "Stoneskin" 22288
+[03:54:26.102] /ma "Stoneskin" <me>
+[03:54:26.112] /raw /ma "Stoneskin" 22288
+[03:54:26.271] /ma "Stoneskin" <me>
+[03:54:26.282] /raw /ma "Stoneskin" 22288
+[03:54:28.039] /ma "Stoneskin" <me>
+[03:54:28.049] /raw /ma "Stoneskin" 22288
+[03:54:28.242] /ma "Stoneskin" <me>
+[03:54:28.253] /raw /ma "Stoneskin" 22288
+[03:54:40.111] /magic "Cure IV" 22556
+[03:54:45.041] /ma "Utsusemi: Ichi" <me>
+[03:54:45.052] /raw /ma "Utsusemi: Ichi" 22288
+[03:54:45.210] /ma "Utsusemi: Ichi" <me>
+[03:54:45.220] /raw /ma "Utsusemi: Ichi" 22288
+[03:54:46.569] /ma "Utsusemi: Ichi" <me>
+[03:54:46.580] /raw /ma "Utsusemi: Ichi" 22288
+[03:54:46.774] /ma "Utsusemi: Ichi" <me>
+[03:54:46.784] /raw /ma "Utsusemi: Ichi" 22288
+[03:54:52.316] /ma "Cure IV" <stpt>
+[03:54:52.326] /raw /ma "Cure IV" <stpt>
+[03:54:52.326] /ma "Cure IV" 22288
+[03:54:53.164] /ma "Cure IV" 22288
+[03:54:56.871] /ma "Cure III" <stpt>
+[03:54:56.882] /raw /ma "Cure III" <stpt>
+[03:54:56.882] /ma "Cure III" 22288
+[03:54:58.843] /ma "Cure III" 22155
+[03:55:03.840] /ma "Utsusemi: Ni" <me>
+[03:55:03.851] /raw /ma "Utsusemi: Ni" 22288
+[03:55:04.046] /ma "Utsusemi: Ni" <me>
+[03:55:04.056] /raw /ma "Utsusemi: Ni" 22288
+[03:55:04.486] /ma "Utsusemi: Ni" <me>
+[03:55:04.497] /raw /ma "Utsusemi: Ni" 22288
+[03:55:06.322] /ma "Utsusemi: Ni" <me>
+[03:55:06.333] /raw /ma "Utsusemi: Ni" 22288
+[03:55:06.527] /ma "Utsusemi: Ni" <me>
+[03:55:06.537] /raw /ma "Utsusemi: Ni" 22288
+[03:55:06.695] /ma "Utsusemi: Ni" <me>
+[03:55:06.706] /raw /ma "Utsusemi: Ni" 22288
+[03:55:11.626] /ma "Stoneskin" <me>
+[03:55:11.637] /raw /ma "Stoneskin" 22288
+[03:55:11.832] /ma "Stoneskin" <me>
+[03:55:11.842] /raw /ma "Stoneskin" 22288
+[03:55:19.347] /ma "Cure IV" <stpt>
+[03:55:19.357] /raw /ma "Cure IV" <stpt>
+[03:55:19.357] /ma "Cure IV" 22288
+[03:55:23.085] /ma "Cure IV" 23003
+[03:55:29.379] /p Gz
+[03:55:33.794] /ma "Cure IV" <stpt>
+[03:55:33.805] /raw /ma "Cure IV" <stpt>
+[03:55:33.805] /ma "Cure IV" 22288
+[03:55:34.539] /ma "Cure IV" 22288
+[03:55:49.943] /p charbs eats my shit tring to straight tank
+[03:55:53.037] /p lol
+[03:56:12.929] /p At least you know I can tank KV solo lol
+[03:56:41.556] /p im building he RDM/NIN tank set tomorrow lol
+[03:56:59.373] /p 37 emnity on dispel
+[03:57:01.344] /p GG W
+[03:57:04.711] /p GWP8
+[03:57:10.727] /p fm lol
+[03:57:17.666] /ma "Utsusemi: Ni" <me>
+[03:57:17.676] /raw /ma "Utsusemi: Ni" 22288
+[03:57:21.232] /ma "Haste" <stpt>
+[03:57:21.243] /raw /ma "Haste" <stpt>
+[03:57:21.243] /ma "Haste" 22288
+[03:57:21.912] /ma "Haste" 22288
+[03:57:24.463] /ma "Haste" <stpt>
+[03:57:24.473] /raw /ma "Haste" <stpt>
+[03:57:24.473] /ma "Haste" 22288
+[03:57:24.871] /ma "Haste" 22288
+[03:58:16.280] /p tbh
+[03:58:28.823] /p i almost wonder if we can get 3x smn and me to kill KB
+[03:58:50.212] /p @_@
+[03:59:05.922] /p Def RDM and SMN x2 duoable
+[03:59:24.518] /p What ime are you on tomorrow>
+[03:59:28.768] /p Ill grab a thf
+[03:59:36.686] /p and we'll do it
+[03:59:53.894] /p kk
+[04:00:25.990] /p :o
+[04:00:32.484] /p thought it was still up lol
+[04:00:34.389] /p np
+[04:00:35.985] /staffoff
+[04:01:03.763] /p Once I get the set built
+[04:01:10.191] /p GG PLD tank lol
+[04:01:16.547] /p good luck pulling hate
+[04:02:04.046] /p I held KB against NIN/DRK and PLD/WAR on retail as RDM/NIN back in ze day
+[04:02:23.460] /p only thing that beat me was BRD/NIN druing the mazurka days
+[04:02:44.848] /p haha
+[04:03:03.616] /p I came from the server that made Mr. Argus
+[04:03:18.065] /p I had to learn how to HNM at a disadvantage. 
+[04:03:26.634] /p I have one
+[04:03:34.146] /p FYI
+[04:03:43.328] /p Its not going to be working in about 2 days
+[04:03:46.523] /p Im fixing it. 
+[04:04:07.949] /p  Im going to make novah fix limbus at the same time
+[04:04:19.099] /p And no, you dont need it in limbus 
+[04:04:37.967] /p I soloed NW up to floor 5 a couple weeks back
+[04:05:04.960] /p I just need to make novah set mobs at 135
+[04:05:11.218] /p since the core is in
+[04:06:01.151] /p Yeah it sucks right now
+[04:06:15.604] /p I need to do some testing to bring it back to normal
+[04:06:24.952] /p but it should be in within a week or two
+[04:06:52.769] /p crabs?
+[04:06:54.742] /p SW?
+[04:07:04.195] /p yeah
+[04:07:17.151] /p thats how the zone works
+[04:07:25.684] /p 1st floor requires a full cleare
+[04:07:35.107] /p then you get to wreck up to chip
+[04:07:42.344] /p Retail did that oo
+[04:07:47.755] /p at least in 2007
+[04:07:56.728] /ma "Utsusemi: Ni" <me>
+[04:07:56.739] /raw /ma "Utsusemi: Ni" 22288
+[04:08:00.404] /ma "Refresh" <stpt>
+[04:08:00.414] /raw /ma "Refresh" <stpt>
+[04:08:00.414] /ma "Refresh" 22288
+[04:08:01.012] /ma "Refresh" 22288
+[04:08:08.562] /ma "Phalanx" <me>
+[04:08:08.572] /raw /ma "Phalanx" 22288
+[04:08:10.329] /ma "Phalanx" <me>
+[04:08:10.340] /raw /ma "Phalanx" 22288
+[04:08:15.599] /ma protect4 me
+[04:08:15.610] /raw /ma "Protect IV" 22288
+[04:08:22.298] /ma shell4 me
+[04:08:22.309] /raw /ma "Shell IV" 22288
+[04:08:28.112] /p good news
+[04:08:32.669] /p i have a pop
+[04:08:36.238] /ma sleep2
+[04:08:36.249] /raw /ma "Sleep II" 17498521
+[04:08:41.782] /ma Paralyze2 <t>
+[04:08:41.792] /raw /ma "Paralyze II" <t>
+[04:08:41.951] /ma Paralyze2 <t>
+[04:08:41.961] /raw /ma "Paralyze II" <t>
+[04:08:43.751] /ma Paralyze2 <t>
+[04:08:43.762] /raw /ma "Paralyze II" <t>
+[04:08:43.955] /ma Paralyze2 <t>
+[04:08:43.966] /raw /ma "Paralyze II" <t>
+[04:08:49.602] /ma slow2 <t>
+[04:08:49.613] /raw /ma "Slow II" <t>
+[04:08:49.774] /ma slow2 <t>
+[04:08:49.785] /raw /ma "Slow II" <t>
+[04:08:55.722] /ma "Blind" <t>
+[04:08:55.732] /raw /ma "Blind" <t>
+[04:08:55.894] /ma "Blind" <t>
+[04:08:55.904] /raw /ma "Blind" <t>
+[04:09:00.758] /ma "Gravity" <t>
+[04:09:00.768] /raw /ma "Gravity" <t>
+[04:09:00.926] /ma "Gravity" <t>
+[04:09:00.936] /raw /ma "Gravity" <t>
+[04:09:02.692] /ma "Gravity" <t>
+[04:09:02.702] /raw /ma "Gravity" <t>
+[04:09:02.863] /ma "Gravity" <t>
+[04:09:02.874] /raw /ma "Gravity" <t>
+[04:09:09.945] /attack
+[04:09:09.955] /raw /attack <t>
+[04:09:20.863] /p I can make it sometime soonish during yours
+[04:09:23.176] /ma "Utsusemi: Ni" <me>
+[04:09:23.187] /raw /ma "Utsusemi: Ni" 22288
+[04:09:27.049] /ma "Haste" <stpt>
+[04:09:27.059] /raw /ma "Haste" <stpt>
+[04:09:27.059] /ma "Haste" 22288
+[04:09:27.423] /ma "Haste" 22288
+[04:09:41.436] /ma enblizzard2
+[04:09:41.446] /raw /ma "Enblizzard II" 22288
+[04:09:57.552] /ma "Utsusemi: Ichi" <me>
+[04:09:57.562] /raw /ma "Utsusemi: Ichi" 22288
+[04:10:04.792] /ma "Blind" <t>
+[04:10:04.803] /raw /ma "Blind" <t>
+[04:10:19.855] /ma Paralyze2 <t>
+[04:10:19.865] /raw /ma "Paralyze II" <t>
+[04:10:25.267] /ma "Stoneskin" <me>
+[04:10:25.278] /raw /ma "Stoneskin" 22288
+[04:10:26.689] /ma "Stoneskin" <me>
+[04:10:26.700] /raw /ma "Stoneskin" 22288
+[04:10:26.926] /ma "Stoneskin" <me>
+[04:10:26.937] /raw /ma "Stoneskin" 22288
+[04:10:28.531] /ma "Stoneskin" <me>
+[04:10:28.541] /raw /ma "Stoneskin" 22288
+[04:10:29.618] /ma "Stoneskin" <me>
+[04:10:29.629] /raw /ma "Stoneskin" 22288
+[04:10:29.894] /ma "Stoneskin" <me>
+[04:10:29.904] /raw /ma "Stoneskin" 22288
+[04:10:31.993] /ma "Stoneskin" <me>
+[04:10:32.004] /raw /ma "Stoneskin" 22288
+[04:10:32.233] /ma "Stoneskin" <me>
+[04:10:32.244] /raw /ma "Stoneskin" 22288
+[04:10:35.224] /ma "Dispel" <t>
+[04:10:35.234] /raw /ma "Dispel" <t>
+[04:10:35.426] /ma "Dispel" <t>
+[04:10:35.437] /raw /ma "Dispel" <t>
+[04:10:45.356] /ma "Utsusemi: Ni" <me>
+[04:10:45.366] /raw /ma "Utsusemi: Ni" 22288
+[04:11:01.402] /weaponskill "Knights of Round" 17498521
+[04:11:01.413] /raw /ra <me>
+[04:11:13.884] /ma "Utsusemi: Ichi" <me>
+[04:11:13.894] /raw /ma "Utsusemi: Ichi" 22288
+[04:11:20.647] /ma "Utsusemi: Ichi" <me>
+[04:11:20.658] /raw /ma "Utsusemi: Ichi" 22288
+[04:11:29.457] /ma "Dispel" <t>
+[04:11:29.468] /raw /ma "Dispel" <t>
+[04:12:05.771] /t arcueid also I have the aurasteal fix in I think]
+[04:12:27.176] /t Arcueid THF merits should be soon once I figure out he DB 
+[04:12:32.482] /s @choco
+[04:13:03.009] /t Arcuied basically, your shit isnt coded in the core, but im gonna make a supernova dispel mode
+[04:13:05.593] /t Arcuied basically, your shit isnt coded in the core, but im gonna make a supernova dispel mode
+[04:13:20.555] /t arcueid imma make a supernova edtion of aura steil
+[04:13:33.644] /t arcueid and figure out the DB settings for your stuff
+[04:14:32.103] /t arcueid welp, ill make it tomorrow and beg novah to implement 
+[04:15:18.470] /l Alright
+[04:15:22.957] /l IM about to peace out
+[04:15:29.043] /l Who needs wat?
+[04:16:02.155] /l mfw
+[04:16:13.071] /l Jorm works like retail
+[04:16:15.416] /l we just suck
+[04:16:18.374] /l and q isle
+[04:16:24.801] /l I have no fucking clue what novah did
+[04:16:48.359] /l Jorm was like 100 hp.tic in 2006 lolololol
+[04:17:21.859] /l yar
+[04:17:41.038] /l AV was coded to 250 hp.tic lol
+[04:17:57.938] /l SE nerfed it after the JPs couldnt kill
+[04:18:05.765] /ma "Utsusemi: Ni" <me>
+[04:18:05.775] /raw /ma "Utsusemi: Ni" 22288
+[04:18:18.073] /staff on
+[04:18:20.518] /staffon
+[04:18:49.025] /l Last time i killed AV in retail it as a 36 hour kill steal
+[04:18:59.225] /l first stolen AV
+[04:19:10.617] /l Jorm was litterally like
+[04:19:17.720] /l Son, how many summoners do you have?
+[04:19:20.305] /l 12?
+[04:19:24.622] /l ok, you can win
+[04:20:01.108] /l Hit him with Ifrit
+[04:20:08.859] /l 2k a slap gaurnteed
+[04:20:18.617] /l 1 party was pure tank
+[04:20:22.938] /l 1 party was pure BP
+[04:20:37.148] /l 1 party was WTF IS GOING ON OMG HALP
+[04:20:46.532] /l and 2 outside WHM pt
+[04:21:46.858] /l Jorm wasn't regually killable by NA till ToAU <_<
+[04:22:20.627] /l I ran COP without addons though \
+[04:22:37.799] /l 2-3 without liquids was a nightmare
+[04:23:19.763] /l Our setup for the 1 day run was
+[04:23:29.116] /l SAM x3 DRK PLD RDM
+[04:23:43.531] /l Every fight we hit up Bastilla for a revit
+[04:24:02.906] /l 24 hours we beat CoP
+[04:24:12.499] /l AKA we got to sea 
+[04:25:00.920] /l ITS A FUCKING LILITZ
+[04:25:04.017] /l SUP SON
+[04:25:25.199] /l I had werk
+[04:25:27.614] /l and thingz
+[04:25:33.977] /ma "Stoneskin" <me>
+[04:25:33.987] /raw /ma "Stoneskin" 22288
+[04:26:11.509] /l mfw lilitz doesnt know im fixing time extensions
+[04:26:29.295] /l How many do you need
+[04:27:00.954] /l I have 75 jades but son
+[04:27:04.422] /l you need to farm
+[04:27:16.110] /l my pockets arent that deep
+[04:27:37.598] /l @lilitz Im turning dynamis into retail
+[04:27:56.095] /l No more 7 hour sandies
+[04:28:31.420] /l So uh
+[04:28:37.914] /l Jeuno gets 1 hr TE
+[04:28:48.318] /l instead of party x stat
+[04:29:15.459] /l Basically
+[04:29:26.441] /l Im fixing the time exetnsions to work properly
+[04:29:47.861] /l I found the issue, Gen 1 is close, Gen 2 means no more infinite farming
+[04:31:07.329] /l Lets put it this way
+[04:31:11.036] /l 3x 15min TE
+[04:31:16.578] /l means 45 mins for farm
+[04:31:20.927] /l not 15 hours
+[04:31:51.526] /l wat
+[04:32:10.067] /l based on what I saw and repots
+[04:32:18.195] /l Jorm is right per 2006
+[04:33:02.529] /l 2006 jrom was 100/hp tic
+[04:33:07.697] /l aka unbeatable
+[04:33:22.282] /p he got nerfed with AV
+[04:33:27.183] /l he got nerfed with AV
+[04:33:45.950] /l I have to see
+[04:33:54.311] /l but I can hit him for a 50% nerf
+[04:34:19.781] /l tbh
+[04:34:28.584] /l I think jrom is about 6 levels too high
+[04:34:37.969] /l based on what I saw with me on RMD
+[04:34:50.279] /l I have 332 enfeeb
+[04:35:04.830] /p I could land at lest slow 
+[04:35:27.133] /l I could land at lest slow and blind with shit gear
+[04:35:37.878] /l on jorm back in 2007
+[04:35:46.992] /l Here its like wtf mate
+[04:36:05.111] /l its like pendejo the fuck
+[04:36:44.482] /l Im litearlly missing 5 skill from cap on enfeebs
+[04:37:03.252] /l and I can barely land a 4/5 slow II
+[04:38:48.409] /l fyi novah adding the capes somewhere]
+[04:38:55.235] /l not sure where tho
+[04:39:03.397] /l I requested it
+[04:39:34.610] /l novah still owes me brictas cuffs
+[04:39:42.597] /l aka my 2nd worst nm
+[04:40:27.246] /l also
+[04:40:29.964] /l mfw jorm
+[04:40:30.962] /paste
+[04:40:31.666] /l   ?que cono
+[04:40:55.157] /l he called me his puta
+[04:41:41.432] /l mfw arcueid hasnt been hit by kori para 2
+[04:42:29.125] /l its ok
+[04:42:33.350] /paste
+[04:42:34.159] /l Deseo jormagund era mi perra
+[04:43:08.670] /paste
+[04:43:09.203] /l Pero al parecer, Jorg decir es mi chulo
+[04:43:21.915] /l ; ; 
+[04:43:44.155] /l Goddamnit, I hate being a texan
+[04:44:24.172] /l ill see if I can fix it
+[04:44:30.257] /l DSP is so fucked
+[04:46:44.015] /t lilitz nope
+[04:47:41.747] /t lilitz btw nidhogg not codede same as jorm. I have to search for it a ton. I fixed sky and it took me 18 hrs
+[04:48:08.710] /t lilitz these assholes make work hard
+[04:48:41.143] /t lilitz I have to figure it out, but nidd code isint as easy as lookingat him
+[04:49:18.920] /t Lilitz Learn Lua and C++ and you are a god on DSP
+[04:50:08.582] /t Lilitz I fixed a dick ton of stuff, but its a fight to make everything work
+[04:51:02.608] /paste
+[04:51:02.969] /t Liltiz Me gustaria saber mas espanol para hablar con usted en su tounge nativa.
+[04:51:08.966] /paste
+[04:51:11.370] /t lilitz Me gustaria saber mas espanol para hablar con usted en su tounge nativa.
+[04:51:59.463] /paste
+[04:52:00.166] /t lilitz Yo no hablo mucho espanol mas.
+[04:52:12.102] /t lilitz But yeah, for real
+[04:52:56.063] /t lilitz I was semi fluent in spanish to get by for a while
+[04:53:18.035] /t Lilitz But after work and having to learn hindu etc I dont know.
+[04:54:21.682] /t lilitz if I had to live in spain, I would ask for food, water and beer! thats all that matters imo!
+[04:56:00.287] /paste
+[04:56:01.125] /t lilitz ?Cual es la mejor cerveza en Espana?
+[04:56:46.846] /t Lilitz :D 
+[04:57:26.830] /t lilitz I need to relearn spanish
+[04:57:46.693] /t Liltiz Holy shit, The french are weird
+[04:58:34.246] /t Lilitz I have a few fruit cervazas
+[04:59:05.387] /t Liltiz best one was a blegina lambic
+[04:59:10.559] /t Liltiz best one was a blegina lambic
+[04:59:32.181] /t Lilitz the best one was a belgian lambic
+[05:00:00.337] /t lilitz lemonchello and grain>
+[18:34:00.438] /s @goto bope
+[18:34:43.004] /join
+[18:34:47.425] /map
+[18:34:49.632] /sea all
+[18:35:31.956] /p i have no clue whats going on
+[18:35:34.302] /p I just logged in
+[18:35:52.221] /ac unload
+[18:37:00.462] /map
+[18:37:49.731] /s @hidecasta
+[18:39:03.173] /l yep
+[18:39:05.554] /map
+[18:39:36.770] /l gives 12 instead of 100 lol
+[18:40:05.467] /map
+[18:40:16.648] /map
+[18:40:52.186] /s @hidecasta
+[18:41:06.261] /s mfw I should be on rng
+[18:41:20.541] /t novah im in 2nd pt
+[18:41:28.704] /t novah with brownies
+[18:41:30.844] /sea
+[18:41:49.204] /t novah Can you add her?
+[18:42:48.732] /t valda how bout you add brownies and me to the ally
+[18:43:05.430] /p brownies join the ally
+[18:43:06.552] /p plz
+[18:43:21.071] /p <call5> take ally invite
+[18:43:27.189] /p its from vala
+[18:43:28.718] /p valda
+[18:43:34.327] /p make me lead 
+[18:43:44.094] /t novah brownies
+[18:43:47.599] /p make me lead
+[18:43:48.651] /p make me lead
+[18:43:49.503] /p make me lead
+[18:44:02.926] /t novah add me now
+[18:44:11.459] /join
+[18:44:29.309] /s @goto novah
+[18:47:13.741] /map
+[18:47:41.188] /map
+[18:48:23.550] /map
+[18:49:11.320] /pcmd add novah
+[18:49:38.187] /map
+[18:49:46.135] /map
+[18:52:47.089] /map
+[18:53:43.294] /map
+[18:54:29.194] /map
+[18:55:15.565] /map
+[18:55:32.704] /map
+[18:55:45.452] /map
+[18:56:03.980] /map
+[18:56:12.446] /map
+[18:57:27.564] /map
+[18:59:06.770] /map
+[19:00:32.451] /map
+[19:00:54.450] /map
+[19:01:28.759] /map
+[19:02:16.085] /map
+[19:02:58.518] /map
+[19:03:38.877] /map
+[19:03:47.885] /map
+[19:05:04.590] /l nope
+[19:05:18.461] /l you can always start one up
+[19:05:21.830] /map
+[19:06:33.468] /map
+[19:06:50.228] /map
+[19:08:52.771] /ma "Utsusemi: Ni" <me>
+[19:08:52.781] /raw /ma "Utsusemi: Ni" 22288
+[19:08:54.978] /ma "Utsusemi: Ni" <me>
+[19:08:54.989] /raw /ma "Utsusemi: Ni" 22288
+[19:09:39.175] /map
+[19:09:51.104] /map
+[19:10:16.269] /map
+[19:14:59.498] /map
+[19:15:09.637] /map
+[19:15:18.481] /map
+[19:16:27.026] /addon load skeletonkey
+[19:16:32.135] /skeletonkey <t>
+[19:17:36.395] /map
+[19:29:46.414] /map
+[19:29:58.874] /map
+[19:31:07.439] /map
+[19:32:40.686] /map
+[19:33:39.302] /case
+[19:33:47.154] /wardrobe
+[19:35:09.642] /l low level RNG is OP
+[19:35:10.797] /l lol
+[19:35:13.009] /l are you kidding me
+[19:35:42.176] /l theres a set of str pants
+[19:35:47.075] /l strider boots
+[19:35:54.485] /l Bodies always suck
+[19:36:30.626] /map
+[19:36:41.339] /l dont think so
+[19:36:43.175] /l level 24
+[19:37:30.058] /l migth be
+[19:37:39.408] /p got it
+[19:41:36.627] /map
+[19:49:59.616] /map
+[23:29:19.992] /ma "Utsusemi: Ni" <me>
+[23:29:20.002] /raw /ma "Utsusemi: Ni" 22288
+[23:29:36.657] /sh MY 23 SECOND RECAST NI SAYS WHAT
+[23:29:42.469] /ja composure
+[23:29:42.480] /raw /ja "Composure" 22288
+[23:29:44.239] /ma "Stoneskin" <me>
+[23:29:44.249] /raw /ma "Stoneskin" 22288
+[23:29:53.795] /ma "Phalanx" <me>
+[23:29:53.806] /raw /ma "Phalanx" 22288
+[23:29:59.539] /ma "Refresh" <stpt>
+[23:29:59.550] /raw /ma "Refresh" <stpt>
+[23:29:59.550] /ma "Refresh" 22288
+[23:30:00.219] /ma "Refresh" 22288
+[23:30:05.994] /ma "Haste" <stpt>
+[23:30:06.005] /raw /ma "Haste" <stpt>
+[23:30:06.005] /ma "Haste" 22288
+[23:30:07.389] /ma "Haste" 22288
+[23:30:16.364] /ma aquaveil me
+[23:30:16.374] /raw /ma "Aquaveil" 22288
+[23:30:27.314] /ma protect4 me
+[23:30:27.324] /raw /ma "Protect IV" 22288
+[23:30:32.281] /ma shell4 me
+[23:30:32.291] /raw /ma "Shell IV" 22288
+[23:30:38.771] /heal
+[23:30:46.013] /staffon
+[23:30:49.991] /p lemme get MP
+[23:30:55.942] /p and ill conversely whack stuff
+[23:30:59.001] /p and enfeeb
+[23:31:18.959] /p try bind?
+[23:31:21.214] /p You mean bind. 
+[23:31:34.701] /p 335 enfeeb aint nothin to fuck with
+[23:31:49.118] /heal off
+[23:31:49.152] /heal off
+[23:31:49.185] /heal off
+[23:31:49.220] /heal off
+[23:32:19.446] /heal
+[23:32:21.692] /heal off
+[23:32:21.726] /heal off
+[23:32:21.828] /heal off
+[23:32:21.861] /heal off
+[23:32:25.228] /p and pop it whenevs
+[23:32:55.471] /ma Paralyze2 <t>
+[23:32:55.481] /raw /ma "Paralyze II" <t>
+[23:33:01.581] /ma "Silence" <t>
+[23:33:01.591] /raw /ma "Silence" <t>
+[23:33:07.053] /ma "Blind" <t>
+[23:33:07.063] /raw /ma "Blind" <t>
+[23:33:07.222] /ma "Blind" <t>
+[23:33:07.232] /raw /ma "Blind" <t>
+[23:33:07.395] /ma "Blind" <t>
+[23:33:07.405] /raw /ma "Blind" <t>
+[23:33:07.700] /ma "Blind" <t>
+[23:33:07.710] /raw /ma "Blind" <t>
+[23:33:09.500] /ma "Blind" <t>
+[23:33:09.510] /raw /ma "Blind" <t>
+[23:33:15.146] /ma slow2 <t>
+[23:33:15.156] /raw /ma "Slow II" <t>
+[23:33:15.315] /ma slow2 <t>
+[23:33:15.325] /raw /ma "Slow II" <t>
+[23:33:15.485] /ma slow2 <t>
+[23:33:15.495] /raw /ma "Slow II" <t>
+[23:33:22.048] /ma "Dispel" <t>
+[23:33:22.058] /raw /ma "Dispel" <t>
+[23:33:29.806] /p face away from mages
+[23:33:32.898] /attack
+[23:33:32.908] /raw /attack <t>
+[23:33:39.801] /ma blind
+[23:33:39.812] /raw /ma "Blind" 17309981
+[23:33:44.252] /ma poison2
+[23:33:44.263] /raw /ma "Poison II" 17309981
+[23:33:46.395] /ma poison2
+[23:33:46.406] /raw /ma "Poison II" 17309981
+[23:33:49.867] /p stand by me lysander
+[23:33:52.921] /ma dispel
+[23:33:52.932] /raw /ma "Dispel" 17309981
+[23:34:01.526] /ma blind
+[23:34:01.536] /raw /ma "Blind" 17309981
+[23:34:06.726] /ma poison2
+[23:34:06.736] /raw /ma "Poison II" 17309981
+[23:34:21.996] /ma "Utsusemi: Ni" <me>
+[23:34:22.007] /raw /ma "Utsusemi: Ni" 22288
+[23:34:26.928] /ma "Cure IV" <stpt>
+[23:34:26.939] /raw /ma "Cure IV" <stpt>
+[23:34:26.940] /ma "Cure IV" 22288
+[23:34:27.816] /ma "Cure IV" 22210
+[23:34:31.244] /staffoff
+[23:34:34.610] /ma "Bind" <t>
+[23:34:34.621] /raw /ma "Bind" <t>
+[23:34:34.746] /ma "Bind" <t>
+[23:34:34.757] /raw /ma "Bind" <t>
+[23:34:36.310] /p binding
+[23:34:41.306] /attackoff
+[23:34:44.707] /ma bind
+[23:34:44.718] /raw /ma "Bind" 17309981
+[23:34:50.015] /ma bind 
+[23:34:50.025] /raw /ma "Bind" 17309981
+[23:34:52.258] /staffon
+[23:34:53.583] /ma bind
+[23:34:53.594] /raw /ma "Bind" 17309981
+[23:34:56.065] /ma bind
+[23:34:56.075] /raw /ma "Bind" 17309981
+[23:34:59.151] /ma bind
+[23:34:59.162] /raw /ma "Bind" 17309981
+[23:35:02.424] /ma bind
+[23:35:02.434] /raw /ma "Bind" 17309981
+[23:35:07.353] /ma sleep2
+[23:35:07.364] /raw /ma "Sleep II" 17309981
+[23:35:13.131] /ma "Bind" <t>
+[23:35:13.141] /raw /ma "Bind" <t>
+[23:35:13.300] /ma "Bind" <t>
+[23:35:13.311] /raw /ma "Bind" <t>
+[23:35:15.410] /ma "Bind" <t>
+[23:35:15.420] /raw /ma "Bind" <t>
+[23:35:15.579] /ma "Bind" <t>
+[23:35:15.590] /raw /ma "Bind" <t>
+[23:35:17.790] /ma "Bind" <t>
+[23:35:17.800] /raw /ma "Bind" <t>
+[23:35:17.959] /ma "Bind" <t>
+[23:35:17.970] /raw /ma "Bind" <t>
+[23:35:25.541] /p leave it alone lol
+[23:35:26.971] /ma "Cure IV" <stpt>
+[23:35:26.982] /raw /ma "Cure IV" <stpt>
+[23:35:26.983] /ma "Cure IV" 22288
+[23:35:31.591] /p dont hit it
+[23:35:40.634] /ma Paralyze2 <t>
+[23:35:40.645] /raw /ma "Paralyze II" <t>
+[23:35:46.893] /p re-engage
+[23:35:49.782] /p HF is done
+[23:35:51.992] /ma raise souv
+[23:35:52.003] /raw /ma "Raise" 21936
+[23:36:03.888] /p whack it
+[23:36:10.382] /ma "Silence" <t>
+[23:36:10.393] /raw /ma "Silence" <t>
+[23:36:16.441] /ma slow2 <t>
+[23:36:16.452] /raw /ma "Slow II" <t>
+[23:36:16.611] /ma slow2 <t>
+[23:36:16.622] /raw /ma "Slow II" <t>
+[23:36:23.071] /ma "Bind" <t>
+[23:36:23.081] /raw /ma "Bind" <t>
+[23:36:28.814] /ma raise souv
+[23:36:30.511] /ma raise souv
+[23:36:38.091] /ma dia3
+[23:36:38.102] /raw /ma "Dia III" 17309981
+[23:36:44.314] /ma poison2
+[23:36:44.324] /raw /ma "Poison II" 17309981
+[23:36:47.780] /p just tank it
+[23:36:52.782] /attack
+[23:36:52.792] /raw /attack <t>
+[23:36:54.683] /attack
+[23:36:54.693] /raw /attack <t>
+[23:37:01.275] /ma "Blind" <t>
+[23:37:01.286] /raw /ma "Blind" <t>
+[23:37:03.420] /p its dotted 
+[23:37:06.446] /ma "Dispel" <t>
+[23:37:06.456] /raw /ma "Dispel" <t>
+[23:37:06.614] /ma "Dispel" <t>
+[23:37:06.625] /raw /ma "Dispel" <t>
+[23:37:12.130] /ma poison2
+[23:37:12.141] /raw /ma "Poison II" 17309981
+[23:37:13.824] /ma poison2
+[23:37:13.835] /raw /ma "Poison II" 17309981
+[23:37:18.785] /ma "Cure IV" <stpt>
+[23:37:18.796] /raw /ma "Cure IV" <stpt>
+[23:37:18.796] /ma "Cure IV" 22288
+[23:37:19.193] /ma "Cure IV" 22288
+[23:37:27.119] /ma poison2
+[23:37:27.129] /raw /ma "Poison II" 17309981
+[23:37:31.404] /ma dispel
+[23:37:31.415] /raw /ma "Dispel" 17309981
+[23:37:33.544] /ma dispel
+[23:37:33.555] /raw /ma "Dispel" 17309981
+[23:37:38.576] /ma "Cure IV" <stpt>
+[23:37:38.587] /raw /ma "Cure IV" <stpt>
+[23:37:38.588] /ma "Cure IV" 22288
+[23:37:39.155] /ma "Cure IV" 22288
+[23:37:41.059] /ma "Cure IV" <stpt>
+[23:37:41.069] /raw /ma "Cure IV" <stpt>
+[23:37:41.069] /ma "Cure IV" 22288
+[23:37:41.331] /ma "Cure IV" 22288
+[23:37:46.909] /ma Paralyze2 <t>
+[23:37:46.920] /raw /ma "Paralyze II" <t>
+[23:37:47.112] /ma Paralyze2 <t>
+[23:37:47.123] /raw /ma "Paralyze II" <t>
+[23:37:52.926] /ma "Utsusemi: Ni" <me>
+[23:37:52.937] /raw /ma "Utsusemi: Ni" 22288
+[23:37:53.096] /ma "Utsusemi: Ni" <me>
+[23:37:53.107] /raw /ma "Utsusemi: Ni" 22288
+[23:37:54.696] /ma "Utsusemi: Ni" <me>
+[23:37:54.707] /raw /ma "Utsusemi: Ni" 22288
+[23:38:02.105] /staffoff
+[23:38:04.868] /ma "Cure IV" <stpt>
+[23:38:04.879] /raw /ma "Cure IV" <stpt>
+[23:38:04.879] /ma "Cure IV" 22288
+[23:38:07.180] /ma "Blind" <t>
+[23:38:07.191] /raw /ma "Blind" <t>
+[23:38:12.206] /ma Paralyze2 <t>
+[23:38:12.216] /raw /ma "Paralyze II" <t>
+[23:38:12.375] /ma Paralyze2 <t>
+[23:38:12.386] /raw /ma "Paralyze II" <t>
+[23:38:14.143] /ma Paralyze2 <t>
+[23:38:14.154] /raw /ma "Paralyze II" <t>
+[23:38:14.348] /ma Paralyze2 <t>
+[23:38:14.359] /raw /ma "Paralyze II" <t>
+[23:38:20.128] /ma slow2 <t>
+[23:38:20.138] /raw /ma "Slow II" <t>
+[23:38:20.300] /ma slow2 <t>
+[23:38:20.311] /raw /ma "Slow II" <t>
+[23:38:20.470] /ma slow2 <t>
+[23:38:20.480] /raw /ma "Slow II" <t>
+[23:38:26.861] /ma slow2 <t>
+[23:38:26.872] /raw /ma "Slow II" <t>
+[23:38:27.031] /ma slow2 <t>
+[23:38:27.041] /raw /ma "Slow II" <t>
+[23:38:32.946] /ma cure3 souv
+[23:38:32.956] /raw /ma "Cure III" 21936
+[23:38:40.119] /ma cure3 brown
+[23:38:40.130] /raw /ma "Cure III" 22993
+[23:38:45.427] /ma "Utsusemi: Ni" <me>
+[23:38:45.438] /raw /ma "Utsusemi: Ni" 22288
+[23:38:45.596] /ma "Utsusemi: Ni" <me>
+[23:38:45.607] /raw /ma "Utsusemi: Ni" 22288
+[23:38:49.065] /ma "Blind" <t>
+[23:38:49.076] /raw /ma "Blind" <t>
+[23:38:50.627] /ma "Blind" <t>
+[23:38:50.637] /raw /ma "Blind" <t>
+[23:38:55.867] /ma "Stoneskin" <me>
+[23:38:55.878] /raw /ma "Stoneskin" 22288
+[23:38:56.072] /ma "Stoneskin" <me>
+[23:38:56.082] /raw /ma "Stoneskin" 22288
+[23:38:57.325] /ma "Stoneskin" <me>
+[23:38:57.336] /raw /ma "Stoneskin" 22288
+[23:39:06.233] /ma "Utsusemi: Ichi" <me>
+[23:39:06.244] /raw /ma "Utsusemi: Ichi" 22288
+[23:39:09.463] /ma "Utsusemi: Ichi" <me>
+[23:39:09.473] /raw /ma "Utsusemi: Ichi" 22288
+[23:39:13.986] /ma "Haste" <stpt>
+[23:39:13.996] /raw /ma "Haste" <stpt>
+[23:39:13.996] /ma "Haste" 22288
+[23:39:15.039] /ma "Haste" 22288
+[23:39:25.989] /ma slow2 <t>
+[23:39:26.000] /raw /ma "Slow II" <t>
+[23:39:26.160] /ma slow2 <t>
+[23:39:26.170] /raw /ma "Slow II" <t>
+[23:39:26.296] /ma slow2 <t>
+[23:39:26.306] /raw /ma "Slow II" <t>
+[23:39:32.244] /ma "Silence" <t>
+[23:39:32.254] /raw /ma "Silence" <t>
+[23:39:32.415] /ma "Silence" <t>
+[23:39:32.426] /raw /ma "Silence" <t>
+[23:39:32.583] /ma "Silence" <t>
+[23:39:32.594] /raw /ma "Silence" <t>
+[23:39:39.009] /ja convert me
+[23:39:39.019] /raw /ja "Convert" 22288
+[23:39:40.131] /ma "Cure IV" <stpt>
+[23:39:40.141] /raw /ma "Cure IV" <stpt>
+[23:39:40.141] /ma "Cure IV" 22288
+[23:39:41.050] /ma "Cure IV" 22288
+[23:39:44.926] /ma "Cure III" <stpt>
+[23:39:44.937] /raw /ma "Cure III" <stpt>
+[23:39:44.938] /ma "Cure III" 22288
+[23:39:46.149] /ma "Cure III" 22288
+[23:39:47.647] /ma "Cure III" <stpt>
+[23:39:47.657] /raw /ma "Cure III" <stpt>
+[23:39:47.657] /ma "Cure III" 22288
+[23:39:47.748] /ma "Cure III" 22288
+[23:39:51.520] /ma "Haste" <stpt>
+[23:39:51.531] /raw /ma "Haste" <stpt>
+[23:39:51.531] /ma "Haste" 22288
+[23:39:53.185] /ma "Haste" 22288
+[23:39:59.510] /ma "Phalanx" <me>
+[23:39:59.521] /raw /ma "Phalanx" 22288
+[23:40:05.087] /ma poison2
+[23:40:05.098] /raw /ma "Poison II" 17309981
+[23:40:10.494] /ma bio2
+[23:40:10.504] /raw /ma "Bio II" 17309981
+[23:40:14.098] /ma bio2
+[23:40:14.108] /raw /ma "Bio II" 17309981
+[23:40:16.886] /ma poison2
+[23:40:16.896] /raw /ma "Poison II" 17309981
+[23:40:20.927] /ma "Utsusemi: Ni" <me>
+[23:40:20.938] /raw /ma "Utsusemi: Ni" 22288
+[23:40:21.098] /ma "Utsusemi: Ni" <me>
+[23:40:21.109] /raw /ma "Utsusemi: Ni" 22288
+[23:40:22.187] /ma "Utsusemi: Ni" <me>
+[23:40:22.198] /raw /ma "Utsusemi: Ni" 22288
+[23:40:28.507] /ma "Utsusemi: Ichi" <me>
+[23:40:28.517] /raw /ma "Utsusemi: Ichi" 22288
+[23:40:35.477] /ma "Cure III" <stpt>
+[23:40:35.488] /raw /ma "Cure III" <stpt>
+[23:40:35.488] /ma "Cure III" 22288
+[23:40:35.885] /ma "Cure III" 22288
+[23:40:45.818] /addon load recast
+[23:40:47.391] /ma "Utsusemi: Ni" <me>
+[23:40:47.402] /raw /ma "Utsusemi: Ni" 22288
+[23:40:48.990] /ma "Cure IV" <stpt>
+[23:40:49.001] /raw /ma "Cure IV" <stpt>
+[23:40:49.001] /ma "Cure IV" 22288
+[23:40:49.906] /ma "Cure IV" 22316
+[23:40:55.926] /ma "Bind" <t>
+[23:40:55.937] /raw /ma "Bind" <t>
+[23:41:00.621] /ma "Blind" <t>
+[23:41:00.631] /raw /ma "Blind" <t>
+[23:41:00.789] /ma "Blind" <t>
+[23:41:00.800] /raw /ma "Blind" <t>
+[23:41:00.959] /ma "Blind" <t>
+[23:41:00.970] /raw /ma "Blind" <t>
+[23:41:01.808] /ma "Blind" <t>
+[23:41:01.818] /raw /ma "Blind" <t>
+[23:41:07.179] /ma "Dispel" <t>
+[23:41:07.190] /raw /ma "Dispel" <t>
+[23:41:07.351] /ma "Dispel" <t>
+[23:41:07.361] /raw /ma "Dispel" <t>
+[23:41:07.519] /ma "Dispel" <t>
+[23:41:07.530] /raw /ma "Dispel" <t>
+[23:41:09.934] /ma "Silence" <t>
+[23:41:09.945] /raw /ma "Silence" <t>
+[23:41:10.102] /ma "Silence" <t>
+[23:41:10.113] /raw /ma "Silence" <t>
+[23:41:10.238] /ma "Silence" <t>
+[23:41:10.249] /raw /ma "Silence" <t>
+[23:41:16.736] /ma "Dispel" <t>
+[23:41:16.746] /raw /ma "Dispel" <t>
+[23:41:16.906] /ma "Dispel" <t>
+[23:41:16.916] /raw /ma "Dispel" <t>
+[23:41:17.042] /ma "Dispel" <t>
+[23:41:17.052] /raw /ma "Dispel" <t>
+[23:41:23.022] /staffon
+[23:41:23.838] /ma "Dispel" <t>
+[23:41:23.848] /raw /ma "Dispel" <t>
+[23:41:24.010] /ma "Dispel" <t>
+[23:41:24.021] /raw /ma "Dispel" <t>
+[23:41:24.146] /ma "Dispel" <t>
+[23:41:24.157] /raw /ma "Dispel" <t>
+[23:41:24.962] /ma "Dispel" <t>
+[23:41:24.972] /raw /ma "Dispel" <t>
+[23:41:25.165] /ma "Dispel" <t>
+[23:41:25.175] /raw /ma "Dispel" <t>
+[23:41:26.186] /ma "Dispel" <t>
+[23:41:26.197] /raw /ma "Dispel" <t>
+[23:41:26.628] /ma "Dispel" <t>
+[23:41:26.638] /raw /ma "Dispel" <t>
+[23:41:26.932] /ma "Silence" <t>
+[23:41:26.942] /raw /ma "Silence" <t>
+[23:41:27.238] /ma "Silence" <t>
+[23:41:27.248] /raw /ma "Silence" <t>
+[23:41:27.410] /ma "Silence" <t>
+[23:41:27.421] /raw /ma "Silence" <t>
+[23:41:27.579] /ma "Silence" <t>
+[23:41:27.590] /raw /ma "Silence" <t>
+[23:41:36.558] /ma thunder3
+[23:41:36.568] /raw /ma "Thunder III" 17309981
+[23:41:47.269] /ma "Utsusemi: Ni" <me>
+[23:41:47.279] /raw /ma "Utsusemi: Ni" 22288
+[23:41:55.632] /ma "Refresh" <stpt>
+[23:41:55.642] /raw /ma "Refresh" <stpt>
+[23:41:55.642] /ma "Refresh" 22288
+[23:41:56.073] /ma "Refresh" 22288
+[23:42:04.001] /ma "Dispel" <t>
+[23:42:04.012] /raw /ma "Dispel" <t>
+[23:42:04.204] /ma "Dispel" <t>
+[23:42:04.214] /raw /ma "Dispel" <t>
+[23:42:21.030] /heal
+[23:42:54.180] /p welcome to supernova gods?
+[23:43:43.922] /heal off
+[23:43:43.957] /heal off
+[23:43:44.092] /heal off
+[23:43:44.127] /heal off
+[23:43:44.161] /heal off
+[23:49:00.458] /p Genbu Isle
+[23:49:04.402] /p Top entrance
+[23:49:17.153] /p dont use homepoints
+[23:49:30.685] /p the teleports for red are 50/50
+[23:49:36.836] /p and get broke regularly
+[23:49:40.988] /p best sky map ever
+[23:49:49.242] /p learn this map
+[23:49:49.594] /paste
+[23:49:50.563] /paste
+[23:49:50.890] /p http://enedin.be/sky.svg
+[23:49:52.865] /p live it
+[23:49:54.563] /p love it
+[23:50:09.420] /ja composure
+[23:50:09.430] /raw /ja "Composure" 22288
+[23:50:11.700] /ma "Refresh" <stpt>
+[23:50:11.711] /raw /ma "Refresh" <stpt>
+[23:50:11.711] /ma "Refresh" 22288
+[23:50:12.080] /ma "Refresh" 22288
+[23:51:52.521] /s @choco
+[23:54:58.735] /p aight
+[23:55:02.712] /p I came to promote the FF league
+[23:55:05.193] /p and whack a god
+[23:55:07.098] /p im outsies
+[23:55:09.749] /p gl guys
+[23:55:22.025] /l Fantasy Football. Sign Up. Do it. 
+[18:17:21.101] /l some timing delays
+[18:17:22.867] /staffon
+[18:17:35.452] /l You get "cant cast" while under chainspell
+[18:18:52.239] /s @goto lorxen
+[18:19:59.368] /ja composure
+[18:19:59.379] /raw /ja "Composure" 22288
+[18:20:04.878] /invite
+[18:20:06.137] /ma "Stoneskin" <me>
+[18:20:06.147] /raw /ma "Stoneskin" 22288
+[18:20:16.438] /ma "Phalanx" <me>
+[18:20:16.449] /raw /ma "Phalanx" 22288
+[18:20:22.493] /attack
+[18:20:22.504] /raw /attack <t>
+[18:20:22.765] /ma "Refresh" <stpt>
+[18:20:22.775] /raw /ma "Refresh" <stpt>
+[18:20:22.775] /ma "Refresh" 22288
+[18:20:23.885] /ma "Refresh" 22288
+[18:20:52.691] /map
+[18:20:57.214] /l SW
+[18:21:04.659] /l you need to walk the whole circle I think
+[18:21:10.984] /l Server isn't 100% with my fix for the porters
+[18:21:29.513] /sea all a
+[18:21:39.307] /sea
+[18:21:46.649] /join
+[18:22:22.693] /p Kimi BLM BLM RDM BRD quadro
+[18:22:25.005] /p is a thing here
+[18:23:20.697] /p I just want some ccat pants
+[18:24:14.128] /sea all z
+[18:24:37.856] /ma protect4 me
+[18:24:37.867] /raw /ma "Protect IV" 22288
+[18:24:43.127] /ma shell4 me
+[18:24:43.138] /raw /ma "Shell IV" 22288
+[18:24:47.275] /heal
+[18:25:13.057] /heal off
+[18:25:13.091] /heal off
+[18:25:13.227] /heal off
+[18:25:13.261] /heal off
+[18:25:16.253] /p I can heal will
+[18:25:26.419] /p I can do the enfeebs and stuff
+[18:25:29.310] /p and heal
+[18:25:32.674] /p Just have to be in brdpt
+[18:25:49.743] /p also, I cant overwrite slow/para with the T2's
+[18:25:54.910] /p so dont use em :/
+[18:26:00.553] /p lets swap
+[18:26:21.295] /invite
+[18:26:52.709] /join
+[18:26:55.393] /ma "Refresh" <stpt>
+[18:26:55.404] /raw /ma "Refresh" <stpt>
+[18:26:55.404] /ma "Refresh" 22288
+[18:26:56.209] /ma "Refresh" 22291
+[18:27:04.608] /ma "Haste" <stpt>
+[18:27:04.619] /raw /ma "Haste" <stpt>
+[18:27:04.619] /ma "Haste" 22288
+[18:27:05.254] /ma "Haste" 22291
+[18:27:11.001] /heal
+[18:27:20.419] /p I think we're good lol
+[18:27:24.804] /clap
+[18:27:37.250] /p also found out why my DPS has been so low on RNG
+[18:27:47.618] /p ranged WS werent taking into account my ranged weapon skills
+[18:27:55.541] /p and using my mainhand weapon skills
+[18:27:57.309] /p ggwp dsp
+[18:28:02.443] /heal off
+[18:28:02.475] /heal off
+[18:28:02.578] /heal off
+[18:28:03.427] /ma "Refresh" <stpt>
+[18:28:03.438] /raw /ma "Refresh" <stpt>
+[18:28:03.438] /ma "Refresh" 22291
+[18:28:05.809] /ma "Refresh" <stpt>
+[18:28:05.819] /raw /ma "Refresh" <stpt>
+[18:28:05.819] /ma "Refresh" 22288
+[18:28:06.318] /ma "Refresh" 22288
+[18:28:18.458] /p Expect me to smash people on RNG now lol
+[18:29:41.724] /ma aquaveil me
+[18:29:41.735] /raw /ma "Aquaveil" 22288
+[18:29:52.055] /ma blink me
+[18:29:52.066] /raw /ma "Blink" 22288
+[18:30:27.129] /p whatver the hell
+[18:30:32.468] /p pop ze enemy!
+[18:30:39.878] /p paravoke incoming
+[18:30:42.019] /p trolololol
+[18:30:49.229] /ma "Silence" <t>
+[18:30:49.240] /raw /ma "Silence" <t>
+[18:30:54.770] /ma Paralyze2 <t>
+[18:30:54.781] /raw /ma "Paralyze II" <t>
+[18:30:54.942] /ma Paralyze2 <t>
+[18:30:54.952] /raw /ma "Paralyze II" <t>
+[18:31:00.856] /ma slow2 <t>
+[18:31:00.866] /raw /ma "Slow II" <t>
+[18:31:01.023] /ma slow2 <t>
+[18:31:01.033] /raw /ma "Slow II" <t>
+[18:31:02.760] /ma slow2 <t>
+[18:31:02.771] /raw /ma "Slow II" <t>
+[18:31:06.296] /p dem para procs
+[18:31:07.079] /ma "Cure IV" <stpt>
+[18:31:07.090] /raw /ma "Cure IV" <stpt>
+[18:31:07.090] /ma "Cure IV" 22288
+[18:31:09.259] /ma "Cure IV" <stpt>
+[18:31:09.269] /raw /ma "Cure IV" <stpt>
+[18:31:09.270] /ma "Cure IV" 22288
+[18:31:10.379] /ma "Cure IV" 22291
+[18:31:19.927] /ma "Dispel" <t>
+[18:31:19.937] /raw /ma "Dispel" <t>
+[18:31:29.145] /ma dia3
+[18:31:29.156] /raw /ma "Dia III" 17309983
+[18:31:34.483] /ma "Dispel" <t>
+[18:31:34.494] /raw /ma "Dispel" <t>
+[18:31:34.692] /ma "Dispel" <t>
+[18:31:34.702] /raw /ma "Dispel" <t>
+[18:31:45.125] /ma "Haste" <stpt>
+[18:31:45.136] /raw /ma "Haste" <stpt>
+[18:31:45.136] /ma "Haste" 22288
+[18:31:45.703] /ma "Haste" 22288
+[18:31:51.789] /ma "Dispel" <t>
+[18:31:51.800] /raw /ma "Dispel" <t>
+[18:31:51.992] /ma "Dispel" <t>
+[18:31:52.002] /raw /ma "Dispel" <t>
+[18:31:57.842] /ma "Cure III" <stpt>
+[18:31:57.852] /raw /ma "Cure III" <stpt>
+[18:31:57.852] /ma "Cure III" 22288
+[18:31:59.135] /ma "Cure III" 22353
+[18:32:08.586] /ma "Dispel" <t>
+[18:32:08.597] /raw /ma "Dispel" <t>
+[18:32:15.862] /heal
+[18:32:25.040] /heal off
+[18:32:25.076] /heal off
+[18:32:25.109] /heal off
+[18:32:27.862] /ma "Dispel" <t>
+[18:32:27.872] /raw /ma "Dispel" <t>
+[18:32:33.913] /ma "Dispel" <t>
+[18:32:33.924] /raw /ma "Dispel" <t>
+[18:32:38.611] /p getting a bit of lag
+[18:32:41.057] /ma "Cure III" <stpt>
+[18:32:41.068] /raw /ma "Cure III" <stpt>
+[18:32:41.068] /ma "Cure III" 22288
+[18:32:41.567] /ma "Cure III" 22291
+[18:32:52.922] /p lol that silence still too OP
+[18:32:58.088] /p I know
+[18:33:02.510] /p silencce hasnt wore
+[18:33:09.038] /p RDM OP
+[18:33:12.983] /ma "Cure IV" <stpt>
+[18:33:12.994] /raw /ma "Cure IV" <stpt>
+[18:33:12.994] /ma "Cure IV" 22288
+[18:33:13.559] /ma "Cure IV" 22291
+[18:33:21.039] /ma Paralyze2 <t>
+[18:33:21.050] /raw /ma "Paralyze II" <t>
+[18:33:28.727] /ma "Cure IV" <stpt>
+[18:33:28.738] /raw /ma "Cure IV" <stpt>
+[18:33:28.741] /ma "Cure IV" 22288
+[18:33:30.763] /ma "Cure IV" <stpt>
+[18:33:30.773] /raw /ma "Cure IV" <stpt>
+[18:33:30.775] /ma "Cure IV" 22288
+[18:33:31.306] /ma "Cure IV" 22291
+[18:33:41.953] /ma "Cure III" <stpt>
+[18:33:41.963] /raw /ma "Cure III" <stpt>
+[18:33:41.963] /ma "Cure III" 22288
+[18:33:43.207] /ma "Cure III" 22353
+[18:33:49.226] /p lol eneebles
+[18:33:53.678] /ma "Cure IV" <stpt>
+[18:33:53.689] /raw /ma "Cure IV" <stpt>
+[18:33:53.689] /ma "Cure IV" 22288
+[18:33:54.494] /ma "Cure IV" 22291
+[18:33:59.936] /ma "Silence" <t>
+[18:33:59.947] /raw /ma "Silence" <t>
+[18:34:00.105] /ma "Silence" <t>
+[18:34:00.115] /raw /ma "Silence" <t>
+[18:34:00.241] /ma "Silence" <t>
+[18:34:00.252] /raw /ma "Silence" <t>
+[18:34:08.233] /p now you worry
+[18:34:08.608] /ma "Cure IV" <stpt>
+[18:34:08.618] /raw /ma "Cure IV" <stpt>
+[18:34:08.618] /ma "Cure IV" 22288
+[18:34:09.183] /ma "Cure IV" 22291
+[18:34:14.554] /ma "Silence" <t>
+[18:34:14.565] /raw /ma "Silence" <t>
+[18:34:14.726] /ma "Silence" <t>
+[18:34:14.736] /raw /ma "Silence" <t>
+[18:34:20.674] /ma Paralyze2 <t>
+[18:34:20.685] /raw /ma "Paralyze II" <t>
+[18:34:20.847] /ma Paralyze2 <t>
+[18:34:20.858] /raw /ma "Paralyze II" <t>
+[18:34:26.424] /ma slow2 <t>
+[18:34:26.435] /raw /ma "Slow II" <t>
+[18:34:26.627] /ma slow2 <t>
+[18:34:26.637] /raw /ma "Slow II" <t>
+[18:34:26.762] /ma slow2 <t>
+[18:34:26.772] /raw /ma "Slow II" <t>
+[18:34:32.339] /ma "Cure IV" <stpt>
+[18:34:32.350] /raw /ma "Cure IV" <stpt>
+[18:34:32.350] /ma "Cure IV" 22288
+[18:34:34.587] /ma "Cure IV" 22291
+[18:34:41.825] /ma "Cure III" <stpt>
+[18:34:41.835] /raw /ma "Cure III" <stpt>
+[18:34:41.835] /ma "Cure III" 22288
+[18:34:43.288] /ma "Cure III" 22353
+[18:34:53.520] /ma dia3
+[18:34:53.531] /raw /ma "Dia III" 17309983
+[18:34:58.323] /ma "Refresh" <stpt>
+[18:34:58.334] /raw /ma "Refresh" <stpt>
+[18:34:58.334] /ma "Refresh" 22288
+[18:34:59.744] /ma "Refresh" 22893
+[18:35:05.593] /p maybe I should cast refresh
+[18:35:18.408] /ma cure3 anier
+[18:35:18.419] /raw /ma "Cure III" 22934
+[18:35:22.591] /ma "Cure IV" <stpt>
+[18:35:22.602] /raw /ma "Cure IV" <stpt>
+[18:35:22.602] /ma "Cure IV" 22288
+[18:35:24.594] /ma "Cure IV" 22291
+[18:35:35.511] /ma poison2
+[18:35:35.522] /raw /ma "Poison II" 17309983
+[18:35:44.791] /laugh
+[18:35:47.955] /ma "Refresh" <stpt>
+[18:35:47.965] /raw /ma "Refresh" <stpt>
+[18:35:47.966] /ma "Refresh" 22288
+[18:35:49.112] /ma "Refresh" 22288
+[18:35:57.135] /ma "Refresh" <stpt>
+[18:35:57.145] /raw /ma "Refresh" <stpt>
+[18:35:57.146] /ma "Refresh" 22288
+[18:35:58.833] /ma "Cure IV" <stpt>
+[18:35:58.844] /raw /ma "Cure IV" <stpt>
+[18:35:58.844] /ma "Cure IV" 22288
+[18:35:59.718] /ma "Cure IV" 22291
+[18:36:02.743] /ma "Cure IV" <stpt>
+[18:36:02.753] /raw /ma "Cure IV" <stpt>
+[18:36:02.753] /ma "Cure IV" 22288
+[18:36:03.219] /ma "Cure IV" 22291
+[18:36:08.051] /ma "Refresh" <stpt>
+[18:36:08.061] /raw /ma "Refresh" <stpt>
+[18:36:08.061] /ma "Refresh" 22288
+[18:36:09.749] /ma "Refresh" 22291
+[18:36:11.854] /ma "Refresh" <stpt>
+[18:36:11.865] /raw /ma "Refresh" <stpt>
+[18:36:11.865] /ma "Refresh" 22288
+[18:36:13.454] /ma "Refresh" 22291
+[18:36:20.936] /ja divineseal
+[18:36:20.946] /raw /ja "Divine Seal" 22288
+[18:36:22.842] /ja convert
+[18:36:22.852] /raw /ja "Convert" 22288
+[18:36:24.132] /ma "Cure IV" <stpt>
+[18:36:24.144] /raw /ma "Cure IV" <stpt>
+[18:36:24.144] /ma "Cure IV" 22288
+[18:36:24.811] /ma "Cure IV" 22288
+[18:36:31.948] /heal
+[18:37:27.463] /heal off
+[18:37:27.599] /heal off
+[18:37:27.633] /heal off
+[18:37:27.666] /heal off
+[18:37:31.442] /p see
+[18:37:34.603] /p RDM OP lol\
+[18:39:09.283] /ma "Stoneskin" <me>
+[18:39:09.294] /raw /ma "Stoneskin" 22288
+[18:39:20.230] /p I have errything so
+[18:40:04.908] /t willkeeper join the league @_@
+[18:41:20.517] /ma "Haste" <stpt>
+[18:41:20.527] /raw /ma "Haste" <stpt>
+[18:41:20.527] /ma "Haste" 22288
+[18:41:21.061] /ma "Haste" 22288
+[18:42:23.329] /p Will and I can duo, we can do it with this group
+[18:42:38.719] /p PLD/RDM too stronk
+[18:45:03.663] /p brb
+[18:45:05.905] /p yall run 
+[18:48:46.490] /l haha, sarx is geting nerfed so hard
+[18:49:33.137] /t kalika they fixed ranged WS to use weapon accuracy for ranged instead of melee
+[18:51:10.185] /p just zone
+[18:54:35.781] /map
+[18:54:42.133] /s @goto willkeeper
+[18:55:35.695] /s gm abuse
+[18:55:36.752] /s ftw
+[18:57:35.284] /s today has been so shit
+[18:57:50.448] /s asshole with an AK47 shooting at firemen near my neighborhood
+[18:58:00.275] /s couldnt even drive to where I wanted to go normally
+[18:59:12.256] /p dont are
+[18:59:15.277] /p care*
+[19:04:16.468] /p ill bring you anier
+[19:04:18.406] /s @bring anier
+[19:04:26.258] /shake
+[19:04:29.216] /no
+[19:04:59.957] /s @bring anier
+[19:05:19.403] /magic "Cure IV" 22934
+[19:05:25.658] /ma "Stoneskin" <me>
+[19:05:25.669] /raw /ma "Stoneskin" 22288
+[19:05:34.909] /ma "Phalanx" <me>
+[19:05:34.919] /raw /ma "Phalanx" 22288
+[19:05:35.082] /ma "Phalanx" <me>
+[19:05:35.092] /raw /ma "Phalanx" 22288
+[19:05:41.605] /ma "Refresh" <stpt>
+[19:05:41.616] /raw /ma "Refresh" <stpt>
+[19:05:41.616] /ma "Refresh" 22288
+[19:05:42.184] /ma "Refresh" 22288
+[19:05:45.756] /ma "Refresh" <stpt>
+[19:05:45.766] /raw /ma "Refresh" <stpt>
+[19:05:45.766] /ma "Refresh" 22288
+[19:05:46.164] /ma "Refresh" 22288
+[19:06:26.114] /p happens some times
+[19:07:17.918] /p brb rq
+[19:07:55.114] /ma "Haste" <stpt>
+[19:07:55.124] /raw /ma "Haste" <stpt>
+[19:07:55.124] /ma "Haste" 22288
+[19:07:55.591] /ma "Haste" 22288
+[19:08:07.287] /p bacck
+[19:09:36.787] /l @ 10/12 for FF, if we get more interest I'll change league settings.
+[19:09:42.804] /t novah got bope on board
+[19:11:56.671] /l btw, im sweetening the playoff pot
+[19:12:11.325] /l 15 Currency of Choice to 1st, 7 to 2nd, 4 to 3rd
+[19:12:35.470] /p mfw I can get as much HP as will as RDM/DRK
+[19:12:54.133] /p this isnt even my tank gear lol
+[19:12:59.603] /p if im building the set
+[19:13:15.788] /p fithy sandorian hume
+[19:14:18.825] /ma "Refresh" <stpt>
+[19:14:18.835] /raw /ma "Refresh" <stpt>
+[19:14:18.835] /ma "Refresh" 22288
+[19:14:19.369] /ma "Refresh" 22288
+[19:14:31.541] /ma "Phalanx" <me>
+[19:14:31.552] /raw /ma "Phalanx" 22288
+[19:14:41.708] /ma protect4 me
+[19:14:41.719] /raw /ma "Protect IV" 22288
+[19:14:47.521] /ma shell4 me
+[19:14:47.531] /raw /ma "Shell IV" 22288
+[19:14:56.125] /ma "Haste" <stpt>
+[19:14:56.136] /raw /ma "Haste" <stpt>
+[19:14:56.138] /ma "Haste" 22288
+[19:14:56.634] /ma "Haste" 22288
+[19:15:02.451] /heal
+[19:16:21.993] /heal off
+[19:16:22.027] /heal off
+[19:16:22.060] /heal off
+[19:16:22.095] /heal off
+[19:17:23.261] /ma protect4 ani
+[19:17:23.272] /raw /ma "Protect IV" 22934
+[19:17:29.619] /ma shell4 ani
+[19:17:29.629] /raw /ma "Shell IV" 22934
+[19:17:37.543] /ma aquaveil
+[19:17:37.553] /raw /ma "Aquaveil" 22288
+[19:17:42.638] /ma protect4 will
+[19:17:42.648] /raw /ma "Protect IV" 22291
+[19:17:45.223] /ma protect4 will
+[19:17:45.234] /raw /ma "Protect IV" 22291
+[19:17:48.114] /p bit of lag
+[19:17:50.970] /ma shell4 will
+[19:17:50.980] /raw /ma "Shell IV" 22291
+[19:17:55.661] /p lemme get MP now that im buffin
+[19:17:56.273] /heal
+[19:18:51.231] /heal off
+[19:18:51.401] /heal off
+[19:18:51.435] /heal off
+[19:18:51.571] /heal off
+[19:18:51.605] /heal off
+[19:18:53.918] /p ready
+[19:19:02.009] /ma "Refresh" <stpt>
+[19:19:02.020] /raw /ma "Refresh" <stpt>
+[19:19:02.020] /ma "Refresh" 22288
+[19:19:02.825] /ma "Refresh" 22291
+[19:19:09.863] /ma haste will
+[19:19:09.873] /raw /ma "Haste" 22291
+[19:19:12.108] /ma haste will
+[19:19:12.118] /raw /ma "Haste" 22291
+[19:19:17.382] /ma protet4 skadi
+[19:19:21.117] /ma protect4 skadi
+[19:19:21.127] /raw /ma "Protect IV" 22353
+[19:19:24.620] /heal
+[19:19:28.055] /heal off
+[19:19:28.090] /heal off
+[19:19:30.471] /ma "Silence" <t>
+[19:19:30.482] /raw /ma "Silence" <t>
+[19:19:31.726] /ma "Silence" <t>
+[19:19:31.736] /raw /ma "Silence" <t>
+[19:19:36.657] /ma Paralyze2 <t>
+[19:19:36.667] /raw /ma "Paralyze II" <t>
+[19:19:36.826] /ma Paralyze2 <t>
+[19:19:36.837] /raw /ma "Paralyze II" <t>
+[19:19:42.744] /ma slow2 <t>
+[19:19:42.754] /raw /ma "Slow II" <t>
+[19:19:48.560] /ma "Cure III" <stpt>
+[19:19:48.570] /raw /ma "Cure III" <stpt>
+[19:19:48.570] /ma "Cure III" 22288
+[19:19:49.340] /ma "Cure III" 22291
+[19:19:54.405] /ma "Cure IV" <stpt>
+[19:19:54.415] /raw /ma "Cure IV" <stpt>
+[19:19:54.416] /ma "Cure IV" 22288
+[19:19:55.086] /ma "Cure IV" 22291
+[19:20:00.763] /heal
+[19:20:05.831] /heal off
+[19:20:05.865] /heal off
+[19:20:06.001] /heal off
+[19:20:06.034] /heal off
+[19:20:06.068] /heal off
+[19:20:07.055] /ma "Cure IV" <stpt>
+[19:20:07.066] /raw /ma "Cure IV" <stpt>
+[19:20:07.066] /ma "Cure IV" 22288
+[19:20:08.210] /ma "Cure IV" 22291
+[19:20:13.411] /heal
+[19:20:26.433] /heal off
+[19:20:26.569] /heal off
+[19:20:27.284] /ma "Cure IV" <stpt>
+[19:20:27.295] /raw /ma "Cure IV" <stpt>
+[19:20:27.295] /ma "Cure IV" 22288
+[19:20:27.860] /ma "Cure IV" 22291
+[19:20:33.573] /ma "Cure III" <stpt>
+[19:20:33.584] /raw /ma "Cure III" <stpt>
+[19:20:33.584] /ma "Cure III" 22288
+[19:20:34.524] /ma "Cure III" 22291
+[19:20:40.440] /ma paralyna will
+[19:20:40.451] /raw /ma "Paralyna" 22291
+[19:20:47.783] /ma "Refresh" <stpt>
+[19:20:47.794] /raw /ma "Refresh" <stpt>
+[19:20:47.794] /ma "Refresh" 22288
+[19:20:48.906] /ma "Refresh" 22893
+[19:21:02.166] /ma dia3
+[19:21:02.177] /raw /ma "Dia III" 17309982
+[19:21:09.688] /ma paralyna will
+[19:21:09.698] /raw /ma "Paralyna" 22291
+[19:21:16.144] /ma "Cure III" <stpt>
+[19:21:16.154] /raw /ma "Cure III" <stpt>
+[19:21:16.154] /ma "Cure III" 22288
+[19:21:17.368] /ma "Cure III" 22291
+[19:21:22.432] /heal
+[19:21:31.510] /heal off
+[19:21:31.546] /heal off
+[19:21:31.682] /heal off
+[19:21:31.715] /heal off
+[19:21:35.217] /ma paralyna will
+[19:21:35.227] /raw /ma "Paralyna" 22291
+[19:21:41.097] /ma paralyna skadi
+[19:21:41.108] /raw /ma "Paralyna" 22353
+[19:21:43.174] /ma paralyna skadi
+[19:21:43.185] /raw /ma "Paralyna" 22353
+[19:21:47.933] /ma "Cure IV" <stpt>
+[19:21:47.944] /raw /ma "Cure IV" <stpt>
+[19:21:47.944] /ma "Cure IV" 22288
+[19:21:48.646] /ma "Cure IV" 22291
+[19:21:53.883] /heal
+[19:22:08.402] /heal off
+[19:22:08.435] /heal off
+[19:22:08.537] /heal off
+[19:22:08.571] /heal off
+[19:22:08.607] /heal off
+[19:22:09.558] /ma "Cure IV" <stpt>
+[19:22:09.568] /raw /ma "Cure IV" <stpt>
+[19:22:09.569] /ma "Cure IV" 22288
+[19:22:10.102] /ma "Cure IV" 22291
+[19:22:14.453] /ma "Refresh" <stpt>
+[19:22:14.463] /raw /ma "Refresh" <stpt>
+[19:22:14.463] /ma "Refresh" 22288
+[19:22:15.100] /ma "Refresh" 22288
+[19:22:24.619] /ma paralyna will
+[19:22:24.630] /raw /ma "Paralyna" 22291
+[19:22:28.568] /ma "Cure IV" <stpt>
+[19:22:28.578] /raw /ma "Cure IV" <stpt>
+[19:22:28.578] /ma "Cure IV" 22288
+[19:22:29.180] /ma "Cure IV" 22291
+[19:22:33.766] /heal
+[19:22:43.216] /p will, block razor fang lol
+[19:22:44.441] /p srub
+[19:22:49.337] /heal off
+[19:22:49.370] /heal off
+[19:22:49.405] /heal off
+[19:22:49.506] /heal off
+[19:22:49.541] /heal off
+[19:22:56.410] /ma Paralyze2 <t>
+[19:22:56.420] /raw /ma "Paralyze II" <t>
+[19:23:00.693] /p why dont you have one yet?
+[19:23:01.850] /ma slow2 <t>
+[19:23:01.860] /raw /ma "Slow II" <t>
+[19:23:02.054] /ma slow2 <t>
+[19:23:02.064] /raw /ma "Slow II" <t>
+[19:23:08.001] /ma bind
+[19:23:08.012] /raw /ma "Bind" 17309982
+[19:23:10.144] /ma bind
+[19:23:10.154] /raw /ma "Bind" 17309982
+[19:23:11.980] /p let me bind
+[19:23:14.425] /ma "Bind" <t>
+[19:23:14.435] /raw /ma "Bind" <t>
+[19:23:14.595] /ma "Bind" <t>
+[19:23:14.606] /raw /ma "Bind" <t>
+[19:23:21.294] /ma slow2 <t>
+[19:23:21.305] /raw /ma "Slow II" <t>
+[19:23:27.142] /ma "Silence" <t>
+[19:23:27.152] /raw /ma "Silence" <t>
+[19:23:27.312] /ma "Silence" <t>
+[19:23:27.322] /raw /ma "Silence" <t>
+[19:23:28.601] /ma "Silence" <t>
+[19:23:28.612] /raw /ma "Silence" <t>
+[19:23:35.881] /ma erase will
+[19:23:35.892] /raw /ma "Erase" 22291
+[19:23:41.558] /heal
+[19:23:45.094] /p let bind do full duration
+[19:23:48.766] /p i need MP
+[19:24:23.273] /heal off
+[19:24:24.360] /ma "Cure IV" <stpt>
+[19:24:24.371] /raw /ma "Cure IV" <stpt>
+[19:24:24.371] /ma "Cure IV" 22288
+[19:24:35.785] /ma "Cure IV" <stpt>
+[19:24:35.796] /raw /ma "Cure IV" <stpt>
+[19:24:35.796] /ma "Cure IV" 22288
+[19:24:47.920] /ma "Cure IV" <stpt>
+[19:24:47.930] /raw /ma "Cure IV" <stpt>
+[19:24:47.930] /ma "Cure IV" 22288
+[19:24:48.398] /ma "Cure IV" 22291
+[19:24:56.118] /ma "Haste" <stpt>
+[19:24:56.129] /raw /ma "Haste" <stpt>
+[19:24:56.129] /ma "Haste" 22288
+[19:24:56.595] /ma "Haste" 22288
+[19:25:01.931] /ma "Cure IV" <stpt>
+[19:25:01.941] /raw /ma "Cure IV" <stpt>
+[19:25:01.941] /ma "Cure IV" 22288
+[19:25:03.091] /ma "Cure IV" 22291
+[19:25:09.006] /ma "Refresh" <stpt>
+[19:25:09.017] /raw /ma "Refresh" <stpt>
+[19:25:09.017] /ma "Refresh" 22288
+[19:25:09.583] /ma "Refresh" 22291
+[19:25:18.633] /ma paralyna will
+[19:25:18.644] /raw /ma "Paralyna" 22291
+[19:25:26.853] /ma "Blind" <t>
+[19:25:26.864] /raw /ma "Blind" <t>
+[19:25:32.667] /ma paralyna will
+[19:25:32.677] /raw /ma "Paralyna" 22291
+[19:25:39.231] /heal
+[19:25:43.037] /heal off
+[19:25:43.175] /heal off
+[19:25:43.208] /heal off
+[19:25:44.398] /ma dia3
+[19:25:44.408] /raw /ma "Dia III" 17309982
+[19:25:46.029] /ma dia3
+[19:25:46.039] /raw /ma "Dia III" 17309982
+[19:25:57.862] /ma paralyna will
+[19:25:57.873] /raw /ma "Paralyna" 22291
+[19:26:02.689] /ma "Cure IV" <stpt>
+[19:26:02.699] /raw /ma "Cure IV" <stpt>
+[19:26:02.699] /ma "Cure IV" 22288
+[19:26:03.302] /ma "Cure IV" 22291
+[19:26:20.402] /ma "Cure IV" <stpt>
+[19:26:20.413] /raw /ma "Cure IV" <stpt>
+[19:26:20.413] /ma "Cure IV" 22288
+[19:26:20.847] /ma "Cure IV" 22291
+[19:26:29.380] /ma thunder3
+[19:26:29.390] /raw /ma "Thunder III" 17309982
+[19:26:39.038] /ma blizzard3
+[19:26:39.049] /raw /ma "Blizzard III" 17309982
+[19:26:52.023] /heal
+[19:27:17.213] /p was I a part of the group that farmed the pop?
+[19:27:29.932] /heal off
+[19:27:29.965] /heal off
+[19:27:29.997] /heal off
+[19:27:53.464] /t willkeeper lol yeah 
+[19:28:03.454] /t willkeeper was that slow dope as fuck?
+[19:28:18.485] /p ill pass this time
+[19:28:22.869] /p Just help with a pop sometime :o
+[19:29:20.381] /p you know im leveling WAR next 
+[19:29:25.081] /p joinin da club
+[19:29:49.383] /t willkeeper novah owes me on something, might ask for it lol
+[19:30:38.350] /p wtb allukropos
+[19:34:19.115] /p does anyone have ZNM pops?
+[19:35:52.107] /p do we have neough zeni for a t4 pop lol?
+[19:40:01.223] /p im gonna have to pop off
+[19:40:03.742] /p and fix dynamis
+[19:40:09.420] /l magic dusk
+[19:40:15.030] /p Get ready for
+[19:40:21.323] /p No more 11 hour dynamis runs
+[19:40:47.501] /p You can only get 1 hour of extra time
+[19:40:51.785] /p in almost all dyna zones lol
+[19:41:05.043] /p gotta do some testing, but about to find out
+[19:41:16.565] /p 1 hr + 1 hr in statues
+[19:41:19.761] /p iirc
+[19:41:24.148] /p maybe a 3rd for boss kill
+[19:41:43.970] /p you can clear any zone in 35 mins if you do it right. 
+[19:42:06.549] /p read: dont suck
+[19:42:15.661] /p We cleared every zone as a 12 man group
+[19:42:21.373] /p with no relics
+[19:42:26.169] /p on retail in 2007
+[19:42:39.901] /p ^ _^ _^ _^ 
+[19:42:51.296] /p we'll see
+[19:42:53.472] /p im still testing
+[19:42:57.105] /p im gonna be a bit
+[19:43:09.583] /s @choco
+[19:43:32.658] /p nope
+[19:43:37.149] /l afk a bit
+[19:43:42.316] /l coding time
+[19:51:23.701] /ma thunder4
+[19:51:23.712] /raw /ma "Thunder IV" 17539350
+[19:53:29.571] /s @setplayerlevel test 99
+[19:53:38.176] /s @bring test
+[19:53:42.285] /ma thunder4
+[19:53:42.295] /raw /ma "Thunder IV" 17539352
+[19:53:45.789] /ma thunder4
+[19:53:45.800] /raw /ma "Thunder IV" 17539351
+[19:53:47.252] /ma thunder4
+[19:53:47.263] /raw /ma "Thunder IV" 17539351
+[19:54:00.041] /ma thunder4
+[19:54:03.542] /ma thunder4 
+[19:54:05.210] /ma thunder4 
+[19:54:05.220] /raw /ma "Thunder IV" 17539363
+[19:54:10.784] /ma thunder4 
+[19:54:10.797] /raw /ma "Thunder IV" 17539368
+[19:55:22.076] /s @homepoint test
+[19:55:24.354] /s @homepoint
+[20:57:15.134] /p ill ccome BLM/WAR
+[20:57:19.928] /s ill ome BLM/WAR
+[20:57:24.313] /s VOKE STATS GET MONEY
+[20:57:38.185] /invite
+[20:57:45.870] /l add me to tank pt
+[20:57:58.513] /join
+[20:58:04.804] /t novah orz
+[20:58:48.534] /t novah still need me on DD PT?
+[20:59:00.877] /sea all ska
+[20:59:08.457] /l Skadi, get me in DD PT
+[20:59:11.043] /l plan has changed
+[20:59:28.114] /join
+[20:59:31.343] /ja composure
+[20:59:31.353] /raw /ja "Composure" 22288
+[20:59:38.618] /ma "Stoneskin" <me>
+[20:59:38.628] /raw /ma "Stoneskin" 22288
+[20:59:38.788] /ma "Stoneskin" <me>
+[20:59:38.799] /raw /ma "Stoneskin" 22288
+[20:59:40.657] /ma "Stoneskin" <me>
+[20:59:40.668] /raw /ma "Stoneskin" 22288
+[20:59:48.346] /ma "Refresh" <stpt>
+[20:59:48.357] /raw /ma "Refresh" <stpt>
+[20:59:48.357] /ma "Refresh" 22288
+[20:59:54.771] /ma "Refresh" <stpt>
+[20:59:54.782] /raw /ma "Refresh" <stpt>
+[20:59:54.782] /ma "Refresh" 22288
+[20:59:55.179] /ma "Refresh" 22288
+[21:00:06.025] /ma "Haste" <stpt>
+[21:00:06.036] /raw /ma "Haste" <stpt>
+[21:00:06.036] /ma "Haste" 22288
+[21:00:06.535] /ma "Haste" 22288
+[21:00:31.698] /p T/B
+[21:00:40.468] /p burst II hits for 1800 npok
+[21:00:51.381] /p lol will
+[21:01:02.464] /p wanna borrow mine?
+[21:01:29.904] /ma "Phalanx" <me>
+[21:01:29.914] /raw /ma "Phalanx" 22288
+[21:01:48.359] /ma aquaveil
+[21:01:48.369] /raw /ma "Aquaveil" 22288
+[21:01:51.963] /p gather for barthunder
+[21:01:56.659] /ma barthundra me
+[21:01:56.669] /raw /ma "Barthundra" 22288
+[21:02:03.558] /ma Paralyze2 <t>
+[21:02:03.569] /raw /ma "Paralyze II" <t>
+[21:02:07.094] /ma Paralyze2 <t>
+[21:02:07.104] /raw /ma "Paralyze II" <t>
+[21:02:07.297] /ma Paralyze2 <t>
+[21:02:07.308] /raw /ma "Paralyze II" <t>
+[21:02:13.182] /ma slow2 <t>
+[21:02:13.192] /raw /ma "Slow II" <t>
+[21:02:13.352] /ma slow2 <t>
+[21:02:13.362] /raw /ma "Slow II" <t>
+[21:02:19.198] /ma "Blind" <t>
+[21:02:19.209] /raw /ma "Blind" <t>
+[21:02:19.368] /ma "Blind" <t>
+[21:02:19.378] /raw /ma "Blind" <t>
+[21:02:22.666] /p binding
+[21:02:27.320] /ma "Gravity" <t>
+[21:02:27.331] /raw /ma "Gravity" <t>
+[21:02:34.846] /ma "Blind" <t>
+[21:02:34.857] /raw /ma "Blind" <t>
+[21:02:44.909] /ma dia3
+[21:02:44.919] /raw /ma "Dia III" 17101201
+[21:02:55.234] /ma reraise me
+[21:02:55.244] /raw /ma "Reraise" 22288
+[21:03:07.382] /ma "Cure IV" <stpt>
+[21:03:07.393] /raw /ma "Cure IV" <stpt>
+[21:03:07.393] /ma "Cure IV" 22288
+[21:03:08.402] /ma "Cure IV" 23003
+[21:03:13.805] /ma "Cure IV" <stpt>
+[21:03:13.816] /raw /ma "Cure IV" <stpt>
+[21:03:13.816] /ma "Cure IV" 22288
+[21:03:14.824] /ma "Cure IV" 23003
+[21:03:28.768] /ma "Cure IV" <stpt>
+[21:03:28.779] /raw /ma "Cure IV" <stpt>
+[21:03:28.779] /ma "Cure IV" 22288
+[21:03:29.686] /ma "Cure IV" 22615
+[21:04:11.018] /ma Paralyze2 <t>
+[21:04:11.029] /raw /ma "Paralyze II" <t>
+[21:04:16.729] /ma slow2 <t>
+[21:04:16.740] /raw /ma "Slow II" <t>
+[21:04:16.898] /ma slow2 <t>
+[21:04:16.909] /raw /ma "Slow II" <t>
+[21:04:33.520] /ma Paralyze2 <t>
+[21:04:33.530] /raw /ma "Paralyze II" <t>
+[21:04:37.664] /ma "Cure IV" <stpt>
+[21:04:37.675] /raw /ma "Cure IV" <stpt>
+[21:04:37.675] /ma "Cure IV" 22288
+[21:04:40.012] /ma "Cure IV" 23003
+[21:04:43.953] /ma "Cure III" <stpt>
+[21:04:43.964] /raw /ma "Cure III" <stpt>
+[21:04:43.964] /ma "Cure III" 22288
+[21:04:44.633] /ma "Cure III" 22353
+[21:04:46.978] /ma "Cure IV" <stpt>
+[21:04:46.989] /raw /ma "Cure IV" <stpt>
+[21:04:46.990] /ma "Cure IV" 22288
+[21:04:47.388] /ma "Cure IV" 22353
+[21:04:59.222] /ma "Cure IV" <stpt>
+[21:04:59.233] /raw /ma "Cure IV" <stpt>
+[21:04:59.233] /ma "Cure IV" 22288
+[21:04:59.632] /ma "Cure IV" 22353
+[21:05:02.214] /ma "Cure III" <stpt>
+[21:05:02.225] /raw /ma "Cure III" <stpt>
+[21:05:02.225] /ma "Cure III" 22288
+[21:05:03.574] /ma "Cure III" 22353
+[21:05:12.383] /ma "Cure IV" <stpt>
+[21:05:12.393] /raw /ma "Cure IV" <stpt>
+[21:05:12.393] /ma "Cure IV" 22288
+[21:05:12.925] /ma "Cure IV" 22353
+[21:05:16.458] /ma "Cure IV" <stpt>
+[21:05:16.468] /raw /ma "Cure IV" <stpt>
+[21:05:16.468] /ma "Cure IV" 22288
+[21:05:29.575] /ma Paralyze2 <t>
+[21:05:29.585] /raw /ma "Paralyze II" <t>
+[21:06:21.065] /ma Paralyze2 <t>
+[21:06:21.075] /raw /ma "Paralyze II" <t>
+[21:06:36.334] /ma "Refresh" <stpt>
+[21:06:36.344] /raw /ma "Refresh" <stpt>
+[21:06:36.344] /ma "Refresh" 22288
+[21:06:41.396] /ma Paralyze2 <t>
+[21:06:41.406] /raw /ma "Paralyze II" <t>
+[21:06:54.422] /ma cure3 novah
+[21:06:54.432] /raw /ma "Cure III" 21830
+[21:07:01.593] /ma Paralyze2 <t>
+[21:07:01.603] /raw /ma "Paralyze II" <t>
+[21:07:07.409] /ma slow2 <t>
+[21:07:07.420] /raw /ma "Slow II" <t>
+[21:07:07.580] /ma slow2 <t>
+[21:07:07.590] /raw /ma "Slow II" <t>
+[21:07:09.824] /ma slow2 <t>
+[21:07:09.835] /raw /ma "Slow II" <t>
+[21:07:21.927] /add on load duration
+[21:07:25.803] /addon load duration
+[21:07:30.563] /load duration
+[21:07:36.394] /ma dia3
+[21:07:36.405] /raw /ma "Dia III" 17101201
+[21:07:40.096] /ma "Refresh" <stpt>
+[21:07:40.107] /raw /ma "Refresh" <stpt>
+[21:07:40.107] /ma "Refresh" 22288
+[21:07:40.641] /ma "Refresh" 22288
+[21:07:49.786] /ma Paralyze2 <t>
+[21:07:49.796] /raw /ma "Paralyze II" <t>
+[21:07:55.635] /ma Paralyze2 <t>
+[21:07:55.646] /raw /ma "Paralyze II" <t>
+[21:07:55.804] /ma Paralyze2 <t>
+[21:07:55.815] /raw /ma "Paralyze II" <t>
+[21:08:02.094] /ma "Cure IV" <stpt>
+[21:08:02.105] /raw /ma "Cure IV" <stpt>
+[21:08:02.105] /ma "Cure IV" 22288
+[21:08:17.665] /ma blizzard3
+[21:08:17.675] /raw /ma "Blizzard III" 17101201
+[21:08:41.876] /ma "Stoneskin" <me>
+[21:08:41.886] /raw /ma "Stoneskin" 22288
+[21:08:42.045] /ma "Stoneskin" <me>
+[21:08:42.056] /raw /ma "Stoneskin" 22288
+[21:08:43.709] /ma "Stoneskin" <me>
+[21:08:43.720] /raw /ma "Stoneskin" 22288
+[21:08:54.555] /ma "Stoneskin" <me>
+[21:08:54.565] /raw /ma "Stoneskin" 22288
+[21:08:54.760] /ma "Stoneskin" <me>
+[21:08:54.771] /raw /ma "Stoneskin" 22288
+[21:09:00.610] /p ýý
+[21:09:03.052] /ma paralyna novah
+[21:09:03.063] /raw /ma "Paralyna" 21830
+[21:09:05.635] /ma paralyna novah
+[21:09:05.646] /raw /ma "Paralyna" 21830
+[21:09:13.733] /ma paralyna me
+[21:09:13.744] /raw /ma "Paralyna" 22288
+[21:09:17.472] /ma paralyna me
+[21:09:17.483] /raw /ma "Paralyna" 22288
+[21:09:22.573] /ja divine seal
+[21:09:22.583] /raw /ja "Divine Seal" 22288
+[21:09:26.925] /ma curaga2 me
+[21:09:26.935] /raw /ma "Curaga II" 22288
+[21:09:38.887] /magic "Cure IV" 22353
+[21:09:44.029] /ma "Cure IV" <stpt>
+[21:09:44.039] /raw /ma "Cure IV" <stpt>
+[21:09:44.039] /ma "Cure IV" 22288
+[21:09:45.387] /ma "Cure III" <stpt>
+[21:09:45.397] /raw /ma "Cure III" <stpt>
+[21:09:45.397] /ma "Cure III" 22288
+[21:09:45.897] /ma "Cure III" 22353
+[21:09:52.183] /ma "Bind" <t>
+[21:09:52.193] /raw /ma "Bind" <t>
+[21:10:00.041] /ma "Cure IV" <stpt>
+[21:10:00.051] /raw /ma "Cure IV" <stpt>
+[21:10:00.051] /ma "Cure IV" 22288
+[21:10:01.128] /ma "Cure IV" 23027
+[21:10:06.230] /ma "Haste" <stpt>
+[21:10:06.241] /raw /ma "Haste" <stpt>
+[21:10:06.241] /ma "Haste" 22288
+[21:10:06.775] /ma "Haste" 22288
+[21:10:14.661] /ma "Cure IV" <stpt>
+[21:10:14.671] /raw /ma "Cure IV" <stpt>
+[21:10:14.671] /ma "Cure IV" 22288
+[21:10:21.560] /ma "Cure IV" <stpt>
+[21:10:21.570] /raw /ma "Cure IV" <stpt>
+[21:10:21.570] /ma "Cure IV" 22288
+[21:10:23.938] /ma paralyna me
+[21:10:23.948] /raw /ma "Paralyna" 22288
+[21:10:28.462] /ma "Cure IV" <stpt>
+[21:10:28.473] /raw /ma "Cure IV" <stpt>
+[21:10:28.473] /ma "Cure IV" 22288
+[21:10:29.823] /ma "Cure IV" 22353
+[21:10:35.023] /ma "Bind" <t>
+[21:10:35.034] /raw /ma "Bind" <t>
+[21:10:41.725] /ma "Cure IV" <stpt>
+[21:10:41.736] /raw /ma "Cure IV" <stpt>
+[21:10:41.736] /ma "Cure IV" 22288
+[21:10:42.202] /ma "Cure IV" 22353
+[21:10:48.761] /ma "Cure IV" <stpt>
+[21:10:48.771] /raw /ma "Cure IV" <stpt>
+[21:10:48.771] /ma "Cure IV" 22288
+[21:10:49.270] /ma "Cure IV" 22353
+[21:10:52.565] /p gather
+[21:10:57.870] /ma curaga2 me
+[21:10:57.880] /raw /ma "Curaga II" 22288
+[21:11:11.846] /ma "Gravity" <t>
+[21:11:11.857] /raw /ma "Gravity" <t>
+[21:11:27.248] /magic "Cure III" 23027
+[21:11:37.688] /ma "Bind" <t>
+[21:11:37.698] /raw /ma "Bind" <t>
+[21:11:37.857] /ma "Bind" <t>
+[21:11:37.868] /raw /ma "Bind" <t>
+[21:11:46.356] /ja convert
+[21:11:46.366] /raw /ja "Convert" 22288
+[21:11:47.377] /ma "Cure IV" <stpt>
+[21:11:47.387] /raw /ma "Cure IV" <stpt>
+[21:11:47.387] /ma "Cure IV" 22288
+[21:11:48.262] /ma "Cure IV" 22288
+[21:11:54.824] /ma raise souv
+[21:11:54.835] /raw /ma "Raise" 21936
+[21:11:56.591] /p got him
+[21:12:07.439] /s @bring karru
+[21:12:19.986] /p just brought karru for auto HP
+[21:12:23.894] /ma Paralyze2 <t>
+[21:12:23.905] /raw /ma "Paralyze II" <t>
+[21:12:30.967] /ma slow2 <t>
+[21:12:30.977] /raw /ma "Slow II" <t>
+[21:12:31.307] /ma slow2 <t>
+[21:12:31.317] /raw /ma "Slow II" <t>
+[21:12:41.236] /ma "Cure IV" <stpt>
+[21:12:41.246] /raw /ma "Cure IV" <stpt>
+[21:12:41.246] /ma "Cure IV" 22288
+[21:12:42.796] /ma "Cure IV" 23027
+[21:12:55.411] /ma "Bind" <t>
+[21:12:55.421] /raw /ma "Bind" <t>
+[21:13:11.290] /ma "Cure IV" <stpt>
+[21:13:11.300] /raw /ma "Cure IV" <stpt>
+[21:13:11.300] /ma "Cure IV" 22288
+[21:13:12.616] /ma "Cure IV" 23027
+[21:13:16.460] /ma "Bind" <t>
+[21:13:16.470] /raw /ma "Bind" <t>
+[21:13:19.012] /p RNG disengage
+[21:13:21.184] /ma "Gravity" <t>
+[21:13:21.195] /raw /ma "Gravity" <t>
+[21:13:22.678] /ma "Gravity" <t>
+[21:13:22.689] /raw /ma "Gravity" <t>
+[21:13:45.392] /ma thunder3
+[21:13:45.402] /raw /ma "Thunder III" 17101201
+[21:13:54.647] /ma "Stoneskin" <me>
+[21:13:54.658] /raw /ma "Stoneskin" 22288
+[21:13:54.817] /ma "Stoneskin" <me>
+[21:13:54.827] /raw /ma "Stoneskin" 22288
+[21:13:54.986] /ma "Stoneskin" <me>
+[21:13:54.996] /raw /ma "Stoneskin" 22288
+[21:13:55.155] /ma "Stoneskin" <me>
+[21:13:55.165] /raw /ma "Stoneskin" 22288
+[21:14:05.345] /ma "Bind" <t>
+[21:14:05.356] /raw /ma "Bind" <t>
+[21:14:05.522] /ma "Bind" <t>
+[21:14:05.532] /raw /ma "Bind" <t>
+[21:14:12.218] /ma "Cure IV" <stpt>
+[21:14:12.228] /raw /ma "Cure IV" <stpt>
+[21:14:12.241] /ma "Cure IV" 22288
+[21:14:12.659] /ma "Cure IV" 22288
+[21:14:19.156] /ma paralna me
+[21:14:21.740] /ma paralyna me
+[21:14:21.751] /raw /ma "Paralyna" 22288
+[21:14:26.092] /ma "Cure IV" <stpt>
+[21:14:26.102] /raw /ma "Cure IV" <stpt>
+[21:14:26.102] /ma "Cure IV" 22288
+[21:14:26.636] /ma "Cure IV" 22288
+[21:14:34.964] /ma "Cure IV" <stpt>
+[21:14:34.974] /raw /ma "Cure IV" <stpt>
+[21:14:34.974] /ma "Cure IV" 22288
+[21:14:35.678] /ma "Cure IV" 22615
+[21:14:40.879] /ma "Cure IV" <stpt>
+[21:14:40.889] /raw /ma "Cure IV" <stpt>
+[21:14:40.889] /ma "Cure IV" 22288
+[21:14:41.968] /ma "Cure IV" 22615
+[21:14:48.566] /ma "Gravity" <t>
+[21:14:48.577] /raw /ma "Gravity" <t>
+[21:14:54.854] /ma "Cure IV" <stpt>
+[21:14:54.865] /raw /ma "Cure IV" <stpt>
+[21:14:54.865] /ma "Cure IV" 22288
+[21:14:57.264] /ma raise anki
+[21:14:57.275] /raw /ma "Raise" 21885
+[21:15:02.437] /ma raise anki
+[21:15:02.448] /raw /ma "Raise" 21885
+[21:15:04.511] /p raising
+[21:15:08.283] /p well fuck lol
+[21:15:20.527] /ma Paralyze2 <t>
+[21:15:20.537] /raw /ma "Paralyze II" <t>
+[21:15:26.170] /ma slow2 <t>
+[21:15:26.180] /raw /ma "Slow II" <t>
+[21:15:26.340] /ma slow2 <t>
+[21:15:26.351] /raw /ma "Slow II" <t>
+[21:15:32.388] /ma "Gravity" <t>
+[21:15:32.399] /raw /ma "Gravity" <t>
+[21:15:35.379] /ma "Gravity" <t>
+[21:15:35.390] /raw /ma "Gravity" <t>
+[21:15:41.948] /ma "Cure IV" <stpt>
+[21:15:41.958] /raw /ma "Cure IV" <stpt>
+[21:15:41.958] /ma "Cure IV" 22288
+[21:15:42.355] /ma "Cure IV" 22288
+[21:15:50.277] /ma barthundra
+[21:15:50.287] /raw /ma "Barthundra" 22288
+[21:15:55.508] /ma "Gravity" <t>
+[21:15:55.518] /raw /ma "Gravity" <t>
+[21:15:55.717] /ma "Gravity" <t>
+[21:15:55.727] /raw /ma "Gravity" <t>
+[21:16:03.563] /heal
+[21:16:14.109] /heal off
+[21:16:14.139] /heal off
+[21:16:14.177] /heal off
+[21:16:14.211] /heal off
+[21:16:14.347] /heal off
+[21:16:14.380] /heal off
+[21:16:14.517] /heal off
+[21:16:14.547] /heal off
+[21:16:14.652] /heal off
+[21:16:14.683] /heal off
+[21:16:14.788] /heal off
+[21:16:14.819] /heal off
+[21:16:18.699] /ma "Bind" <t>
+[21:16:18.710] /raw /ma "Bind" <t>
+[21:16:18.868] /ma "Bind" <t>
+[21:16:18.879] /raw /ma "Bind" <t>
+[21:16:29.989] /heal
+[21:16:52.290] /ma "Stoneskin" <me>
+[21:16:52.300] /raw /ma "Stoneskin" 22288
+[21:16:52.456] /ma "Stoneskin" <me>
+[21:16:52.467] /raw /ma "Stoneskin" 22288
+[21:17:03.786] /ma paralyna novah
+[21:17:03.796] /raw /ma "Paralyna" 21830
+[21:17:07.318] /ma paralyna novah
+[21:17:07.329] /raw /ma "Paralyna" 21830
+[21:17:14.386] /ma paralyna me
+[21:17:14.396] /raw /ma "Paralyna" 22288
+[21:17:25.268] /ma "Bind" <t>
+[21:17:25.279] /raw /ma "Bind" <t>
+[21:17:33.872] /ma thunder3
+[21:17:33.883] /raw /ma "Thunder III" 17101201
+[21:17:57.877] /t skadi I was rotating it :/ some peeps outta range
+[21:17:58.592] /heal
+[21:19:40.468] /heal off
+[21:19:40.504] /heal off
+[21:19:44.623] /heal
+[21:20:07.573] /p brb
+[21:20:11.824] /heal off
+[21:20:11.857] /heal off
+[21:20:11.892] /heal off
+[21:20:18.242] /heal
+[21:31:29.434] /p I have a JOF pop nearly
+[21:31:40.587] /heal off
+[21:31:40.621] /heal off
+[21:31:40.656] /heal off
+[21:31:40.690] /heal off
+[21:31:40.724] /heal off
+[21:31:40.826] /heal off
+[21:31:40.860] /heal off
+[21:31:40.894] /heal off
+[21:38:38.425] /s @choco
+[21:39:59.371] /s @goto novah
+[21:41:40.748] /l pfft
+[21:41:49.589] /l only scrubs dont do the Supernova FF League. 
+[21:42:22.938] /l I put up a post in old forum land and new forum land
+[21:42:25.625] /l I added prizes
+[21:42:49.497] /ma "Stoneskin" <me>
+[21:42:49.508] /raw /ma "Stoneskin" 22288
+[21:44:25.384] /p i have no clue
+[21:44:30.419] /p im just here to be healbot
+[21:44:49.422] /ma sleep2
+[21:44:49.433] /raw /ma "Sleep II" 16797972
+[21:44:55.542] /heal
+[21:45:07.443] /t skadi no whats up?
+[21:45:20.566] /t Skadi I see it now, yeah, I can.
+[21:45:22.334] /heal off
+[21:45:22.470] /heal off
+[21:45:22.505] /heal off
+[21:45:26.685] /l FYI
+[21:45:43.277] /l 15 Currency of Choice for 1st place, 7 2nd 4 3rd
+[21:45:50.997] /l * does not include 1k pieces
+[21:46:02.351] /l I am not that rich
+[21:46:06.940] /ma "Refresh" <stpt>
+[21:46:06.950] /raw /ma "Refresh" <stpt>
+[21:46:06.951] /ma "Refresh" 22288
+[21:46:07.553] /ma "Refresh" 22288
+[21:46:16.392] /ma "Haste" <stpt>
+[21:46:16.403] /raw /ma "Haste" <stpt>
+[21:46:16.403] /ma "Haste" 22288
+[21:46:16.936] /ma "Haste" 22288
+[21:46:24.181] /ma "Phalanx" <me>
+[21:46:24.191] /raw /ma "Phalanx" 22288
+[21:46:35.400] /l not hard
+[21:46:46.620] /ma protect4 me
+[21:46:46.630] /raw /ma "Protect IV" 22288
+[21:46:51.821] /ma shell4 me
+[21:46:51.832] /raw /ma "Shell IV" 22288
+[21:47:12.802] /l alright
+[21:47:15.762] /l what the fuck is going on
+[21:47:18.993] /l and do I need to be on RDM
+[21:47:50.512] /invite
+[21:50:48.947] /sea all 
+[21:50:50.615] /sesa
+[21:50:52.621] /sea
+[21:51:08.058] /ma thunder3
+[21:51:08.069] /raw /ma "Thunder III" 16797972
+[21:51:14.938] /join
+[21:51:25.577] /ma thunder3
+[21:51:25.588] /raw /ma "Thunder III" 16797973
+[21:51:36.596] /ma thunder3
+[21:51:36.607] /raw /ma "Thunder III" 16797973
+[21:51:45.238] /ma blink me
+[21:51:45.248] /raw /ma "Blink" 22288
+[21:51:53.974] /ma "Cure IV" <stpt>
+[21:51:53.985] /raw /ma "Cure IV" <stpt>
+[21:51:53.985] /ma "Cure IV" 22288
+[21:51:55.095] /ma "Cure IV" 22410
+[21:52:03.369] /heal
+[21:52:36.758] /heal off
+[21:52:36.792] /heal off
+[21:52:36.928] /heal off
+[21:52:36.962] /heal off
+[21:52:36.996] /heal off
+[21:52:59.711] /heal
+[21:53:28.075] /p Hook
+[21:53:52.055] /p you're on fresh/haste/cure duty
+[21:53:52.802] /heal off
+[21:53:52.837] /heal off
+[21:53:52.974] /heal off
+[21:53:53.006] /heal off
+[21:53:53.040] /heal off
+[21:53:56.916] /s @choco
+[21:54:10.972] /l RDM's Anyone need Patriarch Satuee?
+[21:54:14.309] /l RDM's Anyone need Patriarch Satuee?
+[21:54:22.401] /l 70 MP 7 MND 6 HMP
+[21:54:30.185] /l best RDM HNM food next to goblin mushpot
+[21:55:02.829] /s i have no clue
+[21:55:04.903] /s :(
+[21:55:08.202] /s im so confused
+[21:55:43.528] /s were full up
+[21:55:45.666] /s :/
+[21:55:48.864] /s no clue wtf is happening
+[21:55:51.210] /s @goto novah
+[21:56:38.323] /ma "Refresh" <stpt>
+[21:56:38.333] /raw /ma "Refresh" <stpt>
+[21:56:38.333] /ma "Refresh" 22288
+[21:56:38.800] /ma "Refresh" 22288
+[21:56:45.872] /ma "Haste" <stpt>
+[21:56:45.882] /raw /ma "Haste" <stpt>
+[21:56:45.882] /ma "Haste" 22288
+[21:56:46.893] /ma "Haste" 22288
+[21:56:53.078] /ma "Phalanx" <me>
+[21:56:53.089] /raw /ma "Phalanx" 22288
+[21:56:53.249] /ma "Phalanx" <me>
+[21:56:53.260] /raw /ma "Phalanx" 22288
+[21:56:59.582] /ma barblizzara
+[21:56:59.593] /raw /ma "Barblizzara" 22288
+[21:57:03.451] /heal
+[21:57:38.912] /s @bring arcueid
+[21:57:46.190] /heal off
+[21:57:46.222] /heal off
+[21:57:46.256] /heal off
+[21:57:46.359] /heal off
+[21:57:46.392] /heal off
+[21:57:46.494] /heal off
+[21:57:46.528] /heal off
+[21:57:46.563] /heal off
+[21:57:59.790] /t arcueid you're in, just wreck his shit bet you can, and keep hate on typ
+[21:58:10.264] /t arcueid just watch the TP, I'd rather have you here than some other peeps
+[21:58:13.731] /bow
+[21:58:24.881] /p ill sleep if things get hairy
+[21:58:28.759] /ma "Stoneskin" <me>
+[21:58:28.770] /raw /ma "Stoneskin" 22288
+[21:58:28.929] /ma "Stoneskin" <me>
+[21:58:28.939] /raw /ma "Stoneskin" 22288
+[21:58:43.717] /t arcueid i have no lue whats going on, so id rather have someone with some xp here
+[21:59:20.915] /ma barblizzara
+[21:59:20.926] /raw /ma "Barblizzara" 22288
+[21:59:27.817] /ma barblizzara
+[21:59:27.828] /raw /ma "Barblizzara" 22288
+[21:59:33.188] /addon load recast
+[21:59:36.318] /addon load ibar
+[21:59:45.761] /p lorx, get the buffga
+[22:00:00.218] /p MAGES
+[22:00:03.202] /p I HAVE PARA AND SLOW
+[22:00:09.662] /p Lets not dot
+[22:00:14.123] /p ahh lorx, kk
+[22:01:42.051] /ma "Cure IV" <stpt>
+[22:01:42.061] /raw /ma "Cure IV" <stpt>
+[22:01:42.061] /ma "Cure IV" 22288
+[22:01:43.820] /ma "Cure IV" 22410
+[22:01:48.407] /heal
+[22:02:06.736] /heal off
+[22:02:06.905] /heal off
+[22:02:06.938] /heal off
+[22:02:33.254] /l withtherightsetup.jpg
+[22:02:46.102] /p everyone has to move together
+[22:03:32.456] /ma cure4 typ
+[22:03:32.466] /raw /ma "Cure IV" 22555
+[22:03:45.038] /ma Paralyze2 <t>
+[22:03:45.048] /raw /ma "Paralyze II" <t>
+[22:03:51.107] /ma slow2 <t>
+[22:03:51.117] /raw /ma "Slow II" <t>
+[22:03:51.307] /ma slow2 <t>
+[22:03:51.318] /raw /ma "Slow II" <t>
+[22:03:51.473] /ma slow2 <t>
+[22:03:51.483] /raw /ma "Slow II" <t>
+[22:03:59.111] /ma slow2 <t>
+[22:03:59.122] /raw /ma "Slow II" <t>
+[22:04:01.831] /ma blind
+[22:04:01.842] /raw /ma "Blind" 16797969
+[22:04:07.410] /ma barblizzara
+[22:04:07.421] /raw /ma "Barblizzara" 22288
+[22:04:11.964] /ma slow2 <t>
+[22:04:11.975] /raw /ma "Slow II" <t>
+[22:04:15.091] /ma slow2 <t>
+[22:04:15.102] /raw /ma "Slow II" <t>
+[22:04:15.296] /ma slow2 <t>
+[22:04:15.307] /raw /ma "Slow II" <t>
+[22:04:15.465] /ma slow2 <t>
+[22:04:15.477] /raw /ma "Slow II" <t>
+[22:04:21.415] /ma "Refresh" <stpt>
+[22:04:21.425] /raw /ma "Refresh" <stpt>
+[22:04:21.426] /ma "Refresh" 22288
+[22:04:22.707] /ma "Refresh" 22288
+[22:04:33.009] /ma "Haste" <stpt>
+[22:04:33.019] /raw /ma "Haste" <stpt>
+[22:04:33.019] /ma "Haste" 22288
+[22:04:33.757] /ma "Haste" 22353
+[22:04:46.337] /ma cure3 anki
+[22:04:46.347] /raw /ma "Cure III" 21885
+[22:04:56.097] /ma blind
+[22:04:56.107] /raw /ma "Blind" 16797969
+[22:05:03.442] /ma "Gravity" <t>
+[22:05:03.452] /raw /ma "Gravity" <t>
+[22:05:04.221] /ma "Gravity" <t>
+[22:05:04.232] /raw /ma "Gravity" <t>
+[22:05:13.614] /ma "Cure IV" <stpt>
+[22:05:13.625] /raw /ma "Cure IV" <stpt>
+[22:05:13.625] /ma "Cure IV" 22288
+[22:05:14.632] /ma "Cure IV" 22410
+[22:05:21.468] /ma paralyna me
+[22:05:21.478] /raw /ma "Paralyna" 22288
+[22:05:27.219] /ma "Stoneskin" <me>
+[22:05:27.230] /raw /ma "Stoneskin" 22288
+[22:05:27.387] /ma "Stoneskin" <me>
+[22:05:27.397] /raw /ma "Stoneskin" 22288
+[22:05:38.535] /ma curaga2 me
+[22:05:38.546] /raw /ma "Curaga II" 22288
+[22:05:47.445] /ma blink me
+[22:05:47.455] /raw /ma "Blink" 22288
+[22:05:56.861] /ma paralyna souv
+[22:05:56.871] /raw /ma "Paralyna" 21936
+[22:06:05.944] /ma paralyna will
+[22:06:05.955] /raw /ma "Paralyna" 22291
+[22:06:13.455] /ma curaga2 me
+[22:06:13.465] /raw /ma "Curaga II" 22288
+[22:06:21.177] /ma "Stoneskin" <me>
+[22:06:21.188] /raw /ma "Stoneskin" 22288
+[22:06:21.380] /ma "Stoneskin" <me>
+[22:06:21.391] /raw /ma "Stoneskin" 22288
+[22:06:32.467] /ma "Phalanx" <me>
+[22:06:32.478] /raw /ma "Phalanx" 22288
+[22:06:32.635] /ma "Phalanx" <me>
+[22:06:32.645] /raw /ma "Phalanx" 22288
+[22:06:40.205] /heal
+[22:06:54.369] /heal off
+[22:06:54.504] /heal off
+[22:06:54.539] /heal off
+[22:06:56.922] /ma paralyan novah
+[22:07:01.506] /ma paralyna me
+[22:07:01.516] /raw /ma "Paralyna" 22288
+[22:07:09.297] /ma paralyna novah
+[22:07:09.307] /raw /ma "Paralyna" 21830
+[22:07:17.095] /ma paralyna souv
+[22:07:17.106] /raw /ma "Paralyna" 21936
+[22:07:24.645] /ma barblizzara
+[22:07:24.655] /raw /ma "Barblizzara" 22288
+[22:07:36.898] /ma paralyna me
+[22:07:36.908] /raw /ma "Paralyna" 22288
+[22:07:43.896] /ma "Silence" <t>
+[22:07:43.907] /raw /ma "Silence" <t>
+[22:07:44.067] /ma "Silence" <t>
+[22:07:44.077] /raw /ma "Silence" <t>
+[22:07:51.887] /ma curaga2 me
+[22:07:51.898] /raw /ma "Curaga II" 22288
+[22:08:00.322] /ma "Stoneskin" <me>
+[22:08:00.333] /raw /ma "Stoneskin" 22288
+[22:08:00.493] /ma "Stoneskin" <me>
+[22:08:00.504] /raw /ma "Stoneskin" 22288
+[22:08:00.663] /ma "Stoneskin" <me>
+[22:08:00.674] /raw /ma "Stoneskin" 22288
+[22:08:17.356] /ma "Cure IV" <stpt>
+[22:08:17.366] /raw /ma "Cure IV" <stpt>
+[22:08:17.366] /ma "Cure IV" 22288
+[22:08:26.536] /ma regen me
+[22:08:26.547] /raw /ma "Regen" 22288
+[22:08:33.609] /ma "Cure IV" <stpt>
+[22:08:33.620] /raw /ma "Cure IV" <stpt>
+[22:08:33.620] /ma "Cure IV" 22288
+[22:08:35.926] /ma "Refresh" <stpt>
+[22:08:35.937] /raw /ma "Refresh" <stpt>
+[22:08:35.937] /ma "Refresh" 22288
+[22:08:37.078] /ma "Refresh" 22410
+[22:08:47.328] /ma sleep2
+[22:08:47.339] /raw /ma "Sleep II" 16797969
+[22:08:56.625] /ma sleep
+[22:08:56.636] /raw /ma "Sleep" 16797969
+[22:09:03.696] /ma "Stoneskin" <me>
+[22:09:03.707] /raw /ma "Stoneskin" 22288
+[22:09:03.869] /ma "Stoneskin" <me>
+[22:09:03.880] /raw /ma "Stoneskin" 22288
+[22:09:12.162] /ma paralyna me
+[22:09:12.173] /raw /ma "Paralyna" 22288
+[22:09:14.372] /ma paralyna me
+[22:09:14.383] /raw /ma "Paralyna" 22288
+[22:09:16.143] /ma paralyna me
+[22:09:16.154] /raw /ma "Paralyna" 22288
+[22:09:21.240] /ja divineseal
+[22:09:21.250] /raw /ja "Divine Seal" 22288
+[22:09:25.149] /ma curaga2 me
+[22:09:25.160] /raw /ma "Curaga II" 22288
+[22:09:33.005] /ma "Stoneskin" <me>
+[22:09:33.016] /raw /ma "Stoneskin" 22288
+[22:09:33.175] /ma "Stoneskin" <me>
+[22:09:33.186] /raw /ma "Stoneskin" 22288
+[22:09:43.951] /ma sleep2
+[22:09:45.958] /ma sleep2
+[22:09:49.189] /ma sleep2
+[22:09:49.200] /raw /ma "Sleep II" 16797969
+[22:10:00.237] /ma sleep
+[22:10:00.247] /raw /ma "Sleep" 16797969
+[22:10:02.410] /p disengage
+[22:10:03.739] /p disengage
+[22:10:17.304] /ma "Cure IV" <stpt>
+[22:10:17.315] /raw /ma "Cure IV" <stpt>
+[22:10:17.315] /ma "Cure IV" 22288
+[22:10:28.421] /ma sleep2
+[22:10:28.431] /raw /ma "Sleep II" 16797969
+[22:10:36.991] /load gearlok
+[22:10:38.793] /load gearlock
+[22:10:43.378] /ma sleep2
+[22:10:43.389] /raw /ma "Sleep II" 16797969
+[22:10:45.180] /ma sleep
+[22:10:45.191] /raw /ma "Sleep" 16797969
+[22:10:51.911] /ma "Cure IV" <stpt>
+[22:10:51.921] /raw /ma "Cure IV" <stpt>
+[22:10:51.921] /ma "Cure IV" 22288
+[22:10:52.284] /ma "Cure IV" 22288
+[22:10:58.274] /ja convert
+[22:10:58.284] /raw /ja "Convert" 22288
+[22:10:59.395] /ma "Cure IV" <stpt>
+[22:10:59.406] /raw /ma "Cure IV" <stpt>
+[22:10:59.406] /ma "Cure IV" 22288
+[22:11:00.889] /ma "Cure IV" 22288
+[22:11:03.780] /ma "Cure IV" <stpt>
+[22:11:03.791] /raw /ma "Cure IV" <stpt>
+[22:11:03.791] /ma "Cure IV" 22288
+[22:11:03.950] /ma "Cure IV" 22288
+[22:11:10.307] /ma curaga2 me
+[22:11:10.318] /raw /ma "Curaga II" 22288
+[22:11:30.363] /ma Paralyze2 <t>
+[22:11:30.374] /raw /ma "Paralyze II" <t>
+[22:11:33.731] /ma Paralyze2 <t>
+[22:11:33.742] /raw /ma "Paralyze II" <t>
+[22:11:33.903] /ma Paralyze2 <t>
+[22:11:33.914] /raw /ma "Paralyze II" <t>
+[22:11:36.384] /ma Paralyze2 <t>
+[22:11:36.395] /raw /ma "Paralyze II" <t>
+[22:11:36.587] /ma Paralyze2 <t>
+[22:11:36.598] /raw /ma "Paralyze II" <t>
+[22:11:36.723] /ma Paralyze2 <t>
+[22:11:36.734] /raw /ma "Paralyze II" <t>
+[22:11:41.144] /ma Paralyze2 <t>
+[22:11:41.154] /raw /ma "Paralyze II" <t>
+[22:11:41.313] /ma Paralyze2 <t>
+[22:11:41.324] /raw /ma "Paralyze II" <t>
+[22:11:41.482] /ma Paralyze2 <t>
+[22:11:41.493] /raw /ma "Paralyze II" <t>
+[22:11:41.960] /ma Paralyze2 <t>
+[22:11:41.971] /raw /ma "Paralyze II" <t>
+[22:11:42.162] /ma Paralyze2 <t>
+[22:11:42.222] /raw /ma "Paralyze II" <t>
+[22:11:46.825] /addon load gearlock
+[22:11:48.185] /ma slow2 <t>
+[22:11:48.196] /raw /ma "Slow II" <t>
+[22:11:48.355] /ma slow2 <t>
+[22:11:48.365] /raw /ma "Slow II" <t>
+[22:11:48.527] /ma slow2 <t>
+[22:11:48.537] /raw /ma "Slow II" <t>
+[22:11:51.756] /ma slow2 <t>
+[22:11:51.767] /raw /ma "Slow II" <t>
+[22:11:51.959] /ma slow2 <t>
+[22:11:51.970] /raw /ma "Slow II" <t>
+[22:11:54.239] /ma slow2 <t>
+[22:11:54.250] /raw /ma "Slow II" <t>
+[22:11:54.442] /ma slow2 <t>
+[22:11:54.452] /raw /ma "Slow II" <t>
+[22:11:54.613] /ma slow2 <t>
+[22:11:54.624] /raw /ma "Slow II" <t>
+[22:11:59.507] /ma "Blind" <t>
+[22:11:59.518] /raw /ma "Blind" <t>
+[22:11:59.678] /ma "Blind" <t>
+[22:11:59.689] /raw /ma "Blind" <t>
+[22:11:59.850] /ma "Blind" <t>
+[22:11:59.860] /raw /ma "Blind" <t>
+[22:11:59.951] /ma "Blind" <t>
+[22:11:59.962] /raw /ma "Blind" <t>
+[22:12:06.205] /ma sleep2
+[22:12:06.216] /raw /ma "Sleep II" 16797969
+[22:12:09.504] /ma sleep2
+[22:12:09.515] /raw /ma "Sleep II" 16797969
+[22:12:14.637] /ma "Dispel" <t>
+[22:12:14.648] /raw /ma "Dispel" <t>
+[22:12:14.807] /ma "Dispel" <t>
+[22:12:14.818] /raw /ma "Dispel" <t>
+[22:12:22.764] /ma "Dispel" <t>
+[22:12:22.775] /raw /ma "Dispel" <t>
+[22:12:22.968] /ma "Dispel" <t>
+[22:12:22.978] /raw /ma "Dispel" <t>
+[22:12:23.136] /ma "Dispel" <t>
+[22:12:23.147] /raw /ma "Dispel" <t>
+[22:12:24.124] /ma "Dispel" <t>
+[22:12:24.134] /raw /ma "Dispel" <t>
+[22:12:24.327] /ma "Dispel" <t>
+[22:12:24.338] /raw /ma "Dispel" <t>
+[22:12:24.496] /ma "Dispel" <t>
+[22:12:24.507] /raw /ma "Dispel" <t>
+[22:12:24.939] /ma "Dispel" <t>
+[22:12:24.950] /raw /ma "Dispel" <t>
+[22:12:25.144] /ma "Dispel" <t>
+[22:12:25.154] /raw /ma "Dispel" <t>
+[22:12:25.620] /ma "Dispel" <t>
+[22:12:25.630] /raw /ma "Dispel" <t>
+[22:12:25.857] /ma "Dispel" <t>
+[22:12:25.867] /raw /ma "Dispel" <t>
+[22:12:26.129] /ma "Dispel" <t>
+[22:12:26.139] /raw /ma "Dispel" <t>
+[22:12:26.300] /ma "Dispel" <t>
+[22:12:26.311] /raw /ma "Dispel" <t>
+[22:12:26.506] /ma "Dispel" <t>
+[22:12:26.517] /raw /ma "Dispel" <t>
+[22:12:26.673] /ma "Dispel" <t>
+[22:12:26.683] /raw /ma "Dispel" <t>
+[22:12:26.844] /ma "Dispel" <t>
+[22:12:26.855] /raw /ma "Dispel" <t>
+[22:12:33.134] /p mfw sch out enfeebling me
+[22:12:34.696] /ma "Dispel" <t>
+[22:12:34.706] /raw /ma "Dispel" <t>
+[22:12:34.901] /ma "Dispel" <t>
+[22:12:34.912] /raw /ma "Dispel" <t>
+[22:12:35.038] /ma "Dispel" <t>
+[22:12:35.048] /raw /ma "Dispel" <t>
+[22:12:56.662] /p nerf
+[22:13:00.945] /ma sleep
+[22:13:04.753] /ma sleep
+[22:13:04.763] /raw /ma "Sleep" 16797969
+[22:13:21.293] /ma sleep
+[22:13:21.303] /raw /ma "Sleep" 16797969
+[22:13:28.942] /ma sleep
+[22:13:28.952] /raw /ma "Sleep" 16797969
+[22:13:51.654] /ma curaga3 me
+[22:13:51.664] /raw /ma "Curaga III" 22288
+[22:13:55.400] /ma curaga3 me
+[22:13:55.410] /raw /ma "Curaga III" 22288
+[22:14:01.444] /ma curaga2 me
+[22:14:01.458] /raw /ma "Curaga II" 22288
+[22:14:07.396] /ma "Stoneskin" <me>
+[22:14:07.407] /raw /ma "Stoneskin" 22288
+[22:14:07.566] /ma "Stoneskin" <me>
+[22:14:07.577] /raw /ma "Stoneskin" 22288
+[22:14:07.737] /ma "Stoneskin" <me>
+[22:14:07.747] /raw /ma "Stoneskin" 22288
+[22:14:12.124] /ma "Stoneskin" <me>
+[22:14:12.135] /raw /ma "Stoneskin" 22288
+[22:14:12.294] /ma "Stoneskin" <me>
+[22:14:12.304] /raw /ma "Stoneskin" 22288
+[22:14:12.464] /ma "Stoneskin" <me>
+[22:14:12.475] /raw /ma "Stoneskin" 22288
+[22:14:14.673] /ma "Stoneskin" <me>
+[22:14:14.684] /raw /ma "Stoneskin" 22288
+[22:14:14.878] /ma "Stoneskin" <me>
+[22:14:14.888] /raw /ma "Stoneskin" 22288
+[22:14:20.693] /ma "Stoneskin" <me>
+[22:14:20.703] /raw /ma "Stoneskin" 22288
+[22:14:20.895] /ma "Stoneskin" <me>
+[22:14:20.906] /raw /ma "Stoneskin" 22288
+[22:14:26.882] /p wtf lag @_@
+[22:15:01.661] /ma sleep2
+[22:15:01.672] /raw /ma "Sleep II" 16797969
+[22:15:30.252] /ma sleep2
+[22:15:32.973] /ma sleep2
+[22:15:32.984] /raw /ma "Sleep II" 16797969
+[22:15:38.109] /ma sleep2
+[22:15:38.119] /raw /ma "Sleep II" 16797969
+[22:16:02.385] /ma "Silence" <t>
+[22:16:02.396] /raw /ma "Silence" <t>
+[22:16:02.590] /ma "Silence" <t>
+[22:16:02.601] /raw /ma "Silence" <t>
+[22:16:10.782] /ma sleep2
+[22:16:10.793] /raw /ma "Sleep II" 16797969
+[22:16:14.052] /ma sleep
+[22:16:14.063] /raw /ma "Sleep" 16797969
+[22:16:20.064] /ma "Silence" <t>
+[22:16:20.074] /raw /ma "Silence" <t>
+[22:16:20.234] /ma "Silence" <t>
+[22:16:20.245] /raw /ma "Silence" <t>
+[22:16:20.409] /ma "Silence" <t>
+[22:16:20.419] /raw /ma "Silence" <t>
+[22:16:26.287] /ma "Refresh" <stpt>
+[22:16:26.298] /raw /ma "Refresh" <stpt>
+[22:16:26.298] /ma "Refresh" 22288
+[22:16:26.764] /ma "Refresh" 22288
+[22:16:28.768] /ma "Refresh" <stpt>
+[22:16:28.778] /raw /ma "Refresh" <stpt>
+[22:16:28.778] /ma "Refresh" 22288
+[22:16:29.109] /ma "Refresh" 22288
+[22:16:34.687] /ma "Haste" <stpt>
+[22:16:34.698] /raw /ma "Haste" <stpt>
+[22:16:34.698] /ma "Haste" 22288
+[22:16:35.604] /ma "Haste" 22288
+[22:16:45.904] /ma sleep2
+[22:16:45.915] /raw /ma "Sleep II" 16797969
+[22:17:00.285] /ma "Phalanx" <me>
+[22:17:00.296] /raw /ma "Phalanx" 22288
+[22:17:06.850] /ma barblizzara
+[22:17:06.860] /raw /ma "Barblizzara" 22288
+[22:17:08.311] /ma barblizzara
+[22:17:08.321] /raw /ma "Barblizzara" 22288
+[22:17:13.481] /ma barparalyzra
+[22:17:13.492] /raw /ma "Barparalyzra" 22288
+[22:17:22.626] /ma sleep2
+[22:17:22.637] /raw /ma "Sleep II" 16797969
+[22:17:34.456] /ma sleep
+[22:17:34.467] /raw /ma "Sleep" 16797969
+[22:17:43.980] /ma curaga2 me
+[22:17:43.990] /raw /ma "Curaga II" 22288
+[22:17:51.800] /heal
+[22:18:09.376] /heal off
+[22:18:11.893] /ma "Silence" <t>
+[22:18:11.903] /raw /ma "Silence" <t>
+[22:18:12.063] /ma "Silence" <t>
+[22:18:12.074] /raw /ma "Silence" <t>
+[22:18:19.305] /screenshot hide
+[22:18:29.095] /p NOT EVEN MAN
+[22:18:34.333] /p LOL.OGG
+[22:18:42.665] /ma "Silence" <t>
+[22:18:42.675] /raw /ma "Silence" <t>
+[22:18:42.833] /ma "Silence" <t>
+[22:18:42.843] /raw /ma "Silence" <t>
+[22:18:49.060] /ma "Dispel" <t>
+[22:18:49.070] /raw /ma "Dispel" <t>
+[22:18:49.226] /ma "Dispel" <t>
+[22:18:49.237] /raw /ma "Dispel" <t>
+[22:18:54.737] /ma "Cure IV" <stpt>
+[22:18:54.747] /raw /ma "Cure IV" <stpt>
+[22:18:54.747] /ma "Cure IV" 22288
+[22:18:55.688] /ma "Cure IV" 23216
+[22:19:03.659] /ma curaga3 me
+[22:19:03.670] /raw /ma "Curaga III" 22288
+[22:19:10.016] /ma curaga2 me
+[22:19:10.026] /raw /ma "Curaga II" 22288
+[22:19:22.565] /p MFW
+[22:19:39.599] /attack
+[22:19:39.610] /raw /attack <t>
+[22:19:48.303] /p BUSTING OUT EXCAL
+[22:19:52.585] /p TPEEEEEEFEEEEEDDDDD
+[22:20:01.122] /ma "Cure IV" <stpt>
+[22:20:01.132] /raw /ma "Cure IV" <stpt>
+[22:20:01.134] /ma "Cure IV" 22288
+[22:20:04.740] /ma "Refresh" <stpt>
+[22:20:04.751] /raw /ma "Refresh" <stpt>
+[22:20:04.751] /ma "Refresh" 22288
+[22:20:05.857] /ma "Refresh" 22410
+[22:20:29.425] /screenshot hide
+[22:20:52.517] /ma curaga2 me
+[22:20:52.528] /raw /ma "Curaga II" 22288
+[22:21:07.611] /l Jorm teaching us a lession
+[22:21:12.001] /l in how to kill oneself
+[22:21:21.142] /ma dia3
+[22:21:21.153] /raw /ma "Dia III" 16797969
+[22:22:25.288] /ma dispel
+[22:22:25.298] /raw /ma "Dispel" 16797969
+[22:22:37.498] /ma curaga3 me
+[22:22:37.508] /raw /ma "Curaga III" 22288
+[22:22:41.511] /ma curaga2 me
+[22:22:41.522] /raw /ma "Curaga II" 22288
+[22:22:51.773] /ma curaga2 me
+[22:22:51.784] /raw /ma "Curaga II" 22288
+[22:23:01.907] /ma paralyna me
+[22:23:01.918] /raw /ma "Paralyna" 22288
+[22:23:12.249] /screenshot hide
+[22:23:30.207] /ma paralyna me
+[22:23:30.217] /raw /ma "Paralyna" 22288
+[22:23:37.074] /attackoff
+[22:23:48.772] /l SUPERNOVA BEST LINKSHELL NA
+[22:23:56.013] /l WE DONT EVEN HAVE TO FIGHT
+[22:23:57.983] /l LOLOLOL
+[22:24:05.940] /ma "Dispel" <t>
+[22:24:05.950] /raw /ma "Dispel" <t>
+[22:24:07.780] /ma "Dispel" <t>
+[22:24:07.790] /raw /ma "Dispel" <t>
+[22:24:10.189] /ma "Dispel" <t>
+[22:24:10.200] /raw /ma "Dispel" <t>
+[22:24:10.360] /ma "Dispel" <t>
+[22:24:10.371] /raw /ma "Dispel" <t>
+[22:24:51.941] /ma "Stoneskin" <me>
+[22:24:51.952] /raw /ma "Stoneskin" 22288
+[22:24:52.145] /ma "Stoneskin" <me>
+[22:24:52.156] /raw /ma "Stoneskin" 22288
+[22:25:00.035] /ma barblizzara 
+[22:25:00.045] /raw /ma "Barblizzara" 22288
+[22:25:05.066] /ma barpralyzra
+[22:25:08.804] /ma barpralyzra
+[22:25:14.791] /ma barblizzara
+[22:25:14.801] /raw /ma "Barblizzara" 22288
+[22:25:23.329] /ma barparalyzra
+[22:25:23.339] /raw /ma "Barparalyzra" 22288
+[22:25:32.956] /ma "Dispel" <t>
+[22:25:32.967] /raw /ma "Dispel" <t>
+[22:25:33.158] /ma "Dispel" <t>
+[22:25:33.169] /raw /ma "Dispel" <t>
+[22:25:40.844] /ma fire3
+[22:25:40.855] /raw /ma "Fire III" 16797969
+[22:25:50.201] /ma fire2
+[22:25:50.212] /raw /ma "Fire II" 16797969
+[22:28:52.402] /l JENBOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOooooooooo
+[22:28:59.745] /l Prod, you might need a reset 
+[22:29:18.244] /l Ill reset you if you want to make the /sea bug go away
+[22:29:23.822] /p mfw skadi on super lots
+[22:29:42.016] /l you'll need to log, but I can do it if you want
+[22:30:02.109] /l 5 mins
+[22:30:14.997] /l also, fat of the land.
+[22:30:18.396] /l ^_^
+[22:32:10.947] /l ýD²ý get
+[22:32:12.851] /l kekekekeke
+[22:33:14.207] /p I mean, I can give you an ABC or a single lol
+[22:34:58.198] /l So uh, that final fantasy football
+[22:34:59.626] /l join
+[22:35:00.885] /l or die
+[22:35:20.604] /s @resetplayer prodigy
+[22:35:24.684] /l Yahoo
+[22:35:28.086] /l Easiest for new peeps
+[22:35:35.495] /l the mobile app > espn
+[22:35:44.336] /l deets are on FB and forums
+[22:35:53.616] /s  /vote 2
+[22:36:03.479] /l Server has normal WS
+[22:36:08.578] /l Minus some tuning to combat sam
+[22:36:46.118] /l Its been retuned to some new values
+[22:37:29.475] /l Server is set to 2007
+[22:37:30.735] /l so no
+[22:37:43.311] /s @goto novah
+[22:38:30.341] /ma "Refresh" <stpt>
+[22:38:30.351] /raw /ma "Refresh" <stpt>
+[22:38:30.351] /ma "Refresh" 22288
+[22:38:30.784] /ma "Refresh" 22288
+[22:38:45.642] /ma "Refresh" <stpt>
+[22:38:45.653] /raw /ma "Refresh" <stpt>
+[22:38:45.653] /ma "Refresh" 22288
+[22:38:46.221] /ma "Refresh" 22288
+[22:39:23.485] /ma "Haste" <stpt>
+[22:39:23.496] /raw /ma "Haste" <stpt>
+[22:39:23.497] /ma "Haste" 22288
+[22:39:24.031] /ma "Haste" 22288
+[22:39:32.941] /ma "Haste" <stpt>
+[22:39:32.951] /raw /ma "Haste" <stpt>
+[22:39:32.951] /ma "Haste" 22288
+[22:39:34.068] /ma "Haste" 22288
+[22:39:45.854] /ma "Haste" <stpt>
+[22:39:45.865] /raw /ma "Haste" <stpt>
+[22:39:45.865] /ma "Haste" 22288
+[22:39:46.945] /ma "Haste" 22288
+[22:41:12.665] /ma "Stoneskin" <me>
+[22:41:12.675] /raw /ma "Stoneskin" 22288
+[22:48:30.151] /p mfw I walk away and DC
+[22:48:40.524] /p and die
+[22:49:03.167] /ja composure
+[22:49:03.178] /raw /ja "Composure" 22288
+[22:49:15.915] /ma "Stoneskin" <me>
+[22:49:15.925] /raw /ma "Stoneskin" 22288
+[22:49:16.121] /ma "Stoneskin" <me>
+[22:49:16.132] /raw /ma "Stoneskin" 22288
+[22:49:16.290] /ma "Stoneskin" <me>
+[22:49:16.301] /raw /ma "Stoneskin" 22288
+[22:49:27.849] /ma "Refresh" <stpt>
+[22:49:27.860] /raw /ma "Refresh" <stpt>
+[22:49:27.860] /ma "Refresh" 22288
+[22:49:28.426] /ma "Refresh" 22288
+[22:49:35.463] /heal
+[22:50:48.723] /heal off
+[22:50:48.759] /heal off
+[22:50:48.794] /heal off
+[22:50:48.930] /heal off
+[22:50:48.963] /heal off
+[22:50:48.994] /heal off
+[22:50:54.948] /l Short answer
+[22:50:57.396] /l Yes
+[22:51:00.796] /l Long answer
+[22:51:04.163] /l Yes, it really is. 
+[22:51:07.734] /ma Paralyze2 <t>
+[22:51:07.744] /raw /ma "Paralyze II" <t>
+[22:51:16.507] /ma "Bind" <t>
+[22:51:16.518] /raw /ma "Bind" <t>
+[22:51:31.333] /ma "Gravity" <t>
+[22:51:31.343] /raw /ma "Gravity" <t>
+[22:51:31.469] /ma "Gravity" <t>
+[22:51:31.479] /raw /ma "Gravity" <t>
+[22:51:36.501] /ma "Bind" <t>
+[22:51:36.511] /raw /ma "Bind" <t>
+[22:51:36.671] /ma "Bind" <t>
+[22:51:36.681] /raw /ma "Bind" <t>
+[22:51:49.046] /ac unload
+[22:52:10.329] /ma "Bind" <t>
+[22:52:10.340] /raw /ma "Bind" <t>
+[22:52:10.465] /ma "Bind" <t>
+[22:52:10.476] /raw /ma "Bind" <t>
+[22:52:13.763] /ac reoad
+[22:52:15.805] /ac reload
+[22:52:18.494] /ma "Bind" <t>
+[22:52:18.505] /raw /ma "Bind" <t>
+[22:52:18.631] /ma "Bind" <t>
+[22:52:18.642] /raw /ma "Bind" <t>
+[22:52:22.743] /ma "Bind" <t>
+[22:52:22.754] /raw /ma "Bind" <t>
+[22:52:22.879] /ma "Bind" <t>
+[22:52:22.890] /raw /ma "Bind" <t>
+[22:52:28.146] /ma "Haste" <stpt>
+[22:52:28.157] /raw /ma "Haste" <stpt>
+[22:52:28.157] /ma "Haste" 22288
+[22:52:28.691] /ma "Haste" 22288
+[22:52:35.599] /l OOH
+[22:52:37.741] /l VISITANT
+[22:52:41.481] /heal
+[22:52:43.216] /l GAIS
+[22:52:49.403] /l WE NEED TO GET ON THE WORLD WYRMS
+[22:53:02.384] /ac load
+[22:54:45.432] /heal off
+[22:54:45.469] /heal off
+[22:54:45.502] /heal off
+[22:54:45.637] /heal off
+[22:54:45.772] /heal off
+[22:54:45.806] /heal off
+[22:54:51.276] /ma "Gravity" <t>
+[22:54:51.286] /raw /ma "Gravity" <t>
+[22:54:53.900] /staffon
+[22:54:59.171] /ma Paralyze2 <t>
+[22:54:59.182] /raw /ma "Paralyze II" <t>
+[22:55:05.023] /ma slow2 <t>
+[22:55:05.034] /raw /ma "Slow II" <t>
+[22:55:05.195] /ma slow2 <t>
+[22:55:05.205] /raw /ma "Slow II" <t>
+[22:55:07.132] /ma slow2 <t>
+[22:55:07.143] /raw /ma "Slow II" <t>
+[22:55:07.303] /ma slow2 <t>
+[22:55:07.314] /raw /ma "Slow II" <t>
+[22:55:22.086] /ma "Bind" <t>
+[22:55:22.097] /raw /ma "Bind" <t>
+[22:55:22.222] /ma "Bind" <t>
+[22:55:22.232] /raw /ma "Bind" <t>
+[22:56:06.195] /ma dia3
+[22:56:06.205] /raw /ma "Dia III" 17555890
+[22:56:11.675] /ma slow2 <t>
+[22:56:11.685] /raw /ma "Slow II" <t>
+[22:56:11.843] /ma slow2 <t>
+[22:56:11.854] /raw /ma "Slow II" <t>
+[22:56:13.506] /ma slow2 <t>
+[22:56:13.516] /raw /ma "Slow II" <t>
+[22:56:13.712] /ma slow2 <t>
+[22:56:13.723] /raw /ma "Slow II" <t>
+[22:56:32.384] /ma "Bind" <t>
+[22:56:32.395] /raw /ma "Bind" <t>
+[22:56:38.029] /p bound
+[22:57:20.767] /ma thunder3
+[22:57:20.778] /raw /ma "Thunder III" 17555890
+[22:57:31.920] /ma blizzard3
+[22:57:31.931] /raw /ma "Blizzard III" 17555890
+[22:57:46.234] /ma fire3
+[22:57:46.245] /raw /ma "Fire III" 17555890
+[22:58:03.313] /ma thunder3
+[22:58:51.863] /p lot hax
+[23:00:10.273] /sh REMEMBER THE RAPTURE
+[23:00:20.544] /sh #KRAKENCLUBSFORALL
+[23:00:43.486] /em drops krakenclub. 
+[23:01:15.627] /l Sup dawg
+[23:01:22.901] /l We dropping krakenclubs
+[23:02:12.582] /l Jormy took down jormy
+[23:02:23.521] /l literally spike failed hm to death
+[23:02:40.052] /l yar
+[23:02:45.356] /l look at bopes post on FB
+[23:03:16.365] /t kalika if you want a kclub I have an extra I dont use. 
+[23:03:34.285] /l what, I didnt win anything lol
+[23:03:43.561] /l oh cashmere lol
+[23:04:18.551] /t kalika you/'re welcome to borrow min 
+[23:04:31.952] /t kalika I dont use it except on RNG/WAR
+[23:04:44.388] /t Kalika and I never get to come on RNG
+[23:05:14.724] /t Kalika I dont need a Ridill lol, I never use RNG 
+[23:05:21.894] /addon load find
+[23:05:24.084] /find kraken
+[23:05:27.178] /wardrobe
+[23:05:59.066] /t kalika take the trade
+[23:06:35.953] /t Kalika take the damned kclub @_@ I literally dont use it.
+[23:07:06.724] /t Kalika we can do vrtra whenever we want, I literally do not use it
+[23:07:41.749] /poke
+[23:08:11.179] /t Kaliak let me know when you want it. Welome to have it any time. 
+[23:08:22.908] /t kalika let me know whe nyou want it, Its available whenever
+[23:09:17.178] /t Kalika let me know. Ill pop it over whenever. 
+[23:10:23.000] /s @choco
+[23:12:08.983] /ac set enhance
+[23:12:21.487] /ac set enhance 300
+[23:24:11.829] /t Skadi yeah
+[23:24:19.408] /l har har har
+[23:24:29.709] /t skadi logging off Kori

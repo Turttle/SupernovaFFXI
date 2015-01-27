@@ -1,0 +1,4 @@
+<autojoin>
+	<default>Ignore</default> <!--Can be Join/Decline/Ignore.  Ignore does nothing, it doesn't hide the invite.-->
+	<join>Kjotu</join> <!--You can use any amount of join/decline/ignore tags in any order to add settings per name.-->
+</autojoin>

@@ -1,0 +1,22 @@
+{
+    "project_id": 31,
+    "project_path": "http://update.ffevo.net/ashita/31/",
+    "repository": {
+        "name": "IME",
+        "url": "ssh://git@delvl.ffevo.net:2242/addons/ime.git",
+        "description": "IME is an addon that enables the Japanese IME toolbar on any language client. This allows you to type in Japanese regardless of what language your client is currently set to. ",
+        "homepage": "http://delvl.ffevo.net/addons/ime"
+    },
+    "files": [
+        {
+            "name": "README",
+            "hash": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "/README"
+        },
+        {
+            "name": "IME.lua",
+            "hash": "0e3b55ea0008281598ce4b3acb36c0c1",
+            "path": "/IME.lua"
+        }
+    ]
+}

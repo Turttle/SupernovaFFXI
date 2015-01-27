@@ -1,0 +1,31 @@
+Synplicity
+
+Learns crafts you perform and allows you to repeat them. It is 
+not as fancy as Crafty, and is not in the most user-friendly 
+state as of yet, but it can currently learn crafts while it is
+loaded (and forgets them when it is unloaded). You can then 
+view the crafts it has learned and repeat them (given you have 
+the materials for the craft). It will learn HQ crystal synths 
+as though you used a standard crystal. It can also store all 
+the possible results (HQ tiers) and show you all you have 
+achieved thus far. Many features are missing at the moment but
+it is stable for now so it seemed a good time to share.
+
+For added feedback (debugging info) set __debug to true
+
+Load Synplicity with
+/addon load synplicity
+
+Commands:
+
+/syn show [filter]
+
+Shows a list of all the crafts it has learned including info 
+about known results. This will show you the index numbers.
+Info is now presented with item names, and an optional 
+(case-sensitive) filter may now be used to show only crafts
+involving a particular item.
+
+/syn do #
+
+Repeats a synth with the given index number.

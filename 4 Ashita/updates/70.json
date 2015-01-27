@@ -1,0 +1,17 @@
+{
+    "project_id": 70,
+    "project_path": "http://update.ffevo.net/ashita/70/",
+    "repository": {
+        "name": "Duration",
+        "url": "ssh://git@delvl.ffevo.net:2242/plugins/duration.git",
+        "description": "Displays remaining time before enhancing magic and bard songs you've cast wear off.",
+        "homepage": "http://delvl.ffevo.net/plugins/duration"
+    },
+    "files": [
+        {
+            "name": "Duration.dll",
+            "hash": "8e2d959ab8e24cd353e4c585aaa30a41",
+            "path": "/release/plugins/Duration.dll"
+        }
+    ]
+}

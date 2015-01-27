@@ -1,0 +1,413 @@
+{
+    "projects": {
+        "ashita": {
+            "core": {
+                "ashitav2": {
+                    "name": "Ashita v2",
+                    "url": "ssh://git@delvl.ffevo.net:2242/atom0s/ashita-v2.git",
+                    "description": "Public releases of Ashita v2",
+                    "homepage": "http://delvl.ffevo.net/atom0s/ashita-v2",
+                    "user_name": "atom0s",
+                    "json": "http://update.ffevo.net/ashita/15.json",
+                    "type": "core",
+                    "time": 1418203569
+                }
+            },
+            "addon": {
+                "autorespond": {
+                    "name": "AutoRespond",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/autorespond.git",
+                    "description": "Autorespond is simple addon that when enabled, will automatically respond to tells from others with a simple message you set.",
+                    "homepage": "http://delvl.ffevo.net/addons/autorespond",
+                    "json": "http://update.ffevo.net/ashita/28.json",
+                    "type": "addon",
+                    "time": 1399522068
+                },
+                "chatmon": {
+                    "name": "ChatMon",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/chatmon.git",
+                    "description": "ChatMon is an addon that will play a sound effect when certain conditions are met.",
+                    "homepage": "http://delvl.ffevo.net/addons/chatmon",
+                    "user_name": "atom0s",
+                    "json": "http://update.ffevo.net/ashita/29.json",
+                    "type": "addon",
+                    "time": 1404412566
+                },
+                "clock": {
+                    "name": "Clock",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/clock.git",
+                    "description": "Clock is an addon that allows you to display times for various timezones on-screen at all times.",
+                    "homepage": "http://delvl.ffevo.net/addons/clock",
+                    "json": "http://update.ffevo.net/ashita/30.json",
+                    "type": "addon",
+                    "time": 1399522094
+                },
+                "filterscan": {
+                    "name": "FilterScan",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/filterscan.git",
+                    "description": "FilterScan is a simple addon that allows you to filter the incoming results (packets) of a widescan request. This allows you to filter the incoming mobs by their name.",
+                    "homepage": "http://delvl.ffevo.net/addons/filterscan",
+                    "json": "http://update.ffevo.net/ashita/27.json",
+                    "type": "addon",
+                    "time": 1399522109
+                },
+                "ime": {
+                    "name": "IME",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/ime.git",
+                    "description": "IME is an addon that enables the Japanese IME toolbar on any language client. This allows you to type in Japanese regardless of what language your client is currently set to. ",
+                    "homepage": "http://delvl.ffevo.net/addons/ime",
+                    "user_name": "atom0s",
+                    "json": "http://update.ffevo.net/ashita/31.json",
+                    "type": "addon",
+                    "time": 1405117120
+                },
+                "lotomatic": {
+                    "name": "Lotomatic",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/lotomatic.git",
+                    "description": "Lotomatic is an addon that helps you manage treasure pool drops automatically. It can automatically pass and loot on items that you assign within a profile. Lotomatic can also easily help with force-passing or force-looting on every item that drops.",
+                    "homepage": "http://delvl.ffevo.net/addons/lotomatic",
+                    "json": "http://update.ffevo.net/ashita/32.json",
+                    "type": "addon",
+                    "time": 1399522130
+                },
+                "singlerace": {
+                    "name": "SingleRace",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/singlerace.git",
+                    "description": "SingleRace is a simple addon that will allow you to force all other player entities into the same race.",
+                    "homepage": "http://delvl.ffevo.net/addons/singlerace",
+                    "json": "http://update.ffevo.net/ashita/33.json",
+                    "type": "addon",
+                    "time": 1399522144
+                },
+                "ibar": {
+                    "name": "ibar",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/ibar.git",
+                    "description": "Display information about your targets and yourself.",
+                    "homepage": "http://delvl.ffevo.net/addons/ibar",
+                    "user_name": "Vicrelant",
+                    "json": "http://update.ffevo.net/ashita/37.json",
+                    "type": "addon",
+                    "time": 1405693994
+                },
+                "recast": {
+                    "name": "recast",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/recast.git",
+                    "description": "Recast addon to monitor ability and spell cooldowns.",
+                    "homepage": "http://delvl.ffevo.net/addons/recast",
+                    "user_name": "atom0s",
+                    "json": "http://update.ffevo.net/ashita/51.json",
+                    "type": "addon",
+                    "time": 1412672126
+                },
+                "pbar": {
+                    "name": "pbar",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/pbar.git",
+                    "description": "pbar is a v2 addon for displaying pet information for beastmaster's and pupetmaster's",
+                    "homepage": "http://delvl.ffevo.net/addons/pbar",
+                    "user_name": "Vicrelant",
+                    "json": "http://update.ffevo.net/ashita/23.json",
+                    "type": "addon",
+                    "time": 1405397085
+                },
+                "allmaps": {
+                    "name": "AllMaps",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/allmaps.git",
+                    "description": "Addon to allow users to view all maps without actually owning them via /map",
+                    "homepage": "http://delvl.ffevo.net/addons/allmaps",
+                    "user_name": "atom0s",
+                    "json": "http://update.ffevo.net/ashita/52.json",
+                    "type": "addon",
+                    "time": 1403585764
+                },
+                "cfhblock": {
+                    "name": "CFHBlock",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/cfhblock.git",
+                    "description": "A simple addon that blocks call for help packets from being sent.",
+                    "homepage": "http://delvl.ffevo.net/addons/cfhblock",
+                    "user_name": "atom0s",
+                    "json": "http://update.ffevo.net/ashita/53.json",
+                    "type": "addon",
+                    "time": 1403585779
+                },
+                "debuff": {
+                    "name": "Debuff",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/debuff.git",
+                    "description": "An addon that allows users to cancel buffs with slash commands.",
+                    "homepage": "http://delvl.ffevo.net/addons/debuff",
+                    "user_name": "atom0s",
+                    "json": "http://update.ffevo.net/ashita/54.json",
+                    "type": "addon",
+                    "time": 1403585806
+                },
+                "skeletonkey": {
+                    "name": "SkeletonKey",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/skeletonkey.git",
+                    "description": "An addon that allows users to open any door with a slash command.",
+                    "homepage": "http://delvl.ffevo.net/addons/skeletonkey",
+                    "user_name": "atom0s",
+                    "json": "http://update.ffevo.net/ashita/55.json",
+                    "type": "addon",
+                    "time": 1403585828
+                },
+                "onevent": {
+                    "name": "OnEvent",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/onevent.git",
+                    "description": "An addon that allows users to bind alias' to trigger when certain chat events occur.",
+                    "homepage": "http://delvl.ffevo.net/addons/onevent",
+                    "user_name": "atom0s",
+                    "json": "http://update.ffevo.net/ashita/56.json",
+                    "type": "addon",
+                    "time": 1403585840
+                },
+                "mapdot": {
+                    "name": "mapdot",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/mapdot.git",
+                    "description": "A simple addon that allows all jobs to see the dots on the mini-map that usually only show for certain jobs.",
+                    "homepage": "http://delvl.ffevo.net/addons/mapdot",
+                    "user_name": "atom0s",
+                    "json": "http://update.ffevo.net/ashita/58.json",
+                    "type": "addon",
+                    "time": 1406907976
+                },
+                "gateway": {
+                    "name": "Gateway",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/gateway.git",
+                    "description": "Too lazy for SkeletonKey? How about every door just staying open for you without any effort on your part? If that is what you want, then Gateway is for you! Just load it up and all doors you approach should be open!",
+                    "homepage": "http://delvl.ffevo.net/addons/gateway",
+                    "user_name": "bluekirby0",
+                    "json": "http://update.ffevo.net/ashita/60.json",
+                    "type": "addon",
+                    "time": 1405190607
+                },
+                "repeater": {
+                    "name": "Repeater",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/repeater.git",
+                    "description": "Allows you to set a command to be executed repeatedly, set how often they should be executed, and then start or stop it at will.",
+                    "homepage": "http://delvl.ffevo.net/addons/repeater",
+                    "user_name": "bluekirby0",
+                    "json": "http://update.ffevo.net/ashita/63.json",
+                    "type": "addon",
+                    "time": 1405190797
+                },
+                "synplicity": {
+                    "name": "Synplicity",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/synplicity.git",
+                    "description": "Learns crafts you perform and allows you to repeat them.",
+                    "homepage": "http://delvl.ffevo.net/addons/synplicity",
+                    "user_name": "bluekirby0",
+                    "json": "http://update.ffevo.net/ashita/62.json",
+                    "type": "addon",
+                    "time": 1405546893
+                },
+                "macrofix": {
+                    "name": "macrofix",
+                    "url": "ssh://git@delvl.ffevo.net:2242/addons/macrofix.git",
+                    "description": "MacroFix is an addon that alters how the macro bars show in the game. Instead of having a delay, macros are shown instantly. Original application and full credit to Sorien. Converted to an Ashita addon by atom0s.",
+                    "homepage": "http://delvl.ffevo.net/addons/macrofix",
+                    "user_name": "atom0s",
+                    "json": "http://update.ffevo.net/ashita/79.json",
+                    "type": "addon",
+                    "time": 1410496146
+                }
+            },
+            "launcher": {
+                "launcher": {
+                    "name": "Launcher v2",
+                    "url": "ssh://git@delvl.ffevo.net:2242/atom0s/launcher-v2.git",
+                    "description": "Ashita v2 Launcher Releases",
+                    "homepage": "http://delvl.ffevo.net/atom0s/launcher-v2",
+                    "user_name": "atom0s",
+                    "json": "http://update.ffevo.net/ashita/50.json",
+                    "type": "launcher",
+                    "time": 1412143009
+                }
+            },
+            "plugin": {
+                "guildwork": {
+                    "name": "Guildwork",
+                    "url": "ssh://git@delvl.ffevo.net:2242/plugins/guildwork.git",
+                    "description": "Guildwork plugin for Ashita v2",
+                    "homepage": "http://delvl.ffevo.net/plugins/guildwork",
+                    "user_name": "atom0s",
+                    "json": "http://update.ffevo.net/ashita/40.json",
+                    "type": "plugin",
+                    "time": 1418346014
+                },
+                "watchexp": {
+                    "name": "WatchEXP",
+                    "url": "ssh://git@delvl.ffevo.net:2242/plugins/watchexp.git",
+                    "description": "WatchEXP allows you to watch how much EXP or Merit Points you're gaining, as well as shows other information such as time left in abyssea, lights accrued and dynamis time extensions.",
+                    "homepage": "http://delvl.ffevo.net/plugins/watchexp",
+                    "user_name": "Vicrelant",
+                    "json": "http://update.ffevo.net/ashita/42.json",
+                    "type": "plugin",
+                    "time": 1418806223
+                },
+                "ashitacast": {
+                    "name": "Ashitacast",
+                    "url": "ssh://git@delvl.ffevo.net:2242/plugins/ashitacast.git",
+                    "description": "A plugin to manage gear swapping in Final Fantasy XI.",
+                    "homepage": "http://delvl.ffevo.net/plugins/ashitacast",
+                    "user_name": "Lolwutt",
+                    "json": "http://update.ffevo.net/ashita/66.json",
+                    "type": "plugin",
+                    "time": 1418201895
+                },
+                "navi": {
+                    "name": "Navi",
+                    "url": "ssh://git@delvl.ffevo.net:2242/plugins/navi.git",
+                    "description": "Navi is a simple navigation tool that can record, save and playback paths.",
+                    "homepage": "http://delvl.ffevo.net/plugins/navi",
+                    "user_name": "Vicrelant",
+                    "json": "http://update.ffevo.net/ashita/41.json",
+                    "type": "plugin",
+                    "time": 1418203907
+                },
+                "deeps": {
+                    "name": "Deeps",
+                    "url": "ssh://git@delvl.ffevo.net:2242/plugins/deeps.git",
+                    "description": "Tracks all damage done by player entities.  Displays info as bars.  Reports damage to chat channels.",
+                    "homepage": "http://delvl.ffevo.net/plugins/deeps",
+                    "user_name": "Lotus",
+                    "json": "http://update.ffevo.net/ashita/67.json",
+                    "type": "plugin",
+                    "time": 1418451139
+                },
+                "no-ckback": {
+                    "name": "No-ckback",
+                    "url": "ssh://git@delvl.ffevo.net:2242/plugins/no-ckback.git",
+                    "description": "Removes knockback from mobskills.",
+                    "homepage": "http://delvl.ffevo.net/plugins/no-ckback",
+                    "user_name": "Lotus",
+                    "json": "http://update.ffevo.net/ashita/44.json",
+                    "type": "plugin",
+                    "time": 1418204981
+                },
+                "novo": {
+                    "name": "Novo",
+                    "url": "ssh://git@delvl.ffevo.net:2242/plugins/novo.git",
+                    "description": "You can edit your Status, enable Ja0Wait and set your icon to Gm,Staff,SE and NoClip, Flag- NoClip will  allow you to walk through objects (doors,walls etc.).",
+                    "homepage": "http://delvl.ffevo.net/plugins/novo",
+                    "user_name": "Vicrelant",
+                    "json": "http://update.ffevo.net/ashita/76.json",
+                    "type": "plugin",
+                    "time": 1418202039
+                },
+                "statustimers": {
+                    "name": "StatusTimers",
+                    "url": "ssh://git@delvl.ffevo.net:2242/plugins/statustimers.git",
+                    "description": "Displays timers above each of your buffs, indicating how long they've been active.  Can be configured to show countdown.",
+                    "homepage": "http://delvl.ffevo.net/plugins/statustimers",
+                    "user_name": "Lolwutt",
+                    "json": "http://update.ffevo.net/ashita/75.json",
+                    "type": "plugin",
+                    "time": 1418202091
+                },
+                "shorthand": {
+                    "name": "Shorthand",
+                    "url": "ssh://git@delvl.ffevo.net:2242/plugins/shorthand.git",
+                    "description": "Allows you to skip punctuation and spaces when typing spell names.  Allows partial target names(player or mob).",
+                    "homepage": "http://delvl.ffevo.net/plugins/shorthand",
+                    "user_name": "Lolwutt",
+                    "json": "http://update.ffevo.net/ashita/74.json",
+                    "type": "plugin",
+                    "time": 1418202022
+                },
+                "lootwhore": {
+                    "name": "Lootwhore",
+                    "url": "ssh://git@delvl.ffevo.net:2242/plugins/lootwhore.git",
+                    "description": "Manages treasure pool, can be configured to automatically lot, pass, drop, and store items.",
+                    "homepage": "http://delvl.ffevo.net/plugins/lootwhore",
+                    "user_name": "Lolwutt",
+                    "json": "http://update.ffevo.net/ashita/73.json",
+                    "type": "plugin",
+                    "time": 1419683820
+                },
+                "gearlock": {
+                    "name": "GearLock",
+                    "url": "ssh://git@delvl.ffevo.net:2242/plugins/gearlock.git",
+                    "description": "Stops players blinking.",
+                    "homepage": "http://delvl.ffevo.net/plugins/gearlock",
+                    "user_name": "Lolwutt",
+                    "json": "http://update.ffevo.net/ashita/72.json",
+                    "type": "plugin",
+                    "time": 1418202000
+                },
+                "enternity": {
+                    "name": "Enternity",
+                    "url": "ssh://git@delvl.ffevo.net:2242/plugins/enternity.git",
+                    "description": "Removes the 'press enter' flag from cutscenes and NPC speech, allowing them to advance automatically.",
+                    "homepage": "http://delvl.ffevo.net/plugins/enternity",
+                    "user_name": "Lolwutt",
+                    "json": "http://update.ffevo.net/ashita/71.json",
+                    "type": "plugin",
+                    "time": 1418201975
+                },
+                "duration": {
+                    "name": "Duration",
+                    "url": "ssh://git@delvl.ffevo.net:2242/plugins/duration.git",
+                    "description": "Displays remaining time before enhancing magic and bard songs you've cast wear off.",
+                    "homepage": "http://delvl.ffevo.net/plugins/duration",
+                    "user_name": "Lolwutt",
+                    "json": "http://update.ffevo.net/ashita/70.json",
+                    "type": "plugin",
+                    "time": 1418201959
+                },
+                "dressme": {
+                    "name": "Dressme",
+                    "url": "ssh://git@delvl.ffevo.net:2242/plugins/dressme.git",
+                    "description": "Automatically gathers gear based on either your Ashitacast XML or a seperate configuration XML.",
+                    "homepage": "http://delvl.ffevo.net/plugins/dressme",
+                    "user_name": "Lolwutt",
+                    "json": "http://update.ffevo.net/ashita/69.json",
+                    "type": "plugin",
+                    "time": 1418201941
+                },
+                "autojoin": {
+                    "name": "Autojoin",
+                    "url": "ssh://git@delvl.ffevo.net:2242/plugins/autojoin.git",
+                    "description": "Accepts or declines party invites based on a configuration XML.",
+                    "homepage": "http://delvl.ffevo.net/plugins/autojoin",
+                    "user_name": "Lolwutt",
+                    "json": "http://update.ffevo.net/ashita/68.json",
+                    "type": "plugin",
+                    "time": 1418201921
+                },
+                "fishingfix": {
+                    "name": "FishingFix",
+                    "url": "ssh://git@delvl.ffevo.net:2242/plugins/fishingfix.git",
+                    "description": "A simple plugin that fixes a crash inside of the FFXI client while fishing.",
+                    "homepage": "http://delvl.ffevo.net/plugins/fishingfix",
+                    "user_name": "atom0s",
+                    "json": "http://update.ffevo.net/ashita/78.json",
+                    "type": "plugin",
+                    "time": 1415428162
+                },
+                "greed": {
+                    "name": "Greed",
+                    "url": "ssh://git@delvl.ffevo.net:2242/plugins/greed.git",
+                    "description": "Grid for FFXI",
+                    "homepage": "http://delvl.ffevo.net/plugins/greed",
+                    "user_name": "Lotus",
+                    "json": "http://update.ffevo.net/ashita/80.json",
+                    "type": "plugin",
+                    "time": 1418205158
+                }
+            }
+        },
+        "fface": {
+            "core": {
+                "fface4": {
+                    "name": "FFACE4-Public",
+                    "url": "ssh://git@delvl.ffevo.net:2242/RZN/FFACE4-Public.git",
+                    "description": "",
+                    "homepage": "http://delvl.ffevo.net/RZN/FFACE4-Public",
+                    "user_name": "atom0s",
+                    "json": "http://update.ffevo.net/fface/81.json",
+                    "type": "core",
+                    "time": 1419233670
+                }
+            }
+        }
+    }
+}

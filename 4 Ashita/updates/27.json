@@ -1,0 +1,32 @@
+{
+    "project_id": 27,
+    "project_path": "http://update.ffevo.net/ashita/27/",
+    "repository": {
+        "name": "FilterScan",
+        "url": "ssh://git@delvl.ffevo.net:2242/addons/filterscan.git",
+        "description": "FilterScan is a simple addon that allows you to filter the incoming results (packets) of a widescan request. This allows you to filter the incoming mobs by their name.",
+        "homepage": "http://delvl.ffevo.net/addons/filterscan"
+    },
+    "files": [
+        {
+            "name": "README",
+            "hash": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "/README"
+        },
+        {
+            "name": "mobparse.lua",
+            "hash": "9861042640bc2dc1da7e961f7291d0b2",
+            "path": "/mobparse.lua"
+        },
+        {
+            "name": "filterscan.lua",
+            "hash": "323f518b74d32bf94b690842b4d58e1a",
+            "path": "/filterscan.lua"
+        },
+        {
+            "name": "zonemoblist.lua",
+            "hash": "f0f303a48f17c9d8ad6473d4022eeb3f",
+            "path": "/zonemoblist.lua"
+        }
+    ]
+}

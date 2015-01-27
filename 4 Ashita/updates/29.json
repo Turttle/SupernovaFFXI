@@ -1,0 +1,62 @@
+{
+    "project_id": 29,
+    "project_path": "http://update.ffevo.net/ashita/29/",
+    "repository": {
+        "name": "ChatMon",
+        "url": "ssh://git@delvl.ffevo.net:2242/addons/chatmon.git",
+        "description": "ChatMon is an addon that will play a sound effect when certain conditions are met.",
+        "homepage": "http://delvl.ffevo.net/addons/chatmon"
+    },
+    "files": [
+        {
+            "name": "README",
+            "hash": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "/README"
+        },
+        {
+            "name": "skillup.wav",
+            "hash": "e79bfb7928404d94f3dc715d9fd8ba7f",
+            "path": "/sounds/skillup.wav"
+        },
+        {
+            "name": "talked_about.wav",
+            "hash": "0b6eddad459bf325644cb6564c7b1f93",
+            "path": "/sounds/talked_about.wav"
+        },
+        {
+            "name": "incoming_emote.wav",
+            "hash": "c70b2df11ad942bb65eb0685df84b310",
+            "path": "/sounds/incoming_emote.wav"
+        },
+        {
+            "name": "GM_alert.wav",
+            "hash": "96754219f5b303588af0ff84d11c239e",
+            "path": "/sounds/GM_alert.wav"
+        },
+        {
+            "name": "incoming_tell.wav",
+            "hash": "7e8113b76899ceec29f3d4b81d7f996e",
+            "path": "/sounds/incoming_tell.wav"
+        },
+        {
+            "name": "full_inventory.wav",
+            "hash": "5374d18c4eb8e24de81450be45649d2e",
+            "path": "/sounds/full_inventory.wav"
+        },
+        {
+            "name": "party_invite.wav",
+            "hash": "6e3192cac3728165cf67cacd442a9b48",
+            "path": "/sounds/party_invite.wav"
+        },
+        {
+            "name": "you_have_been_examined.wav",
+            "hash": "986832303a75115bc8bbf4d6f91daf8d",
+            "path": "/sounds/you_have_been_examined.wav"
+        },
+        {
+            "name": "Chatmon.lua",
+            "hash": "52f3a928480b73bc8510e6205f9da0f4",
+            "path": "/Chatmon.lua"
+        }
+    ]
+}

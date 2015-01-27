@@ -1,0 +1,102 @@
+A Complete Guide to playing on Supernova!
+
+So you’ve decided to play on Supernova, you’ve made a great choice! This document is your one stop shop for all Supernova related matters. 
+It includes an installation guide, useful links, our rules, and other information and guidelines provided to help you assimilate properly into our FFXI server. 
+Please read the entire guide and associated links before asking questions, your questions are likely answered below.
+
+Installation Guide
+If you want to play with us, just follow this step-by-step guide to avoid problems later down the line.
+
+1. Download the Supernova Installation files.
+2. Install the FFXI game and its expansions, Rise of the Zilart, Chains of Promathia, Treasures of Aht Urghan, and Wings of the Goddess. 
+	Final Fantasy collection discs from retail outlets or Steam versions will work fine if you don't have your original discs.
+	Do not ask us about illegal means of obtaining the game, we support only legal copies of the game on Supernova.
+3. Install PlayOnline. If you are on Windows XP you can use the version that comes with the discs. If you're on a newer version of windows, Run the setup file in the "1 POL Setup" folder that came with your Supernova download.
+4. Run PlayOnline Viewer and let it update fully.
+5. Install the FFXI Update Patch found in the "2 FFXI Update Patch" folder in your Supernova download.  Place the files in the PlayOnline/Squareenix/Final Fantasy XI directory, overwriting and merging over the files already there.
+6. Relaunch PlayOnline and choose “For PlayOnline Members”, and create a throwaway member name and PlayOnline ID. Ex Name: Joe PlayOnline ID: ABCD1234
+7. Check FFXI files. When it's done checking, click Repair Files. This can take quite a while (Up to 10 hours). 
+8. Copy the data folder at PlayOnline\SquareEnix\PlayOnlineViewer\data to the Final Fantasy XI directory at PlayOnline\SquareEnix\FINAL FANTASY XI.
+9. Install the three files in the "3 Visual C++" directory of your Supernova Installation download.
+10. Copy the file in 6 Chocobo Circuit Music to replace a file in "C:\Program Files (x86)\PlayOnline\SquareEnix\final fantasy XI\sound4\win\music\data"
+11. Copy the file in 7 Chocobo Circuit Names to replace a file in "C:\Program Files (x86)\PlayOnline\SquareEnix\final fantasy XI\rom4\1\"
+12. Extract Ashita from the "4 Ashita" directory of your Supernova Installation download.
+13. Configure Ashita to run as administrator, configure the game resolution, and configure addons
+14. Install Teamspeak from the "5 Teamspeak" directory of your Supernova Installation download. The server IP is the same as the FFXI IP. The password is hypnosheep.
+15. Use Ashita to create an account. Please make your account name the same as your intended character name, or your real name.
+16. If you haven't already, register on our forums at supernovaffxi.proboards.com and read the documents there. There are documents you should write your name in.
+17. Create a character and login.
+18. Assimilate with the in-game community by obtaining a linkpearl. Any of these Supernova GMs can give you a pearl: Novah, Alyss, Bope, Lilitz, Ankiseth, Reprevant, Souvlaki, Dunador, Sarx, Valda, Korietsu, Sigmund, Jojo, and Paul
+19. Learn the differences between your Supernova FFXI server and Square Enix's FFXI servers.
+20. Check out the Chocobo circuit, the Supernova FFXI hangout, it's been completely reinvented for our purposes! Type @choco to teleport there 
+
+Supernova specifics (the good stuff!)
+1. Level Cap is 75 with no intent of ever raising it. We like it old school.
+2. You cannot import your retail character. You will have to start from scratch.
+3. Exp rate has been enhanced to 200% (2x) the normal rate.
+4. Reputation/Fame rate has been enhanced to 400% (4x) the normal rate.
+5. Movement speed has been enhanced to 150% (1.5x) the normal rate.
+6. Crafting Skillup rate has been enhanced to 400% (4x) the normal rate.
+7. The auction house is stocked and everything is sold for 2gil.
+8. Starting gil is 1 Million. I have no intention of making anyone farm.
+9. We support expansions up to Wings of the Goddess with new content being added and fixed constantly thanks to the Darkstarproject.
+10. Additional Supernova specific server quests, vendors, events, and monsters have been added as well. Suggestions to community leaders about ideas for new quests or events are encouraged and considered. Please feel free to contribute ideas!
+11. Puppetmaster, Geomancer, and Rune Fencer are not implemented.
+12. Chocobo Racing / Raising, Pankration, Nyzul Isle, Salvage, Einherjar, Assault, Beseiged, Campaign, Eco Warrior, and Garrison are not implemented yet, but some are being worked on.
+13. Novah keeps this server available to you for free 24/7 out of the goodness of his heart, keep that in mind.
+
+
+Key server tenets and philosophy: 
+1. Be nice to other players, bring something to the table.
+2. Be a good sport, if you don't get an item, there will be plenty more where that came from
+3. Understand that people come from all walks of life, and might play differently than you. Let people play how they wish.
+4. Realize that the Admin staff and GM team do this for free in their spare time. Help us keep things running smoothly.
+5. We will no longer be tolerant of other player's intolerance.
+6. Play so that way others will have fun. They will do the same for you.
+7. Supernova is more of a retirement home. It's a relaxed environment. Hardcore players have their place here, but recognize that others may not play with the rigidity of retail servers.
+
+Rules
+
+Prohibited activities
+- The use of third party tools are prohibited that allow any of the following actions: Wallhacking, Position Hacking, Speedhacking, Impersonating a GM, teleport hacking. This includes Novo, Cupper/Clipper, and any others with these capabilities.
+- Personal Attacks on other players
+- Abuse exploits you may find, including but not limited to, broken monsters spewing NPCs at extremely abnormal rates
+- Greifing
+- Leeching experience by nefarious means. This includes exploits, botting, powerleveling, etc.
+- Powerleveling
+- Dualboxing or Multiboxing in a group setting. See more details on the wiki
+- Botting offensive skillups (Dia,Banish,Bio, etc)
+
+Discouraged activities
+- Gateway or Skeletonkey; This should be used only to fix problems, not in every day adventuring. They have been known to cause crashes or quest issues.
+- Condemning others from playing the way they want to. SMN/THF (| Ready! |)
+- Unequipping your linkpearl
+- Botting defensive skillups in populated areas (Keep our chatlogs clear!)
+
+Summary
+I really appreciate you for taking the time to read this, but it’s important that everyone play with eachother like they are equals and treat each other with respect. 
+We are trying to construct a system that lets everyone coexist and play in it, regardless of what type of player they are in that system.
+If anyone has questions, feel free to contact anyone on the GM team for clarification, issues with other players, or if you found a game breaking exploit. 
+Use your best judgement, the door is always open. It's up to us to protect the wonderful environment we have on the Supernova Server.
+
+Want to contribute?
+If you like your time here on Supernova and want to contribute to the cause which facilitates server stability, hardware upgrades, etc, here is how you can help. 
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CDZZAFDQFMATC
+
+The server's greatness is generally motivation enough for me to want to continue this effort, but it does take quite a bit of effort to keep this running smoothly. 
+I do spend quite a bit of free time keeping things running, especially during catastrophes like retail updates, infrastructure updates, connection issues, and specific player problems. 
+I've already had to triple the power of the server computer over the last year which certainly wasn’t cheap, and hopefully it holds up. The more support I receive, the more stable the server will become. 
+All donations are sincerely appreciated and will ultimately keep this service alive. Also all donations are commended with in-game moogle gear items, and who doesn't want awesome moogle gear? 
+
+$1 = Moogle's Largesse
+$10 = Moogle Rod or Nomad Moogle Rod
+$20 = Moogle Guard
+$30 = Moogle Shield or Nomad Moogle Shield
+$50 = Moogle Cap
+$100 = Moogle Masque and Moogle Suit
+
+Any consideration is appreciated.
+
+I love this server and everyone on it, Thanks for being a part of this. :)
+
+-Novah

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pointers>
+	<pointer name="addtochat" pattern="535556578BF96A086A00897C2418" mask="xxxxxxxxxxxxxx" offset="-6" count="0" />
+	<pointer name="autotranslate" pattern="145685ED578BF1C644241000C644241100C64424" mask="xxxxxxxxxxxxxxxxxxxx" offset="-6" count="0" />
+	<pointer name="autotranslatethis" pattern="8BFD83C9FF33C06A00F2AEF7D1496A01518B0D" mask="xxxxxxxxxxxxxxxxxxx" offset="0" count="0" />
+	<pointer name="decryptpacket" pattern="b805000053558bac24c8050000563be857" mask="xxxxxxxxxxxxxxxxx" offset="-6" count="0" />
+	<pointer name="encryptpacket" pattern="33c0558b6c24144956578d14cd0000000033ff85ed89542410" mask="xxxxxxxxxxxxxxxxxxxxxxxxx" offset="-6" count="0" />
+	<pointer name="entityarray" pattern="8B560C8B042A8B0485" mask="xxxxxxxxx" offset="9" count="0" />
+	<pointer name="inputthis" pattern="3bcb74148b01ff502084c0740b8b0d" mask="xxxxxxxxxxxxxxx" offset="-4" count="0" />
+	<pointer name="inventory" pattern="8B15FFFFFFFF85D275FF33C0C3" mask="xx????xxx?xxx" offset="2" count="0" />
+	<pointer name="logfile" pattern="50E8FFFFFFFF84C075388B0D" mask="xx????xxxxxx" offset="-4" count="0" />
+	<pointer name="parsecommand" pattern="8B8C24080400005556578D" mask="xxxxxxxxxxx" offset="-6" count="0" />
+	<pointer name="party" pattern="0FBEC38D0C5256578BF58D0448" mask="xxxxxxxxxxxxx" offset="23" count="0" />
+	<pointer name="player" pattern="8AFFFF83FFFFF6D91BC95F23C88BF18BC65EC3" mask="x??x??xxxxxxxxxxxxx" offset="139" count="0" />
+	<pointer name="target" pattern="53568BF18B480433DB3BCB75065E33C05B59C38B0D" mask="xxxxxxxxxxxxxxxxxxxxx" offset="45" count="0" />
+    
+    <pointer name="abilityinfo" pattern="8B44240C5657B9FFFFFFFF8D70048B44240C8DB8FFFFFFFFF3A5C680FFFFFFFF015FB0015EC3" mask="xxxxxxx????xxxxxxxxx????xxxx????xxxxxx" offset="20" count="1" />
+    <pointer name="hasspell" pattern="568BF1E8FFFFFFFF85C074FF8B8EFFFFFFFF6A00" mask="xxxx????xxx?xx????xx" offset="0" count="0" />
+    <pointer name="keyitems" pattern="8B44240485C07C1683F8607D118B4C2408" mask="xxxxxxxxxxxxxxxxx" offset="20" count="0" />
+</pointers>

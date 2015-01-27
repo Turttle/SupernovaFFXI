@@ -1,0 +1,42 @@
+<statustimers>
+	<global> <!--Anything inside global tag is parsed for all characters.  You can make charname tags for char-specific settings-->
+		<!--Settings-->
+		<window_x>800</window_y>
+		<window_y>600</window_y>
+		<menu_x>800</menu_x>
+		<menu_y>600</menu_y> <!--These are only needed if your menu resolution doesn't match your window res.-->
+		<font_a>255</font_a>
+		<font_r>255</font_r>
+		<font_g>255</font_g>
+		<font_b>255</font_b>
+		<back_a>100</back_a>
+		<back_r>0</back_r>
+		<back_g>0</back_g>
+		<back_b>0</back_b> <!--Alpha, Red, Green, Blue values for font and background color.  0-255-->
+		
+		
+		<!--You can use either name or ID tag to enter buffs.-->
+		<entry name="reraise">3600</entry>
+		<entry name="protect">1800</entry>
+		<entry name="shell">1800</entry>
+		<entry name="phalanx">180</entry>
+		<entry name="stoneskin">300</entry>
+		
+		
+		<!--A duration of 0 will cause no timer to display on that buff, so you can see the icon clearly.-->
+		<entry id="6">0</entry> <!-- Utsusemi: 1 Shadow -->
+		<entry id="444">0</entry> <!-- Utsusemi: 2 Shadows -->
+		<entry id="445">0</entry> <!-- Utsusemi: 3 Shadows -->
+		<entry id="446">0</entry> <!-- Utsusemi: 4 Shadows -->
+		<entry id="381">0</entry> <!-- 1 Finishing Move -->
+		<entry id="382">0</entry> <!-- 2 Finishing Moves -->
+		<entry id="383">0</entry> <!-- 3 Finishing Moves -->
+		<entry id="384">0</entry> <!-- 4 Finishing Moves -->
+		<entry id="385">0</entry> <!-- 5 Finishing Moves -->
+	</global>
+	
+	<Thorny> <!--Settings specified in a character tag after global will overwrite those in global.-->
+		<menu_x>800</menu_x>
+		<menu_y>600</menu_y>
+	</Thorny>
+</statustimers>

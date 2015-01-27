@@ -1,0 +1,3550 @@
+<shorthand>
+
+	<settings>
+		<packetall>false</packetall>
+		<packetblu>false</packetblu>
+		<packetws>true</packetws>
+	</settings>
+
+	<ability id="16"> <!--Mighty Strikes-->
+	</ability>
+	<ability id="17"> <!--Hundred Fists-->
+	</ability>
+	<ability id="18"> <!--Benediction-->
+	</ability>
+	<ability id="19"> <!--Manafont-->
+	</ability>
+	<ability id="20"> <!--Chainspell-->
+	</ability>
+	<ability id="21"> <!--Perfect Dodge-->
+	</ability>
+	<ability id="22"> <!--Invincible-->
+	</ability>
+	<ability id="23"> <!--Blood Weapon-->
+	</ability>
+	<ability id="24"> <!--Familiar-->
+	</ability>
+	<ability id="25"> <!--Soul Voice-->
+	</ability>
+	<ability id="26"> <!--Eagle Eye Shot-->
+	</ability>
+	<ability id="27"> <!--Meikyo Shisui-->
+	</ability>
+	<ability id="28"> <!--Mijin Gakure-->
+	</ability>
+	<ability id="29"> <!--Spirit Surge-->
+	</ability>
+	<ability id="30"> <!--Astral Flow-->
+	</ability>
+	<ability id="31"> <!--Berserk-->
+	</ability>
+	<ability id="32"> <!--Warcry-->
+	</ability>
+	<ability id="33"> <!--Defender-->
+	</ability>
+	<ability id="34"> <!--Aggressor-->
+	</ability>
+	<ability id="35"> <!--Provoke-->
+	</ability>
+	<ability id="36"> <!--Focus-->
+	</ability>
+	<ability id="37"> <!--Dodge-->
+	</ability>
+	<ability id="38"> <!--Chakra-->
+	</ability>
+	<ability id="39"> <!--Boost-->
+	</ability>
+	<ability id="40"> <!--Counterstance-->
+	</ability>
+	<ability id="41"> <!--Steal-->
+	</ability>
+	<ability id="42"> <!--Flee-->
+	</ability>
+	<ability id="43"> <!--Hide-->
+	</ability>
+	<ability id="44"> <!--Sneak Attack-->
+	</ability>
+	<ability id="45"> <!--Mug-->
+	</ability>
+	<ability id="46"> <!--Shield Bash-->
+	</ability>
+	<ability id="47"> <!--Holy Circle-->
+	</ability>
+	<ability id="48"> <!--Sentinel-->
+	</ability>
+	<ability id="49"> <!--Souleater-->
+	</ability>
+	<ability id="50"> <!--Arcane Circle-->
+	</ability>
+	<ability id="51"> <!--Last Resort-->
+	</ability>
+	<ability id="52"> <!--Charm-->
+	</ability>
+	<ability id="53"> <!--Gauge-->
+	</ability>
+	<ability id="54"> <!--Tame-->
+	</ability>
+	<ability id="55"> <!--Pet commands-->
+	</ability>
+	<ability id="56"> <!--Scavenge-->
+	</ability>
+	<ability id="57"> <!--Shadowbind-->
+	</ability>
+	<ability id="58"> <!--Camouflage-->
+	</ability>
+	<ability id="59"> <!--Sharpshot-->
+	</ability>
+	<ability id="60"> <!--Barrage-->
+	</ability>
+	<ability id="61"> <!--Call Wyvern-->
+	</ability>
+	<ability id="62"> <!--Third Eye-->
+	</ability>
+	<ability id="63"> <!--Meditate-->
+	</ability>
+	<ability id="64"> <!--Warding Circle-->
+	</ability>
+	<ability id="65"> <!--Ancient Circle-->
+	</ability>
+	<ability id="66"> <!--Jump-->
+	</ability>
+	<ability id="67"> <!--High Jump-->
+	</ability>
+	<ability id="68"> <!--Super Jump-->
+	</ability>
+	<ability id="69"> <!--Fight-->
+	</ability>
+	<ability id="70"> <!--Heel-->
+	</ability>
+	<ability id="71"> <!--Leave-->
+	</ability>
+	<ability id="72"> <!--Sic-->
+	</ability>
+	<ability id="73"> <!--Stay-->
+	</ability>
+	<ability id="74"> <!--Divine Seal-->
+	</ability>
+	<ability id="75"> <!--Elemental Seal-->
+	</ability>
+	<ability id="76"> <!--Trick Attack-->
+	</ability>
+	<ability id="77"> <!--Weapon Bash-->
+	</ability>
+	<ability id="78"> <!--Reward-->
+	</ability>
+	<ability id="79"> <!--Cover-->
+	</ability>
+	<ability id="80"> <!--Spirit Link-->
+	</ability>
+	<ability id="81"> <!--Enrage-->
+	</ability>
+	<ability id="82"> <!--Chi Blast-->
+	</ability>
+	<ability id="83"> <!--Convert-->
+	</ability>
+	<ability id="84"> <!--Accomplice-->
+	</ability>
+	<ability id="85"> <!--Call Beast-->
+	</ability>
+	<ability id="86"> <!--Unlimited Shot-->
+	</ability>
+	<ability id="87"> <!--Dismiss-->
+	</ability>
+	<ability id="88"> <!--Assault-->
+	</ability>
+	<ability id="89"> <!--Retreat-->
+	</ability>
+	<ability id="90"> <!--Release-->
+	</ability>
+	<ability id="91"> <!--Blood Pact: Rage-->
+	</ability>
+	<ability id="92"> <!--Rampart-->
+	</ability>
+	<ability id="93"> <!--Azure Lore-->
+	</ability>
+	<ability id="94"> <!--Chain Affinity-->
+	</ability>
+	<ability id="95"> <!--Burst Affinity-->
+	</ability>
+	<ability id="96"> <!--Wild Card-->
+	</ability>
+	<ability id="97"> <!--Phantom Roll-->
+	</ability>
+	<ability id="98"> <!--Fighter's Roll-->
+	</ability>
+	<ability id="99"> <!--Monk's Roll-->
+	</ability>
+	<ability id="100"> <!--Healer's Roll-->
+	</ability>
+	<ability id="101"> <!--Wizard's Roll-->
+	</ability>
+	<ability id="102"> <!--Warlock's Roll-->
+	</ability>
+	<ability id="103"> <!--Rogue's Roll-->
+	</ability>
+	<ability id="104"> <!--Gallant's Roll-->
+	</ability>
+	<ability id="105"> <!--Chaos Roll-->
+	</ability>
+	<ability id="106"> <!--Beast Roll-->
+	</ability>
+	<ability id="107"> <!--Choral Roll-->
+	</ability>
+	<ability id="108"> <!--Hunter's Roll-->
+	</ability>
+	<ability id="109"> <!--Samurai Roll-->
+	</ability>
+	<ability id="110"> <!--Ninja Roll-->
+	</ability>
+	<ability id="111"> <!--Drachen Roll-->
+	</ability>
+	<ability id="112"> <!--Evoker's Roll-->
+	</ability>
+	<ability id="113"> <!--Magus's Roll-->
+	</ability>
+	<ability id="114"> <!--Corsair's Roll-->
+	</ability>
+	<ability id="115"> <!--Puppet Roll-->
+	</ability>
+	<ability id="116"> <!--Dancer's Roll-->
+	</ability>
+	<ability id="117"> <!--Scholar's Roll-->
+	</ability>
+	<ability id="118"> <!--Bolter's Roll-->
+	</ability>
+	<ability id="119"> <!--Caster's Roll-->
+	</ability>
+	<ability id="120"> <!--Courser's Roll-->
+	</ability>
+	<ability id="121"> <!--Blitzer's Roll-->
+	</ability>
+	<ability id="122"> <!--Tactician's Roll-->
+	</ability>
+	<ability id="123"> <!--Double-Up-->
+	</ability>
+	<ability id="124"> <!--Quick Draw-->
+	</ability>
+	<ability id="125"> <!--Fire Shot-->
+	</ability>
+	<ability id="126"> <!--Ice Shot-->
+	</ability>
+	<ability id="127"> <!--Wind Shot-->
+	</ability>
+	<ability id="128"> <!--Earth Shot-->
+	</ability>
+	<ability id="129"> <!--Thunder Shot-->
+	</ability>
+	<ability id="130"> <!--Water Shot-->
+	</ability>
+	<ability id="131"> <!--Light Shot-->
+	</ability>
+	<ability id="132"> <!--Dark Shot-->
+	</ability>
+	<ability id="133"> <!--Random Deal-->
+	</ability>
+	<ability id="135"> <!--Overdrive-->
+	</ability>
+	<ability id="136"> <!--Activate-->
+	</ability>
+	<ability id="137"> <!--Repair-->
+	</ability>
+	<ability id="138"> <!--Deploy-->
+	</ability>
+	<ability id="139"> <!--Deactivate-->
+	</ability>
+	<ability id="140"> <!--Retrieve-->
+	</ability>
+	<ability id="141"> <!--Fire Maneuver-->
+	</ability>
+	<ability id="142"> <!--Ice Maneuver-->
+	</ability>
+	<ability id="143"> <!--Wind Maneuver-->
+	</ability>
+	<ability id="144"> <!--Earth Maneuver-->
+	</ability>
+	<ability id="145"> <!--Thunder Maneuver-->
+	</ability>
+	<ability id="146"> <!--Water Maneuver-->
+	</ability>
+	<ability id="147"> <!--Light Maneuver-->
+	</ability>
+	<ability id="148"> <!--Dark Maneuver-->
+	</ability>
+	<ability id="149"> <!--Warrior's Charge-->
+	</ability>
+	<ability id="150"> <!--Tomahawk-->
+	</ability>
+	<ability id="151"> <!--Mantra-->
+	</ability>
+	<ability id="152"> <!--Formless Strikes-->
+	</ability>
+	<ability id="153"> <!--Martyr-->
+	</ability>
+	<ability id="154"> <!--Devotion-->
+	</ability>
+	<ability id="155"> <!--Assassin's Charge-->
+	</ability>
+	<ability id="156"> <!--Feint-->
+	</ability>
+	<ability id="157"> <!--Fealty-->
+	</ability>
+	<ability id="158"> <!--Chivalry-->
+	</ability>
+	<ability id="159"> <!--Dark Seal-->
+	</ability>
+	<ability id="160"> <!--Diabolic Eye-->
+	</ability>
+	<ability id="161"> <!--Feral Howl-->
+	</ability>
+	<ability id="162"> <!--Killer Instinct-->
+	</ability>
+	<ability id="163"> <!--Nightingale-->
+	</ability>
+	<ability id="164"> <!--Troubadour-->
+	</ability>
+	<ability id="165"> <!--Stealth Shot-->
+	</ability>
+	<ability id="166"> <!--Flashy Shot-->
+	</ability>
+	<ability id="167"> <!--Shikikoyo-->
+	</ability>
+	<ability id="168"> <!--Blade Bash-->
+	</ability>
+	<ability id="169"> <!--Deep Breathing-->
+	</ability>
+	<ability id="170"> <!--Angon-->
+	</ability>
+	<ability id="171"> <!--Sange-->
+	</ability>
+	<ability id="172"> <!--Blood Pact: Ward-->
+	</ability>
+	<ability id="173"> <!--Hasso-->
+	</ability>
+	<ability id="174"> <!--Seigan-->
+	</ability>
+	<ability id="175"> <!--Convergence-->
+	</ability>
+	<ability id="176"> <!--Diffusion-->
+	</ability>
+	<ability id="177"> <!--Snake Eye-->
+	</ability>
+	<ability id="178"> <!--Fold-->
+	</ability>
+	<ability id="179"> <!--Role Reversal-->
+	</ability>
+	<ability id="180"> <!--Ventriloquy-->
+	</ability>
+	<ability id="181"> <!--Trance-->
+	</ability>
+	<ability id="182"> <!--Sambas-->
+	</ability>
+	<ability id="183"> <!--Waltzes-->
+	</ability>
+	<ability id="184"> <!--Drain Samba-->
+	</ability>
+	<ability id="185"> <!--Drain Samba II-->
+	</ability>
+	<ability id="186"> <!--Drain Samba III-->
+	</ability>
+	<ability id="187"> <!--Aspir Samba-->
+	</ability>
+	<ability id="188"> <!--Aspir Samba II-->
+	</ability>
+	<ability id="189"> <!--Haste Samba-->
+	</ability>
+	<ability id="190"> <!--Curing Waltz-->
+	</ability>
+	<ability id="191"> <!--Curing Waltz II-->
+	</ability>
+	<ability id="192"> <!--Curing Waltz III-->
+	</ability>
+	<ability id="193"> <!--Curing Waltz IV-->
+	</ability>
+	<ability id="194"> <!--Healing Waltz-->
+	</ability>
+	<ability id="195"> <!--Divine Waltz-->
+	</ability>
+	<ability id="196"> <!--Spectral Jig-->
+	</ability>
+	<ability id="197"> <!--Chocobo Jig-->
+	</ability>
+	<ability id="198"> <!--Jigs-->
+	</ability>
+	<ability id="199"> <!--Steps-->
+	</ability>
+	<ability id="200"> <!--Flourishes I-->
+	</ability>
+	<ability id="201"> <!--Quickstep-->
+	</ability>
+	<ability id="202"> <!--Box Step-->
+	</ability>
+	<ability id="203"> <!--Stutter Step-->
+	</ability>
+	<ability id="204"> <!--Animated Flourish-->
+	</ability>
+	<ability id="205"> <!--Desperate Flourish-->
+	</ability>
+	<ability id="206"> <!--Reverse Flourish-->
+	</ability>
+	<ability id="207"> <!--Violent Flourish-->
+	</ability>
+	<ability id="208"> <!--Building Flourish-->
+	</ability>
+	<ability id="209"> <!--Wild Flourish-->
+	</ability>
+	<ability id="210"> <!--Tabula Rasa-->
+	</ability>
+	<ability id="211"> <!--Light Arts-->
+	</ability>
+	<ability id="212"> <!--Dark Arts-->
+	</ability>
+	<ability id="213"> <!--Flourishes II-->
+	</ability>
+	<ability id="214"> <!--Modus Veritas-->
+	</ability>
+	<ability id="215"> <!--Penury-->
+	</ability>
+	<ability id="216"> <!--Celerity-->
+	</ability>
+	<ability id="217"> <!--Rapture-->
+	</ability>
+	<ability id="218"> <!--Accession-->
+	</ability>
+	<ability id="219"> <!--Parsimony-->
+	</ability>
+	<ability id="220"> <!--Alacrity-->
+	</ability>
+	<ability id="221"> <!--Ebullience-->
+	</ability>
+	<ability id="222"> <!--Manifestation-->
+	</ability>
+	<ability id="223"> <!--Stratagems-->
+	</ability>
+	<ability id="224"> <!--Velocity Shot-->
+	</ability>
+	<ability id="225"> <!--Snarl-->
+	</ability>
+	<ability id="226"> <!--Retaliation-->
+	</ability>
+	<ability id="227"> <!--Footwork-->
+	</ability>
+	<ability id="228"> <!--Despoil-->
+	</ability>
+	<ability id="229"> <!--Pianissimo-->
+	</ability>
+	<ability id="230"> <!--Sekkanoki-->
+	</ability>
+	<ability id="232"> <!--Elemental Siphon-->
+	</ability>
+	<ability id="233"> <!--Sublimation-->
+	</ability>
+	<ability id="234"> <!--Addendum: White-->
+	</ability>
+	<ability id="235"> <!--Addendum: Black-->
+	</ability>
+	<ability id="236"> <!--Collaborator-->
+	</ability>
+	<ability id="237"> <!--Saber Dance-->
+	</ability>
+	<ability id="238"> <!--Fan Dance-->
+	</ability>
+	<ability id="239"> <!--No Foot Rise-->
+	</ability>
+	<ability id="240"> <!--Altruism-->
+	</ability>
+	<ability id="241"> <!--Focalization-->
+	</ability>
+	<ability id="242"> <!--Tranquility-->
+	</ability>
+	<ability id="243"> <!--Equanimity-->
+	</ability>
+	<ability id="244"> <!--Enlightenment-->
+	</ability>
+	<ability id="245"> <!--Afflatus Solace-->
+	</ability>
+	<ability id="246"> <!--Afflatus Misery-->
+	</ability>
+	<ability id="247"> <!--Composure-->
+	</ability>
+	<ability id="248"> <!--Yonin-->
+	</ability>
+	<ability id="249"> <!--Innin-->
+	</ability>
+	<ability id="250"> <!--Avatar's Favor-->
+	</ability>
+	<ability id="251"> <!--Ready-->
+	</ability>
+	<ability id="252"> <!--Restraint-->
+	</ability>
+	<ability id="253"> <!--Perfect Counter-->
+	</ability>
+	<ability id="254"> <!--Mana Wall-->
+	</ability>
+	<ability id="255"> <!--Divine Emblem-->
+	</ability>
+	<ability id="256"> <!--Nether Void-->
+	</ability>
+	<ability id="257"> <!--Double Shot-->
+	</ability>
+	<ability id="258"> <!--Sengikori-->
+	</ability>
+	<ability id="259"> <!--Futae-->
+	</ability>
+	<ability id="260"> <!--Spirit Jump-->
+	</ability>
+	<ability id="261"> <!--Presto-->
+	</ability>
+	<ability id="262"> <!--Divine Waltz II-->
+	</ability>
+	<ability id="263"> <!--Flourishes III-->
+	</ability>
+	<ability id="264"> <!--Climactic Flourish-->
+	</ability>
+	<ability id="265"> <!--Libra-->
+	</ability>
+	<ability id="266"> <!--Tactical Switch-->
+	</ability>
+	<ability id="267"> <!--Blood Rage-->
+	</ability>
+	<ability id="269"> <!--Impetus-->
+	</ability>
+	<ability id="270"> <!--Divine Caress-->
+	</ability>
+	<ability id="271"> <!--Sacrosanctity-->
+	</ability>
+	<ability id="272"> <!--Enmity Douse-->
+	</ability>
+	<ability id="273"> <!--Manawell-->
+	</ability>
+	<ability id="274"> <!--Saboteur-->
+	</ability>
+	<ability id="275"> <!--Spontaneity-->
+	</ability>
+	<ability id="276"> <!--Conspirator-->
+	</ability>
+	<ability id="277"> <!--Sepulcher-->
+	</ability>
+	<ability id="278"> <!--Palisade-->
+	</ability>
+	<ability id="279"> <!--Arcane Crest-->
+	</ability>
+	<ability id="280"> <!--Scarlet Delirium-->
+	</ability>
+	<ability id="281"> <!--Spur-->
+	</ability>
+	<ability id="282"> <!--Run Wild-->
+	</ability>
+	<ability id="283"> <!--Tenuto-->
+	</ability>
+	<ability id="284"> <!--Marcato-->
+	</ability>
+	<ability id="285"> <!--Bounty Shot-->
+	</ability>
+	<ability id="286"> <!--Decoy Shot-->
+	</ability>
+	<ability id="287"> <!--Hamanoha-->
+	</ability>
+	<ability id="288"> <!--Hagakure-->
+	</ability>
+	<ability id="291"> <!--Issekigan-->
+	</ability>
+	<ability id="292"> <!--Dragon Breaker-->
+	</ability>
+	<ability id="293"> <!--Soul Jump-->
+	</ability>
+	<ability id="295"> <!--Steady Wing-->
+	</ability>
+	<ability id="296"> <!--Mana Cede-->
+	</ability>
+	<ability id="297"> <!--Efflux-->
+	</ability>
+	<ability id="298"> <!--Unbridled Learning-->
+	</ability>
+	<ability id="301"> <!--Triple Shot-->
+	</ability>
+	<ability id="302"> <!--Allies' Roll-->
+	</ability>
+	<ability id="303"> <!--Miser's Roll-->
+	</ability>
+	<ability id="304"> <!--Companion's Roll-->
+	</ability>
+	<ability id="305"> <!--Avenger's Roll-->
+	</ability>
+	<ability id="309"> <!--Cooldown-->
+	</ability>
+	<ability id="310"> <!--Deus Ex Automata-->
+	</ability>
+	<ability id="311"> <!--Curing Waltz V-->
+	</ability>
+	<ability id="312"> <!--Feather Step-->
+	</ability>
+	<ability id="313"> <!--Striking Flourish-->
+	</ability>
+	<ability id="314"> <!--Ternary Flourish-->
+	</ability>
+	<ability id="316"> <!--Perpetuance-->
+	</ability>
+	<ability id="317"> <!--Immanence-->
+	</ability>
+	<ability id="318"> <!--Smiting Breath-->
+	</ability>
+	<ability id="319"> <!--Restoring Breath-->
+	</ability>
+	<ability id="320"> <!--Konzen-ittai-->
+	</ability>
+	<ability id="321"> <!--Bully-->
+	</ability>
+	<ability id="322"> <!--Maintenance-->
+	</ability>
+	<ability id="323"> <!--Brazen Rush-->
+	</ability>
+	<ability id="324"> <!--Inner Strength-->
+	</ability>
+	<ability id="325"> <!--Asylum-->
+	</ability>
+	<ability id="326"> <!--Subtle Sorcery-->
+	</ability>
+	<ability id="327"> <!--Stymie-->
+	</ability>
+	<ability id="328"> <!--Larceny-->
+	</ability>
+	<ability id="329"> <!--Intervene-->
+	</ability>
+	<ability id="330"> <!--Soul Enslavement-->
+	</ability>
+	<ability id="331"> <!--Unleash-->
+	</ability>
+	<ability id="332"> <!--Clarion Call-->
+	</ability>
+	<ability id="333"> <!--Overkill-->
+	</ability>
+	<ability id="334"> <!--Yaegasumi-->
+	</ability>
+	<ability id="335"> <!--Mikage-->
+	</ability>
+	<ability id="336"> <!--Fly High-->
+	</ability>
+	<ability id="337"> <!--Astral Conduit-->
+	</ability>
+	<ability id="338"> <!--Unbridled Wisdom-->
+	</ability>
+	<ability id="339"> <!--Cutting Cards-->
+	</ability>
+	<ability id="340"> <!--Heady Artifice-->
+	</ability>
+	<ability id="341"> <!--Grand Pas-->
+	</ability>
+	<ability id="342"> <!--Caper Emissarius-->
+	</ability>
+	<ability id="343"> <!--Bolster-->
+	</ability>
+	<ability id="344"> <!--Swipe-->
+	</ability>
+	<ability id="345"> <!--Full Circle-->
+	</ability>
+	<ability id="346"> <!--Lasting Emanation-->
+	</ability>
+	<ability id="347"> <!--Ecliptic Attrition-->
+	</ability>
+	<ability id="348"> <!--Collimated Fervor-->
+	</ability>
+	<ability id="349"> <!--Life Cycle-->
+	</ability>
+	<ability id="350"> <!--Blaze of Glory-->
+	</ability>
+	<ability id="351"> <!--Dematerialize-->
+	</ability>
+	<ability id="352"> <!--Theurgic Focus-->
+	</ability>
+	<ability id="353"> <!--Concentric Pulse-->
+	</ability>
+	<ability id="354"> <!--Mending Halation-->
+	</ability>
+	<ability id="355"> <!--Radial Arcana-->
+	</ability>
+	<ability id="356"> <!--Elemental Sforzo-->
+	</ability>
+	<ability id="357"> <!--Rune Enchantment-->
+	</ability>
+	<ability id="358"> <!--Ignis-->
+	</ability>
+	<ability id="359"> <!--Gelus-->
+	</ability>
+	<ability id="360"> <!--Flabra-->
+	</ability>
+	<ability id="361"> <!--Tellus-->
+	</ability>
+	<ability id="362"> <!--Sulpor-->
+	</ability>
+	<ability id="363"> <!--Unda-->
+	</ability>
+	<ability id="364"> <!--Lux-->
+	</ability>
+	<ability id="365"> <!--Tenebrae-->
+	</ability>
+	<ability id="366"> <!--Vallation-->
+	</ability>
+	<ability id="367"> <!--Swordplay-->
+	</ability>
+	<ability id="368"> <!--Lunge-->
+	</ability>
+	<ability id="369"> <!--Pflug-->
+	</ability>
+	<ability id="370"> <!--Embolden-->
+	</ability>
+	<ability id="371"> <!--Valiance-->
+	</ability>
+	<ability id="372"> <!--Gambit-->
+	</ability>
+	<ability id="373"> <!--Liement-->
+	</ability>
+	<ability id="374"> <!--One for All-->
+	</ability>
+	<ability id="375"> <!--Rayke-->
+	</ability>
+	<ability id="376"> <!--Battuta-->
+	</ability>
+	<ability id="377"> <!--Widened Compass-->
+	</ability>
+	<ability id="378"> <!--Odyllic Subterfuge-->
+	</ability>
+	<ability id="379"> <!--Ward-->
+	</ability>
+	<ability id="380"> <!--Effusion-->
+	</ability>
+	<ability id="381"> <!--Chocobo Jig II-->
+	</ability>
+	<ability id="382"> <!--Relinquish-->
+	</ability>
+	<ability id="383"> <!--Vivacious Pulse-->
+	</ability>
+	<ability id="512"> <!--Healing Ruby-->
+	</ability>
+	<ability id="513"> <!--Poison Nails-->
+	</ability>
+	<ability id="514"> <!--Shining Ruby-->
+	</ability>
+	<ability id="515"> <!--Glittering Ruby-->
+	</ability>
+	<ability id="516"> <!--Meteorite-->
+	</ability>
+	<ability id="517"> <!--Healing Ruby II-->
+	</ability>
+	<ability id="518"> <!--Searing Light-->
+	</ability>
+	<ability id="519"> <!--Holy Mist-->
+	</ability>
+	<ability id="520"> <!--Soothing Ruby-->
+	</ability>
+	<ability id="521"> <!--Regal Scratch-->
+	</ability>
+	<ability id="522"> <!--Mewing Lullaby-->
+	</ability>
+	<ability id="523"> <!--Eerie Eye-->
+	</ability>
+	<ability id="524"> <!--Level ? Holy-->
+	</ability>
+	<ability id="525"> <!--Raise II-->
+	</ability>
+	<ability id="526"> <!--Reraise II-->
+	</ability>
+	<ability id="527"> <!--Altana's Favor-->
+	</ability>
+	<ability id="528"> <!--Moonlit Charge-->
+	</ability>
+	<ability id="529"> <!--Crescent Fang-->
+	</ability>
+	<ability id="530"> <!--Lunar Cry-->
+	</ability>
+	<ability id="531"> <!--Lunar Roar-->
+	</ability>
+	<ability id="532"> <!--Ecliptic Growl-->
+	</ability>
+	<ability id="533"> <!--Ecliptic Howl-->
+	</ability>
+	<ability id="534"> <!--Eclipse Bite-->
+	</ability>
+	<ability id="536"> <!--Howling Moon-->
+	</ability>
+	<ability id="537"> <!--Lunar Bay-->
+	</ability>
+	<ability id="538"> <!--Heavenward Howl-->
+	</ability>
+	<ability id="544"> <!--Punch-->
+	</ability>
+	<ability id="545"> <!--Fire II-->
+	</ability>
+	<ability id="546"> <!--Burning Strike-->
+	</ability>
+	<ability id="547"> <!--Double Punch-->
+	</ability>
+	<ability id="548"> <!--Crimson Howl-->
+	</ability>
+	<ability id="549"> <!--Fire IV-->
+	</ability>
+	<ability id="550"> <!--Flaming Crush-->
+	</ability>
+	<ability id="551"> <!--Meteor Strike-->
+	</ability>
+	<ability id="552"> <!--Inferno-->
+	</ability>
+	<ability id="553"> <!--Inferno Howl-->
+	</ability>
+	<ability id="560"> <!--Rock Throw-->
+	</ability>
+	<ability id="561"> <!--Stone II-->
+	</ability>
+	<ability id="562"> <!--Rock Buster-->
+	</ability>
+	<ability id="563"> <!--Megalith Throw-->
+	</ability>
+	<ability id="564"> <!--Earthen Ward-->
+	</ability>
+	<ability id="565"> <!--Stone IV-->
+	</ability>
+	<ability id="566"> <!--Mountain Buster-->
+	</ability>
+	<ability id="567"> <!--Geocrush-->
+	</ability>
+	<ability id="568"> <!--Earthen Fury-->
+	</ability>
+	<ability id="569"> <!--Earthen Armor-->
+	</ability>
+	<ability id="576"> <!--Barracuda Dive-->
+	</ability>
+	<ability id="577"> <!--Water II-->
+	</ability>
+	<ability id="578"> <!--Tail Whip-->
+	</ability>
+	<ability id="579"> <!--Spring Water-->
+	</ability>
+	<ability id="580"> <!--Slowga-->
+	</ability>
+	<ability id="581"> <!--Water IV-->
+	</ability>
+	<ability id="582"> <!--Spinning Dive-->
+	</ability>
+	<ability id="583"> <!--Grand Fall-->
+	</ability>
+	<ability id="584"> <!--Tidal Wave-->
+	</ability>
+	<ability id="585"> <!--Tidal Roar-->
+	</ability>
+	<ability id="592"> <!--Claw-->
+	</ability>
+	<ability id="593"> <!--Aero II-->
+	</ability>
+	<ability id="594"> <!--Whispering Wind-->
+	</ability>
+	<ability id="595"> <!--Hastega-->
+	</ability>
+	<ability id="596"> <!--Aerial Armor-->
+	</ability>
+	<ability id="597"> <!--Aero IV-->
+	</ability>
+	<ability id="598"> <!--Predator Claws-->
+	</ability>
+	<ability id="599"> <!--Wind Blade-->
+	</ability>
+	<ability id="600"> <!--Aerial Blast-->
+	</ability>
+	<ability id="601"> <!--Fleet Wind-->
+	</ability>
+	<ability id="608"> <!--Axe Kick-->
+	</ability>
+	<ability id="609"> <!--Blizzard II-->
+	</ability>
+	<ability id="610"> <!--Frost Armor-->
+	</ability>
+	<ability id="611"> <!--Sleepga-->
+	</ability>
+	<ability id="612"> <!--Double Slap-->
+	</ability>
+	<ability id="613"> <!--Blizzard IV-->
+	</ability>
+	<ability id="614"> <!--Rush-->
+	</ability>
+	<ability id="615"> <!--Heavenly Strike-->
+	</ability>
+	<ability id="616"> <!--Diamond Dust-->
+	</ability>
+	<ability id="617"> <!--Diamond Storm-->
+	</ability>
+	<ability id="624"> <!--Shock Strike-->
+	</ability>
+	<ability id="625"> <!--Thunder II-->
+	</ability>
+	<ability id="626"> <!--Rolling Thunder-->
+	</ability>
+	<ability id="627"> <!--Thunderspark-->
+	</ability>
+	<ability id="628"> <!--Lightning Armor-->
+	</ability>
+	<ability id="629"> <!--Thunder IV-->
+	</ability>
+	<ability id="630"> <!--Chaotic Strike-->
+	</ability>
+	<ability id="631"> <!--Thunderstorm-->
+	</ability>
+	<ability id="632"> <!--Judgment Bolt-->
+	</ability>
+	<ability id="633"> <!--Shock Squall-->
+	</ability>
+	<ability id="639"> <!--Healing Breath IV-->
+	</ability>
+	<ability id="640"> <!--Healing Breath-->
+	</ability>
+	<ability id="641"> <!--Healing Breath II-->
+	</ability>
+	<ability id="642"> <!--Healing Breath III-->
+	</ability>
+	<ability id="643"> <!--Remove Poison-->
+	</ability>
+	<ability id="644"> <!--Remove Blindness-->
+	</ability>
+	<ability id="645"> <!--Remove Paralysis-->
+	</ability>
+	<ability id="646"> <!--Flame Breath-->
+	</ability>
+	<ability id="647"> <!--Frost Breath-->
+	</ability>
+	<ability id="648"> <!--Gust Breath-->
+	</ability>
+	<ability id="649"> <!--Sand Breath-->
+	</ability>
+	<ability id="650"> <!--Lightning Breath-->
+	</ability>
+	<ability id="651"> <!--Hydro Breath-->
+	</ability>
+	<ability id="652"> <!--Super Climb-->
+	</ability>
+	<ability id="653"> <!--Remove Curse-->
+	</ability>
+	<ability id="654"> <!--Remove Disease-->
+	</ability>
+	<ability id="656"> <!--Camisado-->
+	</ability>
+	<ability id="657"> <!--Somnolence-->
+	</ability>
+	<ability id="658"> <!--Nightmare-->
+	</ability>
+	<ability id="659"> <!--Ultimate Terror-->
+	</ability>
+	<ability id="660"> <!--Noctoshield-->
+	</ability>
+	<ability id="661"> <!--Dream Shroud-->
+	</ability>
+	<ability id="662"> <!--Nether Blast-->
+	</ability>
+	<ability id="663"> <!--Cacodemonia-->
+	</ability>
+	<ability id="664"> <!--Ruinous Omen-->
+	</ability>
+	<ability id="665"> <!--Night Terror-->
+	</ability>
+	<ability id="666"> <!--Pavor Nocturnus-->
+	</ability>
+	<ability id="670"> <!--Zantetsuken-->
+	</ability>
+	<ability id="671"> <!--Perfect Defense-->
+	</ability>
+	<ability id="672"> <!--Foot Kick-->
+	</ability>
+	<ability id="673"> <!--Dust Cloud-->
+	</ability>
+	<ability id="674"> <!--Whirl Claws-->
+	</ability>
+	<ability id="675"> <!--Head Butt-->
+	</ability>
+	<ability id="676"> <!--Dream Flower-->
+	</ability>
+	<ability id="677"> <!--Wild Oats-->
+	</ability>
+	<ability id="678"> <!--Leaf Dagger-->
+	</ability>
+	<ability id="679"> <!--Scream-->
+	</ability>
+	<ability id="680"> <!--Roar-->
+	</ability>
+	<ability id="681"> <!--Razor Fang-->
+	</ability>
+	<ability id="682"> <!--Claw Cyclone-->
+	</ability>
+	<ability id="683"> <!--Tail Blow-->
+	</ability>
+	<ability id="684"> <!--Fireball-->
+	</ability>
+	<ability id="685"> <!--Blockhead-->
+	</ability>
+	<ability id="686"> <!--Brain Crush-->
+	</ability>
+	<ability id="687"> <!--Infrasonics-->
+	</ability>
+	<ability id="688"> <!--Secretion-->
+	</ability>
+	<ability id="689"> <!--Lamb Chop-->
+	</ability>
+	<ability id="690"> <!--Rage-->
+	</ability>
+	<ability id="691"> <!--Sheep Charge-->
+	</ability>
+	<ability id="692"> <!--Sheep Song-->
+	</ability>
+	<ability id="693"> <!--Bubble Shower-->
+	</ability>
+	<ability id="694"> <!--Bubble Curtain-->
+	</ability>
+	<ability id="695"> <!--Big Scissors-->
+	</ability>
+	<ability id="696"> <!--Scissor Guard-->
+	</ability>
+	<ability id="697"> <!--Metallic Body-->
+	</ability>
+	<ability id="698"> <!--Needleshot-->
+	</ability>
+	<ability id="699"> <!--1000 Needles-->
+	</ability>
+	<ability id="700"> <!--Frogkick-->
+	</ability>
+	<ability id="701"> <!--Spore-->
+	</ability>
+	<ability id="702"> <!--Queasyshroom-->
+	</ability>
+	<ability id="703"> <!--Numbshroom-->
+	</ability>
+	<ability id="704"> <!--Shakeshroom-->
+	</ability>
+	<ability id="705"> <!--Silence Gas-->
+	</ability>
+	<ability id="706"> <!--Dark Spore-->
+	</ability>
+	<ability id="707"> <!--Power Attack-->
+	</ability>
+	<ability id="708"> <!--Hi-Freq Field-->
+	</ability>
+	<ability id="709"> <!--Rhino Attack-->
+	</ability>
+	<ability id="710"> <!--Rhino Guard-->
+	</ability>
+	<ability id="711"> <!--Spoil-->
+	</ability>
+	<ability id="712"> <!--Cursed Sphere-->
+	</ability>
+	<ability id="713"> <!--Venom-->
+	</ability>
+	<ability id="714"> <!--Sandblast-->
+	</ability>
+	<ability id="715"> <!--Sandpit-->
+	</ability>
+	<ability id="716"> <!--Venom Spray-->
+	</ability>
+	<ability id="717"> <!--Mandibular Bite-->
+	</ability>
+	<ability id="718"> <!--Soporific-->
+	</ability>
+	<ability id="719"> <!--Gloeosuccus-->
+	</ability>
+	<ability id="720"> <!--Palsy Pollen-->
+	</ability>
+	<ability id="721"> <!--Geist Wall-->
+	</ability>
+	<ability id="722"> <!--Numbing Noise-->
+	</ability>
+	<ability id="723"> <!--Nimble Snap-->
+	</ability>
+	<ability id="724"> <!--Cyclotail-->
+	</ability>
+	<ability id="725"> <!--Toxic Spit-->
+	</ability>
+	<ability id="726"> <!--Double Claw-->
+	</ability>
+	<ability id="727"> <!--Grapple-->
+	</ability>
+	<ability id="728"> <!--Spinning Top-->
+	</ability>
+	<ability id="729"> <!--Filamented Hold-->
+	</ability>
+	<ability id="730"> <!--Chaotic Eye-->
+	</ability>
+	<ability id="731"> <!--Blaster-->
+	</ability>
+	<ability id="732"> <!--Suction-->
+	</ability>
+	<ability id="733"> <!--Drainkiss-->
+	</ability>
+	<ability id="734"> <!--Snow Cloud-->
+	</ability>
+	<ability id="735"> <!--Wild Carrot-->
+	</ability>
+	<ability id="736"> <!--Sudden Lunge-->
+	</ability>
+	<ability id="737"> <!--Spiral Spin-->
+	</ability>
+	<ability id="738"> <!--Noisome Powder-->
+	</ability>
+	<ability id="740"> <!--Acid Mist-->
+	</ability>
+	<ability id="741"> <!--TP Drainkiss-->
+	</ability>
+	<ability id="743"> <!--Scythe Tail-->
+	</ability>
+	<ability id="744"> <!--Ripper Fang-->
+	</ability>
+	<ability id="745"> <!--Chomp Rush-->
+	</ability>
+	<ability id="746"> <!--Charged Whisker-->
+	</ability>
+	<ability id="747"> <!--Purulent Ooze-->
+	</ability>
+	<ability id="748"> <!--Corrosive Ooze-->
+	</ability>
+	<ability id="749"> <!--Back Heel-->
+	</ability>
+	<ability id="750"> <!--Jettatura-->
+	</ability>
+	<ability id="751"> <!--Choke Breath-->
+	</ability>
+	<ability id="752"> <!--Fantod-->
+	</ability>
+	<ability id="753"> <!--Tortoise Stomp-->
+	</ability>
+	<ability id="754"> <!--Harden Shell-->
+	</ability>
+	<ability id="755"> <!--Aqua Breath-->
+	</ability>
+	<ability id="756"> <!--Wing Slap-->
+	</ability>
+	<ability id="757"> <!--Beak Lunge-->
+	</ability>
+	<ability id="758"> <!--Intimidate-->
+	</ability>
+	<ability id="759"> <!--Recoil Dive-->
+	</ability>
+	<ability id="760"> <!--Water Wall-->
+	</ability>
+	<ability id="761"> <!--Sensilla Blades-->
+	</ability>
+	<ability id="762"> <!--Tegmina Buffet-->
+	</ability>
+	<ability id="763"> <!--Molting Plumage-->
+	</ability>
+	<ability id="764"> <!--Swooping Frenzy-->
+	</ability>
+	<ability id="765"> <!--Sweeping Gouge-->
+	</ability>
+	<ability id="766"> <!--Zealous Snort-->
+	</ability>
+	<ability id="767"> <!--Pentapeck-->
+	</ability>
+
+	<spell id="1"> <!--Cure-->
+	</spell>
+	<spell id="2"> <!--Cure II-->
+	</spell>
+	<spell id="3"> <!--Cure III-->
+	</spell>
+	<spell id="4"> <!--Cure IV-->
+	</spell>
+	<spell id="5"> <!--Cure V-->
+	</spell>
+	<spell id="6"> <!--Cure VI-->
+	</spell>
+	<spell id="7"> <!--Curaga-->
+	</spell>
+	<spell id="8"> <!--Curaga II-->
+	</spell>
+	<spell id="9"> <!--Curaga III-->
+	</spell>
+	<spell id="10"> <!--Curaga IV-->
+	</spell>
+	<spell id="11"> <!--Curaga V-->
+	</spell>
+	<spell id="12"> <!--Raise-->
+	</spell>
+	<spell id="13"> <!--Raise II-->
+	</spell>
+	<spell id="14"> <!--Poisona-->
+	</spell>
+	<spell id="15"> <!--Paralyna-->
+	</spell>
+	<spell id="16"> <!--Blindna-->
+	</spell>
+	<spell id="17"> <!--Silena-->
+	</spell>
+	<spell id="18"> <!--Stona-->
+	</spell>
+	<spell id="19"> <!--Viruna-->
+	</spell>
+	<spell id="20"> <!--Cursna-->
+	</spell>
+	<spell id="21"> <!--Holy-->
+	</spell>
+	<spell id="22"> <!--Holy II-->
+	</spell>
+	<spell id="23"> <!--Dia-->
+	</spell>
+	<spell id="24"> <!--Dia II-->
+	</spell>
+	<spell id="25"> <!--Dia III-->
+	</spell>
+	<spell id="26"> <!--Dia IV-->
+	</spell>
+	<spell id="27"> <!--Dia V-->
+	</spell>
+	<spell id="28"> <!--Banish-->
+	</spell>
+	<spell id="29"> <!--Banish II-->
+	</spell>
+	<spell id="30"> <!--Banish III-->
+	</spell>
+	<spell id="31"> <!--Banish IV-->
+	</spell>
+	<spell id="32"> <!--Banish V-->
+	</spell>
+	<spell id="33"> <!--Diaga-->
+	</spell>
+	<spell id="34"> <!--Diaga II-->
+	</spell>
+	<spell id="35"> <!--Diaga III-->
+	</spell>
+	<spell id="36"> <!--Diaga IV-->
+	</spell>
+	<spell id="37"> <!--Diaga V-->
+	</spell>
+	<spell id="38"> <!--Banishga-->
+	</spell>
+	<spell id="39"> <!--Banishga II-->
+	</spell>
+	<spell id="40"> <!--Banishga III-->
+	</spell>
+	<spell id="41"> <!--Banishga IV-->
+	</spell>
+	<spell id="42"> <!--Banishga V-->
+	</spell>
+	<spell id="43"> <!--Protect-->
+	</spell>
+	<spell id="44"> <!--Protect II-->
+	</spell>
+	<spell id="45"> <!--Protect III-->
+	</spell>
+	<spell id="46"> <!--Protect IV-->
+	</spell>
+	<spell id="47"> <!--Protect V-->
+	</spell>
+	<spell id="48"> <!--Shell-->
+	</spell>
+	<spell id="49"> <!--Shell II-->
+	</spell>
+	<spell id="50"> <!--Shell III-->
+	</spell>
+	<spell id="51"> <!--Shell IV-->
+	</spell>
+	<spell id="52"> <!--Shell V-->
+	</spell>
+	<spell id="53"> <!--Blink-->
+	</spell>
+	<spell id="54"> <!--Stoneskin-->
+	</spell>
+	<spell id="55"> <!--Aquaveil-->
+	</spell>
+	<spell id="56"> <!--Slow-->
+	</spell>
+	<spell id="57"> <!--Haste-->
+	</spell>
+	<spell id="58"> <!--Paralyze-->
+	</spell>
+	<spell id="59"> <!--Silence-->
+	</spell>
+	<spell id="60"> <!--Barfire-->
+	</spell>
+	<spell id="61"> <!--Barblizzard-->
+	</spell>
+	<spell id="62"> <!--Baraero-->
+	</spell>
+	<spell id="63"> <!--Barstone-->
+	</spell>
+	<spell id="64"> <!--Barthunder-->
+	</spell>
+	<spell id="65"> <!--Barwater-->
+	</spell>
+	<spell id="66"> <!--Barfira-->
+	</spell>
+	<spell id="67"> <!--Barblizzara-->
+	</spell>
+	<spell id="68"> <!--Baraera-->
+	</spell>
+	<spell id="69"> <!--Barstonra-->
+	</spell>
+	<spell id="70"> <!--Barthundra-->
+	</spell>
+	<spell id="71"> <!--Barwatera-->
+	</spell>
+	<spell id="72"> <!--Barsleep-->
+	</spell>
+	<spell id="73"> <!--Barpoison-->
+	</spell>
+	<spell id="74"> <!--Barparalyze-->
+	</spell>
+	<spell id="75"> <!--Barblind-->
+	</spell>
+	<spell id="76"> <!--Barsilence-->
+	</spell>
+	<spell id="77"> <!--Barpetrify-->
+	</spell>
+	<spell id="78"> <!--Barvirus-->
+	</spell>
+	<spell id="79"> <!--Slow II-->
+	</spell>
+	<spell id="80"> <!--Paralyze II-->
+	</spell>
+	<spell id="81"> <!--Recall-Jugner-->
+	</spell>
+	<spell id="82"> <!--Recall-Pashh-->
+	</spell>
+	<spell id="83"> <!--Recall-Meriph-->
+	</spell>
+	<spell id="84"> <!--Baramnesia-->
+	</spell>
+	<spell id="85"> <!--Baramnesra-->
+	</spell>
+	<spell id="86"> <!--Barsleepra-->
+	</spell>
+	<spell id="87"> <!--Barpoisonra-->
+	</spell>
+	<spell id="88"> <!--Barparalyzra-->
+	</spell>
+	<spell id="89"> <!--Barblindra-->
+	</spell>
+	<spell id="90"> <!--Barsilencera-->
+	</spell>
+	<spell id="91"> <!--Barpetra-->
+	</spell>
+	<spell id="92"> <!--Barvira-->
+	</spell>
+	<spell id="93"> <!--Cura-->
+	</spell>
+	<spell id="94"> <!--Sacrifice-->
+	</spell>
+	<spell id="95"> <!--Esuna-->
+	</spell>
+	<spell id="96"> <!--Auspice-->
+	</spell>
+	<spell id="97"> <!--Reprisal-->
+	</spell>
+	<spell id="98"> <!--Repose-->
+	</spell>
+	<spell id="99"> <!--Sandstorm-->
+	</spell>
+	<spell id="100"> <!--Enfire-->
+	</spell>
+	<spell id="101"> <!--Enblizzard-->
+	</spell>
+	<spell id="102"> <!--Enaero-->
+	</spell>
+	<spell id="103"> <!--Enstone-->
+	</spell>
+	<spell id="104"> <!--Enthunder-->
+	</spell>
+	<spell id="105"> <!--Enwater-->
+	</spell>
+	<spell id="106"> <!--Phalanx-->
+	</spell>
+	<spell id="107"> <!--Phalanx II-->
+	</spell>
+	<spell id="108"> <!--Regen-->
+	</spell>
+	<spell id="109"> <!--Refresh-->
+	</spell>
+	<spell id="110"> <!--Regen II-->
+	</spell>
+	<spell id="111"> <!--Regen III-->
+	</spell>
+	<spell id="112"> <!--Flash-->
+	</spell>
+	<spell id="113"> <!--Rainstorm-->
+	</spell>
+	<spell id="114"> <!--Windstorm-->
+	</spell>
+	<spell id="115"> <!--Firestorm-->
+	</spell>
+	<spell id="116"> <!--Hailstorm-->
+	</spell>
+	<spell id="117"> <!--Thunderstorm-->
+	</spell>
+	<spell id="118"> <!--Voidstorm-->
+	</spell>
+	<spell id="119"> <!--Aurorastorm-->
+	</spell>
+	<spell id="120"> <!--Teleport-Yhoat-->
+	</spell>
+	<spell id="121"> <!--Teleport-Altep-->
+	</spell>
+	<spell id="122"> <!--Teleport-Holla-->
+	</spell>
+	<spell id="123"> <!--Teleport-Dem-->
+	</spell>
+	<spell id="124"> <!--Teleport-Mea-->
+	</spell>
+	<spell id="125"> <!--Protectra-->
+	</spell>
+	<spell id="126"> <!--Protectra II-->
+	</spell>
+	<spell id="127"> <!--Protectra III-->
+	</spell>
+	<spell id="128"> <!--Protectra IV-->
+	</spell>
+	<spell id="129"> <!--Protectra V-->
+	</spell>
+	<spell id="130"> <!--Shellra-->
+	</spell>
+	<spell id="131"> <!--Shellra II-->
+	</spell>
+	<spell id="132"> <!--Shellra III-->
+	</spell>
+	<spell id="133"> <!--Shellra IV-->
+	</spell>
+	<spell id="134"> <!--Shellra V-->
+	</spell>
+	<spell id="135"> <!--Reraise-->
+	</spell>
+	<spell id="136"> <!--Invisible-->
+	</spell>
+	<spell id="137"> <!--Sneak-->
+	</spell>
+	<spell id="138"> <!--Deodorize-->
+	</spell>
+	<spell id="139"> <!--Teleport-Vahzl-->
+	</spell>
+	<spell id="140"> <!--Raise III-->
+	</spell>
+	<spell id="141"> <!--Reraise II-->
+	</spell>
+	<spell id="142"> <!--Reraise III-->
+	</spell>
+	<spell id="143"> <!--Erase-->
+	</spell>
+	<spell id="144"> <!--Fire-->
+	</spell>
+	<spell id="145"> <!--Fire II-->
+	</spell>
+	<spell id="146"> <!--Fire III-->
+	</spell>
+	<spell id="147"> <!--Fire IV-->
+	</spell>
+	<spell id="148"> <!--Fire V-->
+	</spell>
+	<spell id="149"> <!--Blizzard-->
+	</spell>
+	<spell id="150"> <!--Blizzard II-->
+	</spell>
+	<spell id="151"> <!--Blizzard III-->
+	</spell>
+	<spell id="152"> <!--Blizzard IV-->
+	</spell>
+	<spell id="153"> <!--Blizzard V-->
+	</spell>
+	<spell id="154"> <!--Aero-->
+	</spell>
+	<spell id="155"> <!--Aero II-->
+	</spell>
+	<spell id="156"> <!--Aero III-->
+	</spell>
+	<spell id="157"> <!--Aero IV-->
+	</spell>
+	<spell id="158"> <!--Aero V-->
+	</spell>
+	<spell id="159"> <!--Stone-->
+	</spell>
+	<spell id="160"> <!--Stone II-->
+	</spell>
+	<spell id="161"> <!--Stone III-->
+	</spell>
+	<spell id="162"> <!--Stone IV-->
+	</spell>
+	<spell id="163"> <!--Stone V-->
+	</spell>
+	<spell id="164"> <!--Thunder-->
+	</spell>
+	<spell id="165"> <!--Thunder II-->
+	</spell>
+	<spell id="166"> <!--Thunder III-->
+	</spell>
+	<spell id="167"> <!--Thunder IV-->
+	</spell>
+	<spell id="168"> <!--Thunder V-->
+	</spell>
+	<spell id="169"> <!--Water-->
+	</spell>
+	<spell id="170"> <!--Water II-->
+	</spell>
+	<spell id="171"> <!--Water III-->
+	</spell>
+	<spell id="172"> <!--Water IV-->
+	</spell>
+	<spell id="173"> <!--Water V-->
+	</spell>
+	<spell id="174"> <!--Firaga-->
+	</spell>
+	<spell id="175"> <!--Firaga II-->
+	</spell>
+	<spell id="176"> <!--Firaga III-->
+	</spell>
+	<spell id="177"> <!--Firaga IV-->
+	</spell>
+	<spell id="178"> <!--Firaga V-->
+	</spell>
+	<spell id="179"> <!--Blizzaga-->
+	</spell>
+	<spell id="180"> <!--Blizzaga II-->
+	</spell>
+	<spell id="181"> <!--Blizzaga III-->
+	</spell>
+	<spell id="182"> <!--Blizzaga IV-->
+	</spell>
+	<spell id="183"> <!--Blizzaga V-->
+	</spell>
+	<spell id="184"> <!--Aeroga-->
+	</spell>
+	<spell id="185"> <!--Aeroga II-->
+	</spell>
+	<spell id="186"> <!--Aeroga III-->
+	</spell>
+	<spell id="187"> <!--Aeroga IV-->
+	</spell>
+	<spell id="188"> <!--Aeroga V-->
+	</spell>
+	<spell id="189"> <!--Stonega-->
+	</spell>
+	<spell id="190"> <!--Stonega II-->
+	</spell>
+	<spell id="191"> <!--Stonega III-->
+	</spell>
+	<spell id="192"> <!--Stonega IV-->
+	</spell>
+	<spell id="193"> <!--Stonega V-->
+	</spell>
+	<spell id="194"> <!--Thundaga-->
+	</spell>
+	<spell id="195"> <!--Thundaga II-->
+	</spell>
+	<spell id="196"> <!--Thundaga III-->
+	</spell>
+	<spell id="197"> <!--Thundaga IV-->
+	</spell>
+	<spell id="198"> <!--Thundaga V-->
+	</spell>
+	<spell id="199"> <!--Waterga-->
+	</spell>
+	<spell id="200"> <!--Waterga II-->
+	</spell>
+	<spell id="201"> <!--Waterga III-->
+	</spell>
+	<spell id="202"> <!--Waterga IV-->
+	</spell>
+	<spell id="203"> <!--Waterga V-->
+	</spell>
+	<spell id="204"> <!--Flare-->
+	</spell>
+	<spell id="205"> <!--Flare II-->
+	</spell>
+	<spell id="206"> <!--Freeze-->
+	</spell>
+	<spell id="207"> <!--Freeze II-->
+	</spell>
+	<spell id="208"> <!--Tornado-->
+	</spell>
+	<spell id="209"> <!--Tornado II-->
+	</spell>
+	<spell id="210"> <!--Quake-->
+	</spell>
+	<spell id="211"> <!--Quake II-->
+	</spell>
+	<spell id="212"> <!--Burst-->
+	</spell>
+	<spell id="213"> <!--Burst II-->
+	</spell>
+	<spell id="214"> <!--Flood-->
+	</spell>
+	<spell id="215"> <!--Flood II-->
+	</spell>
+	<spell id="216"> <!--Gravity-->
+	</spell>
+	<spell id="217"> <!--Gravity II-->
+	</spell>
+	<spell id="218"> <!--Meteor-->
+	</spell>
+	<spell id="219"> <!--Comet-->
+	</spell>
+	<spell id="220"> <!--Poison-->
+	</spell>
+	<spell id="221"> <!--Poison II-->
+	</spell>
+	<spell id="222"> <!--Poison III-->
+	</spell>
+	<spell id="223"> <!--Poison IV-->
+	</spell>
+	<spell id="224"> <!--Poison V-->
+	</spell>
+	<spell id="225"> <!--Poisonga-->
+	</spell>
+	<spell id="226"> <!--Poisonga II-->
+	</spell>
+	<spell id="227"> <!--Poisonga III-->
+	</spell>
+	<spell id="228"> <!--Poisonga IV-->
+	</spell>
+	<spell id="229"> <!--Poisonga V-->
+	</spell>
+	<spell id="230"> <!--Bio-->
+	</spell>
+	<spell id="231"> <!--Bio II-->
+	</spell>
+	<spell id="232"> <!--Bio III-->
+	</spell>
+	<spell id="233"> <!--Bio IV-->
+	</spell>
+	<spell id="234"> <!--Bio V-->
+	</spell>
+	<spell id="235"> <!--Burn-->
+	</spell>
+	<spell id="236"> <!--Frost-->
+	</spell>
+	<spell id="237"> <!--Choke-->
+	</spell>
+	<spell id="238"> <!--Rasp-->
+	</spell>
+	<spell id="239"> <!--Shock-->
+	</spell>
+	<spell id="240"> <!--Drown-->
+	</spell>
+	<spell id="241"> <!--Retrace-->
+	</spell>
+	<spell id="242"> <!--Absorb-ACC-->
+	</spell>
+	<spell id="243"> <!--Absorb-Attri-->
+	</spell>
+	<spell id="244"> <!--Meteor II-->
+	</spell>
+	<spell id="245"> <!--Drain-->
+	</spell>
+	<spell id="246"> <!--Drain II-->
+	</spell>
+	<spell id="247"> <!--Aspir-->
+	</spell>
+	<spell id="248"> <!--Aspir II-->
+	</spell>
+	<spell id="249"> <!--Blaze Spikes-->
+	</spell>
+	<spell id="250"> <!--Ice Spikes-->
+	</spell>
+	<spell id="251"> <!--Shock Spikes-->
+	</spell>
+	<spell id="252"> <!--Stun-->
+	</spell>
+	<spell id="253"> <!--Sleep-->
+	</spell>
+	<spell id="254"> <!--Blind-->
+	</spell>
+	<spell id="255"> <!--Break-->
+	</spell>
+	<spell id="256"> <!--Virus-->
+	</spell>
+	<spell id="257"> <!--Curse-->
+	</spell>
+	<spell id="258"> <!--Bind-->
+	</spell>
+	<spell id="259"> <!--Sleep II-->
+	</spell>
+	<spell id="260"> <!--Dispel-->
+	</spell>
+	<spell id="261"> <!--Warp-->
+	</spell>
+	<spell id="262"> <!--Warp II-->
+	</spell>
+	<spell id="263"> <!--Escape-->
+	</spell>
+	<spell id="264"> <!--Tractor-->
+	</spell>
+	<spell id="265"> <!--Tractor II-->
+	</spell>
+	<spell id="266"> <!--Absorb-STR-->
+	</spell>
+	<spell id="267"> <!--Absorb-DEX-->
+	</spell>
+	<spell id="268"> <!--Absorb-VIT-->
+	</spell>
+	<spell id="269"> <!--Absorb-AGI-->
+	</spell>
+	<spell id="270"> <!--Absorb-INT-->
+	</spell>
+	<spell id="271"> <!--Absorb-MND-->
+	</spell>
+	<spell id="272"> <!--Absorb-CHR-->
+	</spell>
+	<spell id="273"> <!--Sleepga-->
+	</spell>
+	<spell id="274"> <!--Sleepga II-->
+	</spell>
+	<spell id="275"> <!--Absorb-TP-->
+	</spell>
+	<spell id="276"> <!--Blind II-->
+	</spell>
+	<spell id="277"> <!--Dread Spikes-->
+	</spell>
+	<spell id="278"> <!--Geohelix-->
+	</spell>
+	<spell id="279"> <!--Hydrohelix-->
+	</spell>
+	<spell id="280"> <!--Anemohelix-->
+	</spell>
+	<spell id="281"> <!--Pyrohelix-->
+	</spell>
+	<spell id="282"> <!--Cryohelix-->
+	</spell>
+	<spell id="283"> <!--Ionohelix-->
+	</spell>
+	<spell id="284"> <!--Noctohelix-->
+	</spell>
+	<spell id="285"> <!--Luminohelix-->
+	</spell>
+	<spell id="286"> <!--Addle-->
+	</spell>
+	<spell id="287"> <!--Klimaform-->
+	</spell>
+	<spell id="288"> <!--Fire Spirit-->
+	</spell>
+	<spell id="289"> <!--Ice Spirit-->
+	</spell>
+	<spell id="290"> <!--Air Spirit-->
+	</spell>
+	<spell id="291"> <!--Earth Spirit-->
+	</spell>
+	<spell id="292"> <!--Thunder Spirit-->
+	</spell>
+	<spell id="293"> <!--Water Spirit-->
+	</spell>
+	<spell id="294"> <!--Light Spirit-->
+	</spell>
+	<spell id="295"> <!--Dark Spirit-->
+	</spell>
+	<spell id="296"> <!--Carbuncle-->
+	</spell>
+	<spell id="297"> <!--Fenrir-->
+	</spell>
+	<spell id="298"> <!--Ifrit-->
+	</spell>
+	<spell id="299"> <!--Titan-->
+	</spell>
+	<spell id="300"> <!--Leviathan-->
+	</spell>
+	<spell id="301"> <!--Garuda-->
+	</spell>
+	<spell id="302"> <!--Shiva-->
+	</spell>
+	<spell id="303"> <!--Ramuh-->
+	</spell>
+	<spell id="304"> <!--Diabolos-->
+	</spell>
+	<spell id="305"> <!--Odin-->
+	</spell>
+	<spell id="306"> <!--Alexander-->
+	</spell>
+	<spell id="307"> <!--Cait Sith-->
+	</spell>
+	<spell id="308"> <!--Animus Augeo-->
+	</spell>
+	<spell id="309"> <!--Animus Minuo-->
+	</spell>
+	<spell id="310"> <!--Enlight-->
+	</spell>
+	<spell id="311"> <!--Endark-->
+	</spell>
+	<spell id="312"> <!--Enfire II-->
+	</spell>
+	<spell id="313"> <!--Enblizzard II-->
+	</spell>
+	<spell id="314"> <!--Enaero II-->
+	</spell>
+	<spell id="315"> <!--Enstone II-->
+	</spell>
+	<spell id="316"> <!--Enthunder II-->
+	</spell>
+	<spell id="317"> <!--Enwater II-->
+	</spell>
+	<spell id="318"> <!--Monomi: Ichi-->
+	</spell>
+	<spell id="319"> <!--Aisha: Ichi-->
+	</spell>
+	<spell id="320"> <!--Katon: Ichi-->
+	</spell>
+	<spell id="321"> <!--Katon: Ni-->
+	</spell>
+	<spell id="322"> <!--Katon: San-->
+	</spell>
+	<spell id="323"> <!--Hyoton: Ichi-->
+	</spell>
+	<spell id="324"> <!--Hyoton: Ni-->
+	</spell>
+	<spell id="325"> <!--Hyoton: San-->
+	</spell>
+	<spell id="326"> <!--Huton: Ichi-->
+	</spell>
+	<spell id="327"> <!--Huton: Ni-->
+	</spell>
+	<spell id="328"> <!--Huton: San-->
+	</spell>
+	<spell id="329"> <!--Doton: Ichi-->
+	</spell>
+	<spell id="330"> <!--Doton: Ni-->
+	</spell>
+	<spell id="331"> <!--Doton: San-->
+	</spell>
+	<spell id="332"> <!--Raiton: Ichi-->
+	</spell>
+	<spell id="333"> <!--Raiton: Ni-->
+	</spell>
+	<spell id="334"> <!--Raiton: San-->
+	</spell>
+	<spell id="335"> <!--Suiton: Ichi-->
+	</spell>
+	<spell id="336"> <!--Suiton: Ni-->
+	</spell>
+	<spell id="337"> <!--Suiton: San-->
+	</spell>
+	<spell id="338"> <!--Utsusemi: Ichi-->
+	</spell>
+	<spell id="339"> <!--Utsusemi: Ni-->
+	</spell>
+	<spell id="340"> <!--Utsusemi: San-->
+	</spell>
+	<spell id="341"> <!--Jubaku: Ichi-->
+	</spell>
+	<spell id="342"> <!--Jubaku: Ni-->
+	</spell>
+	<spell id="343"> <!--Jubaku: San-->
+	</spell>
+	<spell id="344"> <!--Hojo: Ichi-->
+	</spell>
+	<spell id="345"> <!--Hojo: Ni-->
+	</spell>
+	<spell id="346"> <!--Hojo: San-->
+	</spell>
+	<spell id="347"> <!--Kurayami: Ichi-->
+	</spell>
+	<spell id="348"> <!--Kurayami: Ni-->
+	</spell>
+	<spell id="349"> <!--Kurayami: San-->
+	</spell>
+	<spell id="350"> <!--Dokumori: Ichi-->
+	</spell>
+	<spell id="351"> <!--Dokumori: Ni-->
+	</spell>
+	<spell id="352"> <!--Dokumori: San-->
+	</spell>
+	<spell id="353"> <!--Tonko: Ichi-->
+	</spell>
+	<spell id="354"> <!--Tonko: Ni-->
+	</spell>
+	<spell id="355"> <!--Tonko: San-->
+	</spell>
+	<spell id="356"> <!--Paralyga-->
+	</spell>
+	<spell id="357"> <!--Slowga-->
+	</spell>
+	<spell id="358"> <!--Hastega-->
+	</spell>
+	<spell id="359"> <!--Silencega-->
+	</spell>
+	<spell id="360"> <!--Dispelga-->
+	</spell>
+	<spell id="361"> <!--Blindga-->
+	</spell>
+	<spell id="362"> <!--Bindga-->
+	</spell>
+	<spell id="363"> <!--Sleepga-->
+	</spell>
+	<spell id="364"> <!--Sleepga II-->
+	</spell>
+	<spell id="365"> <!--Breakga-->
+	</spell>
+	<spell id="366"> <!--Graviga-->
+	</spell>
+	<spell id="367"> <!--Death-->
+	</spell>
+	<spell id="368"> <!--Foe Requiem-->
+	</spell>
+	<spell id="369"> <!--Foe Requiem II-->
+	</spell>
+	<spell id="370"> <!--Foe Requiem III-->
+	</spell>
+	<spell id="371"> <!--Foe Requiem IV-->
+	</spell>
+	<spell id="372"> <!--Foe Requiem V-->
+	</spell>
+	<spell id="373"> <!--Foe Requiem VI-->
+	</spell>
+	<spell id="374"> <!--Foe Requiem VII-->
+	</spell>
+	<spell id="375"> <!--Foe Requiem VIII-->
+	</spell>
+	<spell id="376"> <!--Horde Lullaby-->
+	</spell>
+	<spell id="377"> <!--Horde Lullaby II-->
+	</spell>
+	<spell id="378"> <!--Army's Paeon-->
+	</spell>
+	<spell id="379"> <!--Army's Paeon II-->
+	</spell>
+	<spell id="380"> <!--Army's Paeon III-->
+	</spell>
+	<spell id="381"> <!--Army's Paeon IV-->
+	</spell>
+	<spell id="382"> <!--Army's Paeon V-->
+	</spell>
+	<spell id="383"> <!--Army's Paeon VI-->
+	</spell>
+	<spell id="384"> <!--Army's Paeon VII-->
+	</spell>
+	<spell id="385"> <!--Army's Paeon VIII-->
+	</spell>
+	<spell id="386"> <!--Mage's Ballad-->
+	</spell>
+	<spell id="387"> <!--Mage's Ballad II-->
+	</spell>
+	<spell id="388"> <!--Mage's Ballad III-->
+	</spell>
+	<spell id="389"> <!--Knight's Minne-->
+	</spell>
+	<spell id="390"> <!--Knight's Minne II-->
+	</spell>
+	<spell id="391"> <!--Knight's Minne III-->
+	</spell>
+	<spell id="392"> <!--Knight's Minne IV-->
+	</spell>
+	<spell id="393"> <!--Knight's Minne V-->
+	</spell>
+	<spell id="394"> <!--Valor Minuet-->
+	</spell>
+	<spell id="395"> <!--Valor Minuet II-->
+	</spell>
+	<spell id="396"> <!--Valor Minuet III-->
+	</spell>
+	<spell id="397"> <!--Valor Minuet IV-->
+	</spell>
+	<spell id="398"> <!--Valor Minuet V-->
+	</spell>
+	<spell id="399"> <!--Sword Madrigal-->
+	</spell>
+	<spell id="400"> <!--Blade Madrigal-->
+	</spell>
+	<spell id="401"> <!--Hunter's Prelude-->
+	</spell>
+	<spell id="402"> <!--Archer's Prelude-->
+	</spell>
+	<spell id="403"> <!--Sheepfoe Mambo-->
+	</spell>
+	<spell id="404"> <!--Dragonfoe Mambo-->
+	</spell>
+	<spell id="405"> <!--Fowl Aubade-->
+	</spell>
+	<spell id="406"> <!--Herb Pastoral-->
+	</spell>
+	<spell id="407"> <!--Chocobo Hum-->
+	</spell>
+	<spell id="408"> <!--Shining Fantasia-->
+	</spell>
+	<spell id="409"> <!--Scop's Operetta-->
+	</spell>
+	<spell id="410"> <!--Puppet's Operetta-->
+	</spell>
+	<spell id="411"> <!--Jester's Operetta-->
+	</spell>
+	<spell id="412"> <!--Gold Capriccio-->
+	</spell>
+	<spell id="413"> <!--Devotee Serenade-->
+	</spell>
+	<spell id="414"> <!--Warding Round-->
+	</spell>
+	<spell id="415"> <!--Goblin Gavotte-->
+	</spell>
+	<spell id="416"> <!--Cactuar Fugue-->
+	</spell>
+	<spell id="417"> <!--Moogle Rhapsody-->
+	</spell>
+	<spell id="418"> <!--Protected Aria-->
+	</spell>
+	<spell id="419"> <!--Advancing March-->
+	</spell>
+	<spell id="420"> <!--Victory March-->
+	</spell>
+	<spell id="421"> <!--Battlefield Elegy-->
+	</spell>
+	<spell id="422"> <!--Carnage Elegy-->
+	</spell>
+	<spell id="423"> <!--Massacre Elegy-->
+	</spell>
+	<spell id="424"> <!--Sinewy Etude-->
+	</spell>
+	<spell id="425"> <!--Dextrous Etude-->
+	</spell>
+	<spell id="426"> <!--Vivacious Etude-->
+	</spell>
+	<spell id="427"> <!--Quick Etude-->
+	</spell>
+	<spell id="428"> <!--Learned Etude-->
+	</spell>
+	<spell id="429"> <!--Spirited Etude-->
+	</spell>
+	<spell id="430"> <!--Enchanting Etude-->
+	</spell>
+	<spell id="431"> <!--Herculean Etude-->
+	</spell>
+	<spell id="432"> <!--Uncanny Etude-->
+	</spell>
+	<spell id="433"> <!--Vital Etude-->
+	</spell>
+	<spell id="434"> <!--Swift Etude-->
+	</spell>
+	<spell id="435"> <!--Sage Etude-->
+	</spell>
+	<spell id="436"> <!--Logical Etude-->
+	</spell>
+	<spell id="437"> <!--Bewitching Etude-->
+	</spell>
+	<spell id="438"> <!--Fire Carol-->
+	</spell>
+	<spell id="439"> <!--Ice Carol-->
+	</spell>
+	<spell id="440"> <!--Wind Carol-->
+	</spell>
+	<spell id="441"> <!--Earth Carol-->
+	</spell>
+	<spell id="442"> <!--Lightning Carol-->
+	</spell>
+	<spell id="443"> <!--Water Carol-->
+	</spell>
+	<spell id="444"> <!--Light Carol-->
+	</spell>
+	<spell id="445"> <!--Dark Carol-->
+	</spell>
+	<spell id="446"> <!--Fire Carol II-->
+	</spell>
+	<spell id="447"> <!--Ice Carol II-->
+	</spell>
+	<spell id="448"> <!--Wind Carol II-->
+	</spell>
+	<spell id="449"> <!--Earth Carol II-->
+	</spell>
+	<spell id="450"> <!--Lightning Carol II-->
+	</spell>
+	<spell id="451"> <!--Water Carol II-->
+	</spell>
+	<spell id="452"> <!--Light Carol II-->
+	</spell>
+	<spell id="453"> <!--Dark Carol II-->
+	</spell>
+	<spell id="454"> <!--Fire Threnody-->
+	</spell>
+	<spell id="455"> <!--Ice Threnody-->
+	</spell>
+	<spell id="456"> <!--Wind Threnody-->
+	</spell>
+	<spell id="457"> <!--Earth Threnody-->
+	</spell>
+	<spell id="458"> <!--Ltng. Threnody-->
+	</spell>
+	<spell id="459"> <!--Water Threnody-->
+	</spell>
+	<spell id="460"> <!--Light Threnody-->
+	</spell>
+	<spell id="461"> <!--Dark Threnody-->
+	</spell>
+	<spell id="462"> <!--Magic Finale-->
+	</spell>
+	<spell id="463"> <!--Foe Lullaby-->
+	</spell>
+	<spell id="464"> <!--Goddess's Hymnus-->
+	</spell>
+	<spell id="465"> <!--Chocobo Mazurka-->
+	</spell>
+	<spell id="466"> <!--Maiden's Virelai-->
+	</spell>
+	<spell id="467"> <!--Raptor Mazurka-->
+	</spell>
+	<spell id="468"> <!--Foe Sirvente-->
+	</spell>
+	<spell id="469"> <!--Adventurer's Dirge-->
+	</spell>
+	<spell id="470"> <!--Sentinel's Scherzo-->
+	</spell>
+	<spell id="471"> <!--Foe Lullaby II-->
+	</spell>
+	<spell id="472"> <!--Pining Nocturne-->
+	</spell>
+	<spell id="473"> <!--Refresh II-->
+	</spell>
+	<spell id="474"> <!--Cura II-->
+	</spell>
+	<spell id="475"> <!--Cura III-->
+	</spell>
+	<spell id="476"> <!--Crusade-->
+	</spell>
+	<spell id="477"> <!--Regen IV-->
+	</spell>
+	<spell id="478"> <!--Embrava-->
+	</spell>
+	<spell id="479"> <!--Boost-STR-->
+	</spell>
+	<spell id="480"> <!--Boost-DEX-->
+	</spell>
+	<spell id="481"> <!--Boost-VIT-->
+	</spell>
+	<spell id="482"> <!--Boost-AGI-->
+	</spell>
+	<spell id="483"> <!--Boost-INT-->
+	</spell>
+	<spell id="484"> <!--Boost-MND-->
+	</spell>
+	<spell id="485"> <!--Boost-CHR-->
+	</spell>
+	<spell id="486"> <!--Gain-STR-->
+	</spell>
+	<spell id="487"> <!--Gain-DEX-->
+	</spell>
+	<spell id="488"> <!--Gain-VIT-->
+	</spell>
+	<spell id="489"> <!--Gain-AGI-->
+	</spell>
+	<spell id="490"> <!--Gain-INT-->
+	</spell>
+	<spell id="491"> <!--Gain-MND-->
+	</spell>
+	<spell id="492"> <!--Gain-CHR-->
+	</spell>
+	<spell id="493"> <!--Temper-->
+	</spell>
+	<spell id="494"> <!--Arise-->
+	</spell>
+	<spell id="495"> <!--Adloquium-->
+	</spell>
+	<spell id="496"> <!--Firaja-->
+	</spell>
+	<spell id="497"> <!--Blizzaja-->
+	</spell>
+	<spell id="498"> <!--Aeroja-->
+	</spell>
+	<spell id="499"> <!--Stoneja-->
+	</spell>
+	<spell id="500"> <!--Thundaja-->
+	</spell>
+	<spell id="501"> <!--Waterja-->
+	</spell>
+	<spell id="502"> <!--Kaustra-->
+	</spell>
+	<spell id="503"> <!--Impact-->
+	</spell>
+	<spell id="504"> <!--Regen V-->
+	</spell>
+	<spell id="505"> <!--Gekka: Ichi-->
+	</spell>
+	<spell id="506"> <!--Yain: Ichi-->
+	</spell>
+	<spell id="507"> <!--Myoshu: Ichi-->
+	</spell>
+	<spell id="508"> <!--Yurin: Ichi-->
+	</spell>
+	<spell id="509"> <!--Kakka: Ichi-->
+	</spell>
+	<spell id="510"> <!--Migawari: Ichi-->
+	</spell>
+	<spell id="511"> <!--(magic 511)-->
+	</spell>
+	<spell id="512"> <!--dummy-->
+	</spell>
+	<spell id="513"> <!--Venom Shell-->
+	</spell>
+	<spell id="515"> <!--Maelstrom-->
+	</spell>
+	<spell id="517"> <!--Metallic Body-->
+	</spell>
+	<spell id="519"> <!--Screwdriver-->
+	</spell>
+	<spell id="521"> <!--MP Drainkiss-->
+	</spell>
+	<spell id="522"> <!--Death Ray-->
+	</spell>
+	<spell id="524"> <!--Sandspin-->
+	</spell>
+	<spell id="527"> <!--Smite of Rage-->
+	</spell>
+	<spell id="529"> <!--Bludgeon-->
+	</spell>
+	<spell id="530"> <!--Refueling-->
+	</spell>
+	<spell id="531"> <!--Ice Break-->
+	</spell>
+	<spell id="532"> <!--Blitzstrahl-->
+	</spell>
+	<spell id="533"> <!--Self-Destruct-->
+	</spell>
+	<spell id="534"> <!--Mysterious Light-->
+	</spell>
+	<spell id="535"> <!--Cold Wave-->
+	</spell>
+	<spell id="536"> <!--Poison Breath-->
+	</spell>
+	<spell id="537"> <!--Stinking Gas-->
+	</spell>
+	<spell id="538"> <!--Memento Mori-->
+	</spell>
+	<spell id="539"> <!--Terror Touch-->
+	</spell>
+	<spell id="540"> <!--Spinal Cleave-->
+	</spell>
+	<spell id="541"> <!--Blood Saber-->
+	</spell>
+	<spell id="542"> <!--Digest-->
+	</spell>
+	<spell id="543"> <!--Mandibular Bite-->
+	</spell>
+	<spell id="544"> <!--Cursed Sphere-->
+	</spell>
+	<spell id="545"> <!--Sickle Slash-->
+	</spell>
+	<spell id="547"> <!--Cocoon-->
+	</spell>
+	<spell id="548"> <!--Filamented Hold-->
+	</spell>
+	<spell id="549"> <!--Pollen-->
+	</spell>
+	<spell id="551"> <!--Power Attack-->
+	</spell>
+	<spell id="554"> <!--Death Scissors-->
+	</spell>
+	<spell id="555"> <!--Magnetite Cloud-->
+	</spell>
+	<spell id="557"> <!--Eyes On Me-->
+	</spell>
+	<spell id="560"> <!--Frenetic Rip-->
+	</spell>
+	<spell id="561"> <!--Frightful Roar-->
+	</spell>
+	<spell id="563"> <!--Hecatomb Wave-->
+	</spell>
+	<spell id="564"> <!--Body Slam-->
+	</spell>
+	<spell id="565"> <!--Radiant Breath-->
+	</spell>
+	<spell id="567"> <!--Helldive-->
+	</spell>
+	<spell id="569"> <!--Jet Stream-->
+	</spell>
+	<spell id="570"> <!--Blood Drain-->
+	</spell>
+	<spell id="572"> <!--Sound Blast-->
+	</spell>
+	<spell id="573"> <!--Feather Tickle-->
+	</spell>
+	<spell id="574"> <!--Feather Barrier-->
+	</spell>
+	<spell id="575"> <!--Jettatura-->
+	</spell>
+	<spell id="576"> <!--Yawn-->
+	</spell>
+	<spell id="577"> <!--Foot Kick-->
+	</spell>
+	<spell id="578"> <!--Wild Carrot-->
+	</spell>
+	<spell id="579"> <!--Voracious Trunk-->
+	</spell>
+	<spell id="581"> <!--Healing Breeze-->
+	</spell>
+	<spell id="582"> <!--Chaotic Eye-->
+	</spell>
+	<spell id="584"> <!--Sheep Song-->
+	</spell>
+	<spell id="585"> <!--Ram Charge-->
+	</spell>
+	<spell id="587"> <!--Claw Cyclone-->
+	</spell>
+	<spell id="588"> <!--Lowing-->
+	</spell>
+	<spell id="589"> <!--Dimensional Death-->
+	</spell>
+	<spell id="591"> <!--Heat Breath-->
+	</spell>
+	<spell id="592"> <!--Blank Gaze-->
+	</spell>
+	<spell id="593"> <!--Magic Fruit-->
+	</spell>
+	<spell id="594"> <!--Uppercut-->
+	</spell>
+	<spell id="595"> <!--1000 Needles-->
+	</spell>
+	<spell id="596"> <!--Pinecone Bomb-->
+	</spell>
+	<spell id="597"> <!--Sprout Smack-->
+	</spell>
+	<spell id="598"> <!--Soporific-->
+	</spell>
+	<spell id="599"> <!--Queasyshroom-->
+	</spell>
+	<spell id="603"> <!--Wild Oats-->
+	</spell>
+	<spell id="604"> <!--Bad Breath-->
+	</spell>
+	<spell id="605"> <!--Geist Wall-->
+	</spell>
+	<spell id="606"> <!--Awful Eye-->
+	</spell>
+	<spell id="608"> <!--Frost Breath-->
+	</spell>
+	<spell id="610"> <!--Infrasonics-->
+	</spell>
+	<spell id="611"> <!--Disseverment-->
+	</spell>
+	<spell id="612"> <!--Actinic Burst-->
+	</spell>
+	<spell id="613"> <!--Reactor Cool-->
+	</spell>
+	<spell id="614"> <!--Saline Coat-->
+	</spell>
+	<spell id="615"> <!--Plasma Charge-->
+	</spell>
+	<spell id="616"> <!--Temporal Shift-->
+	</spell>
+	<spell id="617"> <!--Vertical Cleave-->
+	</spell>
+	<spell id="618"> <!--Blastbomb-->
+	</spell>
+	<spell id="620"> <!--Battle Dance-->
+	</spell>
+	<spell id="621"> <!--Sandspray-->
+	</spell>
+	<spell id="622"> <!--Grand Slam-->
+	</spell>
+	<spell id="623"> <!--Head Butt-->
+	</spell>
+	<spell id="626"> <!--Bomb Toss-->
+	</spell>
+	<spell id="628"> <!--Frypan-->
+	</spell>
+	<spell id="629"> <!--Flying Hip Press-->
+	</spell>
+	<spell id="631"> <!--Hydro Shot-->
+	</spell>
+	<spell id="632"> <!--Diamondhide-->
+	</spell>
+	<spell id="633"> <!--Enervation-->
+	</spell>
+	<spell id="634"> <!--Light of Penance-->
+	</spell>
+	<spell id="636"> <!--Warm-Up-->
+	</spell>
+	<spell id="637"> <!--Firespit-->
+	</spell>
+	<spell id="638"> <!--Feather Storm-->
+	</spell>
+	<spell id="640"> <!--Tail Slap-->
+	</spell>
+	<spell id="641"> <!--Hysteric Barrage-->
+	</spell>
+	<spell id="642"> <!--Amplification-->
+	</spell>
+	<spell id="643"> <!--Cannonball-->
+	</spell>
+	<spell id="644"> <!--Mind Blast-->
+	</spell>
+	<spell id="645"> <!--Exuviation-->
+	</spell>
+	<spell id="646"> <!--Magic Hammer-->
+	</spell>
+	<spell id="647"> <!--Zephyr Mantle-->
+	</spell>
+	<spell id="648"> <!--Regurgitation-->
+	</spell>
+	<spell id="649"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="650"> <!--Seedspray-->
+	</spell>
+	<spell id="651"> <!--Corrosive Ooze-->
+	</spell>
+	<spell id="652"> <!--Spiral Spin-->
+	</spell>
+	<spell id="653"> <!--Asuran Claws-->
+	</spell>
+	<spell id="654"> <!--Sub-zero Smash-->
+	</spell>
+	<spell id="655"> <!--Triumphant Roar-->
+	</spell>
+	<spell id="656"> <!--Acrid Stream-->
+	</spell>
+	<spell id="657"> <!--Blazing Bound-->
+	</spell>
+	<spell id="658"> <!--Plenilune Embrace-->
+	</spell>
+	<spell id="659"> <!--Demoralizing Roar-->
+	</spell>
+	<spell id="660"> <!--Cimicine Discharge-->
+	</spell>
+	<spell id="661"> <!--Animating Wail-->
+	</spell>
+	<spell id="662"> <!--Battery Charge-->
+	</spell>
+	<spell id="663"> <!--Leafstorm-->
+	</spell>
+	<spell id="664"> <!--Regeneration-->
+	</spell>
+	<spell id="665"> <!--Final Sting-->
+	</spell>
+	<spell id="666"> <!--Goblin Rush-->
+	</spell>
+	<spell id="667"> <!--Vanity Dive-->
+	</spell>
+	<spell id="668"> <!--Magic Barrier-->
+	</spell>
+	<spell id="669"> <!--Whirl of Rage-->
+	</spell>
+	<spell id="670"> <!--Benthic Typhoon-->
+	</spell>
+	<spell id="671"> <!--Auroral Drape-->
+	</spell>
+	<spell id="672"> <!--Osmosis-->
+	</spell>
+	<spell id="673"> <!--Quad. Continuum-->
+	</spell>
+	<spell id="674"> <!--Fantod-->
+	</spell>
+	<spell id="675"> <!--Thermal Pulse-->
+	</spell>
+	<spell id="676"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="677"> <!--Empty Thrash-->
+	</spell>
+	<spell id="678"> <!--Dream Flower-->
+	</spell>
+	<spell id="679"> <!--Occultation-->
+	</spell>
+	<spell id="680"> <!--Charged Whisker-->
+	</spell>
+	<spell id="681"> <!--Winds of Promy.-->
+	</spell>
+	<spell id="682"> <!--Delta Thrust-->
+	</spell>
+	<spell id="683"> <!--Evryone. Grudge-->
+	</spell>
+	<spell id="684"> <!--Reaving Wind-->
+	</spell>
+	<spell id="685"> <!--Barrier Tusk-->
+	</spell>
+	<spell id="686"> <!--Mortal Ray-->
+	</spell>
+	<spell id="687"> <!--Water Bomb-->
+	</spell>
+	<spell id="688"> <!--Heavy Strike-->
+	</spell>
+	<spell id="689"> <!--Dark Orb-->
+	</spell>
+	<spell id="690"> <!--White Wind-->
+	</spell>
+	<spell id="691"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="692"> <!--Sudden Lunge-->
+	</spell>
+	<spell id="693"> <!--Quadrastrike-->
+	</spell>
+	<spell id="694"> <!--Vapor Spray-->
+	</spell>
+	<spell id="695"> <!--Thunder Breath-->
+	</spell>
+	<spell id="696"> <!--O. Counterstance-->
+	</spell>
+	<spell id="697"> <!--Amorphic Spikes-->
+	</spell>
+	<spell id="698"> <!--Wind Breath-->
+	</spell>
+	<spell id="699"> <!--Barbed Crescent-->
+	</spell>
+	<spell id="700"> <!--Nat. Meditation-->
+	</spell>
+	<spell id="701"> <!--Tem. Upheaval-->
+	</spell>
+	<spell id="702"> <!--Rending Deluge-->
+	</spell>
+	<spell id="703"> <!--Embalming Earth-->
+	</spell>
+	<spell id="704"> <!--Paralyzing Triad-->
+	</spell>
+	<spell id="705"> <!--Foul Waters-->
+	</spell>
+	<spell id="706"> <!--Glutinous Dart-->
+	</spell>
+	<spell id="707"> <!--Retinal Glare-->
+	</spell>
+	<spell id="708"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="709"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="710"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="711"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="712"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="713"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="714"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="715"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="716"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="717"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="718"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="719"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="720"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="721"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="722"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="723"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="724"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="725"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="726"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="727"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="728"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="729"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="730"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="731"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="732"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="733"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="734"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="735"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="736"> <!--Thunderbolt-->
+	</spell>
+	<spell id="737"> <!--Harden Shell-->
+	</spell>
+	<spell id="738"> <!--Absolute Terror-->
+	</spell>
+	<spell id="739"> <!--Gates of Hades-->
+	</spell>
+	<spell id="740"> <!--Tourbillion-->
+	</spell>
+	<spell id="741"> <!--Pyric Bulwark-->
+	</spell>
+	<spell id="742"> <!--Bilgestorm-->
+	</spell>
+	<spell id="743"> <!--Bloodrake-->
+	</spell>
+	<spell id="744"> <!--Droning Whirlwind-->
+	</spell>
+	<spell id="745"> <!--Carcharian Verve-->
+	</spell>
+	<spell id="746"> <!--Blistering Roar-->
+	</spell>
+	<spell id="747"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="748"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="749"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="750"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="751"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="752"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="753"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="754"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="755"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="756"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="757"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="758"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="759"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="760"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="761"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="762"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="763"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="764"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="765"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="766"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="767"> <!--jet-stream-attack-->
+	</spell>
+	<spell id="768"> <!--Indi-Regen-->
+	</spell>
+	<spell id="769"> <!--Indi-Poison-->
+	</spell>
+	<spell id="770"> <!--Indi-Refresh-->
+	</spell>
+	<spell id="771"> <!--magic(771)-->
+	</spell>
+	<spell id="772"> <!--Indi-STR-->
+	</spell>
+	<spell id="773"> <!--Indi-DEX-->
+	</spell>
+	<spell id="774"> <!--Indi-VIT-->
+	</spell>
+	<spell id="775"> <!--Indi-AGI-->
+	</spell>
+	<spell id="776"> <!--Indi-INT-->
+	</spell>
+	<spell id="777"> <!--Indi-MND-->
+	</spell>
+	<spell id="778"> <!--Indi-CHR-->
+	</spell>
+	<spell id="779"> <!--Indi-Fury-->
+	</spell>
+	<spell id="780"> <!--Indi-Barrier-->
+	</spell>
+	<spell id="781"> <!--Indi-Acumen-->
+	</spell>
+	<spell id="782"> <!--Indi-Fend-->
+	</spell>
+	<spell id="783"> <!--Indi-Precision-->
+	</spell>
+	<spell id="784"> <!--Indi-Voidance-->
+	</spell>
+	<spell id="785"> <!--Indi-Focus-->
+	</spell>
+	<spell id="786"> <!--Indi-Attunement-->
+	</spell>
+	<spell id="787"> <!--Indi-Wilt-->
+	</spell>
+	<spell id="788"> <!--Indi-Frailty-->
+	</spell>
+	<spell id="789"> <!--Indi-Fade-->
+	</spell>
+	<spell id="790"> <!--Indi-Malaise-->
+	</spell>
+	<spell id="791"> <!--Indi-Slip-->
+	</spell>
+	<spell id="792"> <!--Indi-Torpor-->
+	</spell>
+	<spell id="793"> <!--Indi-Vex-->
+	</spell>
+	<spell id="794"> <!--Indi-Languor-->
+	</spell>
+	<spell id="795"> <!--Indi-Slow-->
+	</spell>
+	<spell id="796"> <!--Indi-Paralysis-->
+	</spell>
+	<spell id="797"> <!--Indi-Gravity-->
+	</spell>
+	<spell id="798"> <!--Geo-Regen-->
+	</spell>
+	<spell id="799"> <!--Geo-Poison-->
+	</spell>
+	<spell id="800"> <!--Geo-Refresh-->
+	</spell>
+	<spell id="801"> <!--magic(801)-->
+	</spell>
+	<spell id="802"> <!--Geo-STR-->
+	</spell>
+	<spell id="803"> <!--Geo-DEX-->
+	</spell>
+	<spell id="804"> <!--Geo-VIT-->
+	</spell>
+	<spell id="805"> <!--Geo-AGI-->
+	</spell>
+	<spell id="806"> <!--Geo-INT-->
+	</spell>
+	<spell id="807"> <!--Geo-MND-->
+	</spell>
+	<spell id="808"> <!--Geo-CHR-->
+	</spell>
+	<spell id="809"> <!--Geo-Fury-->
+	</spell>
+	<spell id="810"> <!--Geo-Barrier-->
+	</spell>
+	<spell id="811"> <!--Geo-Acumen-->
+	</spell>
+	<spell id="812"> <!--Geo-Fend-->
+	</spell>
+	<spell id="813"> <!--Geo-Precision-->
+	</spell>
+	<spell id="814"> <!--Geo-Voidance-->
+	</spell>
+	<spell id="815"> <!--Geo-Focus-->
+	</spell>
+	<spell id="816"> <!--Geo-Attunement-->
+	</spell>
+	<spell id="817"> <!--Geo-Wilt-->
+	</spell>
+	<spell id="818"> <!--Geo-Frailty-->
+	</spell>
+	<spell id="819"> <!--Geo-Fade-->
+	</spell>
+	<spell id="820"> <!--Geo-Malaise-->
+	</spell>
+	<spell id="821"> <!--Geo-Slip-->
+	</spell>
+	<spell id="822"> <!--Geo-Torpor-->
+	</spell>
+	<spell id="823"> <!--Geo-Vex-->
+	</spell>
+	<spell id="824"> <!--Geo-Languor-->
+	</spell>
+	<spell id="825"> <!--Geo-Slow-->
+	</spell>
+	<spell id="826"> <!--Geo-Paralysis-->
+	</spell>
+	<spell id="827"> <!--Geo-Gravity-->
+	</spell>
+	<spell id="828"> <!--Fira-->
+	</spell>
+	<spell id="829"> <!--Fira II-->
+	</spell>
+	<spell id="830"> <!--Blizzara-->
+	</spell>
+	<spell id="831"> <!--Blizzara II-->
+	</spell>
+	<spell id="832"> <!--Aerora-->
+	</spell>
+	<spell id="833"> <!--Aerora II-->
+	</spell>
+	<spell id="834"> <!--Stonera-->
+	</spell>
+	<spell id="835"> <!--Stonera II-->
+	</spell>
+	<spell id="836"> <!--Thundara-->
+	</spell>
+	<spell id="837"> <!--Thundara II-->
+	</spell>
+	<spell id="838"> <!--Watera-->
+	</spell>
+	<spell id="839"> <!--Watera II-->
+	</spell>
+	<spell id="840"> <!--Foil-->
+	</spell>
+	<spell id="845"> <!--magic(845)-->
+	</spell>
+	<spell id="846"> <!--magic(846)-->
+	</spell>
+	<spell id="847"> <!--magic(847)-->
+	</spell>
+	<spell id="848"> <!--magic(848)-->
+	</spell>
+	<spell id="849"> <!--magic(849)-->
+	</spell>
+	<spell id="850"> <!--magic(850)-->
+	</spell>
+	<spell id="851"> <!--magic(851)-->
+	</spell>
+	<spell id="852"> <!--magic(852)-->
+	</spell>
+	<spell id="853"> <!--magic(853)-->
+	</spell>
+	<spell id="854"> <!--magic(854)-->
+	</spell>
+	<spell id="855"> <!--magic(855)-->
+	</spell>
+	<spell id="856"> <!--magic(856)-->
+	</spell>
+	<spell id="857"> <!--magic(857)-->
+	</spell>
+	<spell id="858"> <!--magic(858)-->
+	</spell>
+	<spell id="859"> <!--magic(859)-->
+	</spell>
+	<spell id="860"> <!--magic(860)-->
+	</spell>
+	<spell id="861"> <!--magic(861)-->
+	</spell>
+	<spell id="862"> <!--magic(862)-->
+	</spell>
+	<spell id="863"> <!--magic(863)-->
+	</spell>
+	<spell id="864"> <!--magic(864)-->
+	</spell>
+	<spell id="865"> <!--magic(865)-->
+	</spell>
+	<spell id="866"> <!--magic(866)-->
+	</spell>
+	<spell id="867"> <!--magic(867)-->
+	</spell>
+	<spell id="868"> <!--magic(868)-->
+	</spell>
+	<spell id="869"> <!--magic(869)-->
+	</spell>
+	<spell id="870"> <!--magic(870)-->
+	</spell>
+	<spell id="871"> <!--magic(871)-->
+	</spell>
+	<spell id="872"> <!--magic(872)-->
+	</spell>
+	<spell id="873"> <!--magic(873)-->
+	</spell>
+	<spell id="874"> <!--magic(874)-->
+	</spell>
+	<spell id="875"> <!--magic(875)-->
+	</spell>
+	<spell id="876"> <!--magic(876)-->
+	</spell>
+	<spell id="877"> <!--magic(877)-->
+	</spell>
+	<spell id="878"> <!--magic(878)-->
+	</spell>
+	<spell id="879"> <!--magic(879)-->
+	</spell>
+	<spell id="880"> <!--magic(880)-->
+	</spell>
+	<spell id="881"> <!--magic(881)-->
+	</spell>
+	<spell id="882"> <!--magic(882)-->
+	</spell>
+	<spell id="883"> <!--magic(883)-->
+	</spell>
+	<spell id="884"> <!--magic(884)-->
+	</spell>
+	<spell id="885"> <!--magic(885)-->
+	</spell>
+	<spell id="886"> <!--magic(886)-->
+	</spell>
+	<spell id="887"> <!--magic(887)-->
+	</spell>
+	<spell id="888"> <!--magic(888)-->
+	</spell>
+	<spell id="889"> <!--magic(889)-->
+	</spell>
+	<spell id="890"> <!--magic(890)-->
+	</spell>
+	<spell id="891"> <!--magic(891)-->
+	</spell>
+	<spell id="892"> <!--magic(892)-->
+	</spell>
+	<spell id="893"> <!--magic(893)-->
+	</spell>
+	<spell id="894"> <!--magic(894)-->
+	</spell>
+	<spell id="895"> <!--magic(895)-->
+	</spell>
+	<spell id="896"> <!--Shantotto-->
+	</spell>
+	<spell id="897"> <!--Naji-->
+	</spell>
+	<spell id="898"> <!--Kupipi-->
+	</spell>
+	<spell id="899"> <!--Excenmille-->
+	</spell>
+	<spell id="900"> <!--Ayame-->
+	</spell>
+	<spell id="901"> <!--Nanaa Mihgo-->
+	</spell>
+	<spell id="902"> <!--Curilla-->
+	</spell>
+	<spell id="903"> <!--Volker-->
+	</spell>
+	<spell id="904"> <!--Ajido-Marujido-->
+	</spell>
+	<spell id="905"> <!--Trion-->
+	</spell>
+	<spell id="906"> <!--Zeid-->
+	</spell>
+	<spell id="907"> <!--Lion-->
+	</spell>
+	<spell id="908"> <!--Tenzen-->
+	</spell>
+	<spell id="909"> <!--Mihli Aliapoh-->
+	</spell>
+	<spell id="910"> <!--Valaineral-->
+	</spell>
+	<spell id="911"> <!--Joachim-->
+	</spell>
+	<spell id="912"> <!--Naja Salaheem-->
+	</spell>
+	<spell id="913"> <!--Prishe-->
+	</spell>
+	<spell id="914"> <!--Ulmia-->
+	</spell>
+	<spell id="916"> <!--Cherukiki-->
+	</spell>
+	<spell id="917"> <!--Iron Eater-->
+	</spell>
+	<spell id="918"> <!--Gessho-->
+	</spell>
+	<spell id="919"> <!--Gadalar-->
+	</spell>
+	<spell id="921"> <!--Ingrid-->
+	</spell>
+	<spell id="922"> <!--Lehko Habhoka-->
+	</spell>
+	<spell id="923"> <!--Nashmeira-->
+	</spell>
+	<spell id="924"> <!--Zazarg-->
+	</spell>
+	<spell id="925"> <!--Ovjang-->
+	</spell>
+	<spell id="926"> <!--Mnejing-->
+	</spell>
+	<spell id="927"> <!--Sakura-->
+	</spell>
+	<spell id="928"> <!--Luzaf-->
+	</spell>
+	<spell id="929"> <!--Najelith-->
+	</spell>
+	<spell id="930"> <!--Aldo-->
+	</spell>
+	<spell id="931"> <!--Moogle-->
+	</spell>
+	<spell id="932"> <!--Fablinix-->
+	</spell>
+	<spell id="933"> <!--Maat-->
+	</spell>
+	<spell id="934"> <!--D. Shantotto-->
+	</spell>
+	<spell id="935"> <!--magic(935)-->
+	</spell>
+	<spell id="936"> <!--magic(936)-->
+	</spell>
+	<spell id="937"> <!--magic(937)-->
+	</spell>
+	<spell id="938"> <!--magic(938)-->
+	</spell>
+	<spell id="939"> <!--magic(939)-->
+	</spell>
+	<spell id="940"> <!--magic(940)-->
+	</spell>
+	<spell id="941"> <!--Elivira-->
+	</spell>
+	<spell id="942"> <!--Noillurie-->
+	</spell>
+	<spell id="943"> <!--Lhu Mhakaracca-->
+	</spell>
+	<spell id="944"> <!--Ferreous Coffin-->
+	</spell>
+	<spell id="945"> <!--magic(945)-->
+	</spell>
+	<spell id="946"> <!--magic(946)-->
+	</spell>
+	<spell id="947"> <!--magic(947)-->
+	</spell>
+	<spell id="948"> <!--magic(948)-->
+	</spell>
+	<spell id="949"> <!--magic(949)-->
+	</spell>
+	<spell id="950"> <!--magic(950)-->
+	</spell>
+	<spell id="951"> <!--magic(951)-->
+	</spell>
+	<spell id="952"> <!--magic(952)-->
+	</spell>
+	<spell id="953"> <!--magic(953)-->
+	</spell>
+	<spell id="954"> <!--magic(954)-->
+	</spell>
+	<spell id="955"> <!--magic(955)-->
+	</spell>
+	<spell id="956"> <!--magic(956)-->
+	</spell>
+	<spell id="957"> <!--magic(957)-->
+	</spell>
+	<spell id="958"> <!--magic(958)-->
+	</spell>
+	<spell id="959"> <!--magic(959)-->
+	</spell>
+	<spell id="960"> <!--magic(960)-->
+	</spell>
+	<spell id="961"> <!--magic(961)-->
+	</spell>
+	<spell id="962"> <!--magic(962)-->
+	</spell>
+	<spell id="963"> <!--magic(963)-->
+	</spell>
+	<spell id="964"> <!--magic(964)-->
+	</spell>
+	<spell id="965"> <!--magic(965)-->
+	</spell>
+	<spell id="966"> <!--magic(966)-->
+	</spell>
+	<spell id="967"> <!--magic(967)-->
+	</spell>
+	<spell id="968"> <!--magic(968)-->
+	</spell>
+	<spell id="969"> <!--magic(969)-->
+	</spell>
+	<spell id="970"> <!--magic(970)-->
+	</spell>
+	<spell id="971"> <!--magic(971)-->
+	</spell>
+	<spell id="972"> <!--magic(972)-->
+	</spell>
+	<spell id="973"> <!--magic(973)-->
+	</spell>
+	<spell id="974"> <!--magic(974)-->
+	</spell>
+	<spell id="975"> <!--magic(975)-->
+	</spell>
+	<spell id="976"> <!--magic(976)-->
+	</spell>
+	<spell id="977"> <!--magic(977)-->
+	</spell>
+	<spell id="978"> <!--magic(978)-->
+	</spell>
+	<spell id="979"> <!--magic(979)-->
+	</spell>
+	<spell id="980"> <!--magic(980)-->
+	</spell>
+	<spell id="981"> <!--magic(981)-->
+	</spell>
+	<spell id="982"> <!--magic(982)-->
+	</spell>
+	<spell id="983"> <!--magic(983)-->
+	</spell>
+	<spell id="984"> <!--magic(984)-->
+	</spell>
+	<spell id="985"> <!--magic(985)-->
+	</spell>
+	<spell id="986"> <!--magic(986)-->
+	</spell>
+	<spell id="987"> <!--magic(987)-->
+	</spell>
+	<spell id="988"> <!--magic(988)-->
+	</spell>
+	<spell id="989"> <!--magic(989)-->
+	</spell>
+	<spell id="990"> <!--magic(990)-->
+	</spell>
+	<spell id="991"> <!--magic(991)-->
+	</spell>
+	<spell id="992"> <!--magic(992)-->
+	</spell>
+	<spell id="993"> <!--magic(993)-->
+	</spell>
+	<spell id="994"> <!--magic(994)-->
+	</spell>
+	<spell id="995"> <!--magic(995)-->
+	</spell>
+	<spell id="996"> <!--magic(996)-->
+	</spell>
+	<spell id="997"> <!--magic(997)-->
+	</spell>
+	<spell id="998"> <!--magic(998)-->
+	</spell>
+	<spell id="999"> <!--magic(999)-->
+	</spell>
+	<spell id="1000"> <!--magic(1000)-->
+	</spell>
+	<spell id="1001"> <!--magic(1001)-->
+	</spell>
+	<spell id="1002"> <!--magic(1002)-->
+	</spell>
+	<spell id="1003"> <!--magic(1003)-->
+	</spell>
+	<spell id="1004"> <!--magic(1004)-->
+	</spell>
+	<spell id="1005"> <!--magic(1005)-->
+	</spell>
+	<spell id="1006"> <!--magic(1006)-->
+	</spell>
+	<spell id="1007"> <!--magic(1007)-->
+	</spell>
+	<spell id="1008"> <!--magic(1008)-->
+	</spell>
+	<spell id="1009"> <!--magic(1009)-->
+	</spell>
+	<spell id="1010"> <!--magic(1010)-->
+	</spell>
+	<spell id="1011"> <!--magic(1011)-->
+	</spell>
+	<spell id="1012"> <!--magic(1012)-->
+	</spell>
+	<spell id="1013"> <!--magic(1013)-->
+	</spell>
+	<spell id="1014"> <!--magic(1014)-->
+	</spell>
+	<spell id="1015"> <!--magic(1015)-->
+	</spell>
+	<spell id="1016"> <!--magic(1016)-->
+	</spell>
+	<spell id="1017"> <!--magic(1017)-->
+	</spell>
+	<spell id="1018"> <!--magic(1018)-->
+	</spell>
+	<spell id="1019"> <!--magic(1019)-->
+	</spell>
+	<spell id="1020"> <!--magic(1020)-->
+	</spell>
+	<spell id="1021"> <!--magic(1021)-->
+	</spell>
+	<spell id="1022"> <!--magic(1022)-->
+	</spell>
+	<spell id="1023"> <!--magic(1023)-->
+	</spell>
+
+	<weaponskill id="1"> <!--Combo-->
+	</weaponskill>
+	<weaponskill id="2"> <!--Shoulder Tackle-->
+	</weaponskill>
+	<weaponskill id="3"> <!--One Inch Punch-->
+	</weaponskill>
+	<weaponskill id="4"> <!--Backhand Blow-->
+	</weaponskill>
+	<weaponskill id="5"> <!--Raging Fists-->
+	</weaponskill>
+	<weaponskill id="6"> <!--Spinning Attack-->
+	</weaponskill>
+	<weaponskill id="7"> <!--Howling Fist-->
+	</weaponskill>
+	<weaponskill id="8"> <!--Dragon Kick-->
+	</weaponskill>
+	<weaponskill id="9"> <!--Asuran Fists-->
+	</weaponskill>
+	<weaponskill id="10"> <!--Final Heaven-->
+	</weaponskill>
+	<weaponskill id="11"> <!--Ascetic's Fury-->
+	</weaponskill>
+	<weaponskill id="12"> <!--Stringing Pummel-->
+	</weaponskill>
+	<weaponskill id="13"> <!--Tornado Kick-->
+	</weaponskill>
+	<weaponskill id="14"> <!--Victory Smite-->
+	</weaponskill>
+	<weaponskill id="15"> <!--Shijin Spiral-->
+	</weaponskill>
+	<weaponskill id="16"> <!--Wasp Sting-->
+	</weaponskill>
+	<weaponskill id="17"> <!--Viper Bite-->
+	</weaponskill>
+	<weaponskill id="18"> <!--Shadowstitch-->
+	</weaponskill>
+	<weaponskill id="19"> <!--Gust Slash-->
+	</weaponskill>
+	<weaponskill id="20"> <!--Cyclone-->
+	</weaponskill>
+	<weaponskill id="21"> <!--Energy Steal-->
+	</weaponskill>
+	<weaponskill id="22"> <!--Energy Drain-->
+	</weaponskill>
+	<weaponskill id="23"> <!--Dancing Edge-->
+	</weaponskill>
+	<weaponskill id="24"> <!--Shark Bite-->
+	</weaponskill>
+	<weaponskill id="25"> <!--Evisceration-->
+	</weaponskill>
+	<weaponskill id="26"> <!--Mercy Stroke-->
+	</weaponskill>
+	<weaponskill id="27"> <!--Mandalic Stab-->
+	</weaponskill>
+	<weaponskill id="28"> <!--Mordant Rime-->
+	</weaponskill>
+	<weaponskill id="29"> <!--Pyrrhic Kleos-->
+	</weaponskill>
+	<weaponskill id="30"> <!--Aeolian Edge-->
+	</weaponskill>
+	<weaponskill id="31"> <!--Rudra's Storm-->
+	</weaponskill>
+	<weaponskill id="32"> <!--Fast Blade-->
+	</weaponskill>
+	<weaponskill id="33"> <!--Burning Blade-->
+	</weaponskill>
+	<weaponskill id="34"> <!--Red Lotus Blade-->
+	</weaponskill>
+	<weaponskill id="35"> <!--Flat Blade-->
+	</weaponskill>
+	<weaponskill id="36"> <!--Shining Blade-->
+	</weaponskill>
+	<weaponskill id="37"> <!--Seraph Blade-->
+	</weaponskill>
+	<weaponskill id="38"> <!--Circle Blade-->
+	</weaponskill>
+	<weaponskill id="39"> <!--Spirits Within-->
+	</weaponskill>
+	<weaponskill id="40"> <!--Vorpal Blade-->
+	</weaponskill>
+	<weaponskill id="41"> <!--Swift Blade-->
+	</weaponskill>
+	<weaponskill id="42"> <!--Savage Blade-->
+	</weaponskill>
+	<weaponskill id="43"> <!--Knights of Round-->
+	</weaponskill>
+	<weaponskill id="44"> <!--Death Blossom-->
+	</weaponskill>
+	<weaponskill id="45"> <!--Atonement-->
+	</weaponskill>
+	<weaponskill id="46"> <!--Expiacion-->
+	</weaponskill>
+	<weaponskill id="47"> <!--Sanguine Blade-->
+	</weaponskill>
+	<weaponskill id="48"> <!--Hard Slash-->
+	</weaponskill>
+	<weaponskill id="49"> <!--Power Slash-->
+	</weaponskill>
+	<weaponskill id="50"> <!--Frostbite-->
+	</weaponskill>
+	<weaponskill id="51"> <!--Freezebite-->
+	</weaponskill>
+	<weaponskill id="52"> <!--Shockwave-->
+	</weaponskill>
+	<weaponskill id="53"> <!--Crescent Moon-->
+	</weaponskill>
+	<weaponskill id="54"> <!--Sickle Moon-->
+	</weaponskill>
+	<weaponskill id="55"> <!--Spinning Slash-->
+	</weaponskill>
+	<weaponskill id="56"> <!--Ground Strike-->
+	</weaponskill>
+	<weaponskill id="57"> <!--Scourge-->
+	</weaponskill>
+	<weaponskill id="58"> <!--Herculean Slash-->
+	</weaponskill>
+	<weaponskill id="59"> <!--Torcleaver-->
+	</weaponskill>
+	<weaponskill id="60"> <!--Resolution-->
+	</weaponskill>
+	<weaponskill id="61"> <!--Dimidiation-->
+	</weaponskill>
+	<weaponskill id="64"> <!--Raging Axe-->
+	</weaponskill>
+	<weaponskill id="65"> <!--Smash Axe-->
+	</weaponskill>
+	<weaponskill id="66"> <!--Gale Axe-->
+	</weaponskill>
+	<weaponskill id="67"> <!--Avalanche Axe-->
+	</weaponskill>
+	<weaponskill id="68"> <!--Spinning Axe-->
+	</weaponskill>
+	<weaponskill id="69"> <!--Rampage-->
+	</weaponskill>
+	<weaponskill id="70"> <!--Calamity-->
+	</weaponskill>
+	<weaponskill id="71"> <!--Mistral Axe-->
+	</weaponskill>
+	<weaponskill id="72"> <!--Decimation-->
+	</weaponskill>
+	<weaponskill id="73"> <!--Onslaught-->
+	</weaponskill>
+	<weaponskill id="74"> <!--Primal Rend-->
+	</weaponskill>
+	<weaponskill id="75"> <!--Bora Axe-->
+	</weaponskill>
+	<weaponskill id="76"> <!--Cloudsplitter-->
+	</weaponskill>
+	<weaponskill id="77"> <!--Ruinator-->
+	</weaponskill>
+	<weaponskill id="80"> <!--Shield Break-->
+	</weaponskill>
+	<weaponskill id="81"> <!--Iron Tempest-->
+	</weaponskill>
+	<weaponskill id="82"> <!--Sturmwind-->
+	</weaponskill>
+	<weaponskill id="83"> <!--Armor Break-->
+	</weaponskill>
+	<weaponskill id="84"> <!--Keen Edge-->
+	</weaponskill>
+	<weaponskill id="85"> <!--Weapon Break-->
+	</weaponskill>
+	<weaponskill id="86"> <!--Raging Rush-->
+	</weaponskill>
+	<weaponskill id="87"> <!--Full Break-->
+	</weaponskill>
+	<weaponskill id="88"> <!--Steel Cyclone-->
+	</weaponskill>
+	<weaponskill id="89"> <!--Metatron Torment-->
+	</weaponskill>
+	<weaponskill id="90"> <!--King's Justice-->
+	</weaponskill>
+	<weaponskill id="91"> <!--Fell Cleave-->
+	</weaponskill>
+	<weaponskill id="92"> <!--Ukko's Fury-->
+	</weaponskill>
+	<weaponskill id="93"> <!--Upheaval-->
+	</weaponskill>
+	<weaponskill id="96"> <!--Slice-->
+	</weaponskill>
+	<weaponskill id="97"> <!--Dark Harvest-->
+	</weaponskill>
+	<weaponskill id="98"> <!--Shadow of Death-->
+	</weaponskill>
+	<weaponskill id="99"> <!--Nightmare Scythe-->
+	</weaponskill>
+	<weaponskill id="100"> <!--Spinning Scythe-->
+	</weaponskill>
+	<weaponskill id="101"> <!--Vorpal Scythe-->
+	</weaponskill>
+	<weaponskill id="102"> <!--Guillotine-->
+	</weaponskill>
+	<weaponskill id="103"> <!--Cross Reaper-->
+	</weaponskill>
+	<weaponskill id="104"> <!--Spiral Hell-->
+	</weaponskill>
+	<weaponskill id="105"> <!--Catastrophe-->
+	</weaponskill>
+	<weaponskill id="106"> <!--Insurgency-->
+	</weaponskill>
+	<weaponskill id="107"> <!--Infernal Scythe-->
+	</weaponskill>
+	<weaponskill id="108"> <!--Quietus-->
+	</weaponskill>
+	<weaponskill id="109"> <!--Entropy-->
+	</weaponskill>
+	<weaponskill id="112"> <!--Double Thrust-->
+	</weaponskill>
+	<weaponskill id="113"> <!--Thunder Thrust-->
+	</weaponskill>
+	<weaponskill id="114"> <!--Raiden Thrust-->
+	</weaponskill>
+	<weaponskill id="115"> <!--Leg Sweep-->
+	</weaponskill>
+	<weaponskill id="116"> <!--Penta Thrust-->
+	</weaponskill>
+	<weaponskill id="117"> <!--Vorpal Thrust-->
+	</weaponskill>
+	<weaponskill id="118"> <!--Skewer-->
+	</weaponskill>
+	<weaponskill id="119"> <!--Wheeling Thrust-->
+	</weaponskill>
+	<weaponskill id="120"> <!--Impulse Drive-->
+	</weaponskill>
+	<weaponskill id="121"> <!--Geirskogul-->
+	</weaponskill>
+	<weaponskill id="122"> <!--Drakesbane-->
+	</weaponskill>
+	<weaponskill id="123"> <!--Sonic Thrust-->
+	</weaponskill>
+	<weaponskill id="124"> <!--Camlann's Torment-->
+	</weaponskill>
+	<weaponskill id="125"> <!--Stardiver-->
+	</weaponskill>
+	<weaponskill id="128"> <!--Blade: Rin-->
+	</weaponskill>
+	<weaponskill id="129"> <!--Blade: Retsu-->
+	</weaponskill>
+	<weaponskill id="130"> <!--Blade: Teki-->
+	</weaponskill>
+	<weaponskill id="131"> <!--Blade: To-->
+	</weaponskill>
+	<weaponskill id="132"> <!--Blade: Chi-->
+	</weaponskill>
+	<weaponskill id="133"> <!--Blade: Ei-->
+	</weaponskill>
+	<weaponskill id="134"> <!--Blade: Jin-->
+	</weaponskill>
+	<weaponskill id="135"> <!--Blade: Ten-->
+	</weaponskill>
+	<weaponskill id="136"> <!--Blade: Ku-->
+	</weaponskill>
+	<weaponskill id="137"> <!--Blade: Metsu-->
+	</weaponskill>
+	<weaponskill id="138"> <!--Blade: Kamu-->
+	</weaponskill>
+	<weaponskill id="139"> <!--Blade: Yu-->
+	</weaponskill>
+	<weaponskill id="140"> <!--Blade: Hi-->
+	</weaponskill>
+	<weaponskill id="141"> <!--Blade: Shun-->
+	</weaponskill>
+	<weaponskill id="144"> <!--Tachi: Enpi-->
+	</weaponskill>
+	<weaponskill id="145"> <!--Tachi: Hobaku-->
+	</weaponskill>
+	<weaponskill id="146"> <!--Tachi: Goten-->
+	</weaponskill>
+	<weaponskill id="147"> <!--Tachi: Kagero-->
+	</weaponskill>
+	<weaponskill id="148"> <!--Tachi: Jinpu-->
+	</weaponskill>
+	<weaponskill id="149"> <!--Tachi: Koki-->
+	</weaponskill>
+	<weaponskill id="150"> <!--Tachi: Yukikaze-->
+	</weaponskill>
+	<weaponskill id="151"> <!--Tachi: Gekko-->
+	</weaponskill>
+	<weaponskill id="152"> <!--Tachi: Kasha-->
+	</weaponskill>
+	<weaponskill id="153"> <!--Tachi: Kaiten-->
+	</weaponskill>
+	<weaponskill id="154"> <!--Tachi: Rana-->
+	</weaponskill>
+	<weaponskill id="155"> <!--Tachi: Ageha-->
+	</weaponskill>
+	<weaponskill id="156"> <!--Tachi: Fudo-->
+	</weaponskill>
+	<weaponskill id="157"> <!--Tachi: Shoha-->
+	</weaponskill>
+	<weaponskill id="160"> <!--Shining Strike-->
+	</weaponskill>
+	<weaponskill id="161"> <!--Seraph Strike-->
+	</weaponskill>
+	<weaponskill id="162"> <!--Brainshaker-->
+	</weaponskill>
+	<weaponskill id="163"> <!--Starlight-->
+	</weaponskill>
+	<weaponskill id="164"> <!--Moonlight-->
+	</weaponskill>
+	<weaponskill id="165"> <!--Skullbreaker-->
+	</weaponskill>
+	<weaponskill id="166"> <!--True Strike-->
+	</weaponskill>
+	<weaponskill id="167"> <!--Judgment-->
+	</weaponskill>
+	<weaponskill id="168"> <!--Hexa Strike-->
+	</weaponskill>
+	<weaponskill id="169"> <!--Black Halo-->
+	</weaponskill>
+	<weaponskill id="170"> <!--Randgrith-->
+	</weaponskill>
+	<weaponskill id="171"> <!--Mystic Boon-->
+	</weaponskill>
+	<weaponskill id="172"> <!--Flash Nova-->
+	</weaponskill>
+	<weaponskill id="173"> <!--Dagan-->
+	</weaponskill>
+	<weaponskill id="174"> <!--Realmrazer-->
+	</weaponskill>
+	<weaponskill id="175"> <!--Exudation-->
+	</weaponskill>
+	<weaponskill id="176"> <!--Heavy Swing-->
+	</weaponskill>
+	<weaponskill id="177"> <!--Rock Crusher-->
+	</weaponskill>
+	<weaponskill id="178"> <!--Earth Crusher-->
+	</weaponskill>
+	<weaponskill id="179"> <!--Starburst-->
+	</weaponskill>
+	<weaponskill id="180"> <!--Sunburst-->
+	</weaponskill>
+	<weaponskill id="181"> <!--Shell Crusher-->
+	</weaponskill>
+	<weaponskill id="182"> <!--Full Swing-->
+	</weaponskill>
+	<weaponskill id="183"> <!--Spirit Taker-->
+	</weaponskill>
+	<weaponskill id="184"> <!--Retribution-->
+	</weaponskill>
+	<weaponskill id="185"> <!--Gate of Tartarus-->
+	</weaponskill>
+	<weaponskill id="186"> <!--Vidohunir-->
+	</weaponskill>
+	<weaponskill id="187"> <!--Garland of Bliss-->
+	</weaponskill>
+	<weaponskill id="188"> <!--Omniscience-->
+	</weaponskill>
+	<weaponskill id="189"> <!--Cataclysm-->
+	</weaponskill>
+	<weaponskill id="190"> <!--Myrkr-->
+	</weaponskill>
+	<weaponskill id="191"> <!--Shattersoul-->
+	</weaponskill>
+	<weaponskill id="192"> <!--Flaming Arrow-->
+	</weaponskill>
+	<weaponskill id="193"> <!--Piercing Arrow-->
+	</weaponskill>
+	<weaponskill id="194"> <!--Dulling Arrow-->
+	</weaponskill>
+	<weaponskill id="196"> <!--Sidewinder-->
+	</weaponskill>
+	<weaponskill id="197"> <!--Blast Arrow-->
+	</weaponskill>
+	<weaponskill id="198"> <!--Arching Arrow-->
+	</weaponskill>
+	<weaponskill id="199"> <!--Empyreal Arrow-->
+	</weaponskill>
+	<weaponskill id="200"> <!--Namas Arrow-->
+	</weaponskill>
+	<weaponskill id="201"> <!--Refulgent Arrow-->
+	</weaponskill>
+	<weaponskill id="202"> <!--Jishnu's Radiance-->
+	</weaponskill>
+	<weaponskill id="203"> <!--Apex Arrow-->
+	</weaponskill>
+	<weaponskill id="208"> <!--Hot Shot-->
+	</weaponskill>
+	<weaponskill id="209"> <!--Split Shot-->
+	</weaponskill>
+	<weaponskill id="210"> <!--Sniper Shot-->
+	</weaponskill>
+	<weaponskill id="212"> <!--Slug Shot-->
+	</weaponskill>
+	<weaponskill id="213"> <!--Blast Shot-->
+	</weaponskill>
+	<weaponskill id="214"> <!--Heavy Shot-->
+	</weaponskill>
+	<weaponskill id="215"> <!--Detonator-->
+	</weaponskill>
+	<weaponskill id="216"> <!--Coronach-->
+	</weaponskill>
+	<weaponskill id="217"> <!--Trueflight-->
+	</weaponskill>
+	<weaponskill id="218"> <!--Leaden Salute-->
+	</weaponskill>
+	<weaponskill id="219"> <!--Numbing Shot-->
+	</weaponskill>
+	<weaponskill id="220"> <!--Wildfire-->
+	</weaponskill>
+	<weaponskill id="221"> <!--Last Stand-->
+	</weaponskill>
+	<weaponskill id="224"> <!--Exenterator-->
+	</weaponskill>
+	<weaponskill id="225"> <!--Chant du Cygne-->
+	</weaponskill>
+	<weaponskill id="226"> <!--Requiescat-->
+	</weaponskill>
+	<weaponskill id="238"> <!--Uriel Blade-->
+	</weaponskill>
+	<weaponskill id="239"> <!--Glory Slash-->
+	</weaponskill>
+	<weaponskill id="240"> <!--Tartarus Torpor-->
+	</weaponskill>
+	<weaponskill id="241"> <!--Netherspikes-->
+	</weaponskill>
+	<weaponskill id="242"> <!--Carnal Nightmare-->
+	</weaponskill>
+	<weaponskill id="243"> <!--Aegis Schism-->
+	</weaponskill>
+	<weaponskill id="244"> <!--Dancing Chains-->
+	</weaponskill>
+	<weaponskill id="245"> <!--Barbed Crescent-->
+	</weaponskill>
+	<weaponskill id="246"> <!--Shackled Fists-->
+	</weaponskill>
+	<weaponskill id="247"> <!--Foxfire-->
+	</weaponskill>
+	<weaponskill id="248"> <!--Grim Halo-->
+	</weaponskill>
+	<weaponskill id="249"> <!--Netherspikes-->
+	</weaponskill>
+	<weaponskill id="250"> <!--Carnal Nightmare-->
+	</weaponskill>
+	<weaponskill id="251"> <!--Aegis Schism-->
+	</weaponskill>
+	<weaponskill id="252"> <!--Dancing Chains-->
+	</weaponskill>
+	<weaponskill id="253"> <!--Barbed Crescent-->
+	</weaponskill>
+	<weaponskill id="254"> <!--Vulcan Shot-->
+	</weaponskill>
+	<weaponskill id="255"> <!--Dimensional Death-->
+	</weaponskill>
+
+</shorthand>
