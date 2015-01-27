@@ -5,7 +5,9 @@ It includes an installation guide, useful links, our rules, and other informatio
 Please read the entire guide and associated links before asking questions, your questions are likely answered below.
 
 Installation Guide
-If you want to play with us, just follow this step-by-step guide to avoid problems later down the line.
+To play with us, follow this guide. If you have problems, review and redo the steps below.
+We also have a youtube video installation guide that leads you through the process click by click.
+https://www.youtube.com/watch?v=1UdSOjQk2Ho
 
 1. Download the Supernova Installation files.
 2. Install the FFXI game and its expansions, Rise of the Zilart, Chains of Promathia, Treasures of Aht Urghan, and Wings of the Goddess. 
@@ -26,7 +28,7 @@ If you want to play with us, just follow this step-by-step guide to avoid proble
 15. Use Ashita to create an account. Please make your account name the same as your intended character name, or your real name.
 16. If you haven't already, register on our forums at supernovaffxi.proboards.com and read the documents there. There are documents you should write your name in.
 17. Create a character and login.
-18. Assimilate with the in-game community by obtaining a linkpearl. Any of these Supernova GMs can give you a pearl: Novah, Alyss, Bope, Lilitz, Ankiseth, Reprevant, Souvlaki, Dunador, Sarx, Valda, Korietsu, Sigmund, Jojo, and Paul
+18. Assimilate with the in-game community by obtaining a linkpearl. Any of the Supernova GMs can give you a pearl. A list of players is at http://supernovaffxi.wikia.com/wiki/Admins
 19. Learn the differences between your Supernova FFXI server and Square Enix's FFXI servers.
 20. Check out the Chocobo circuit, the Supernova FFXI hangout, it's been completely reinvented for our purposes! Type @choco to teleport there 
 
@@ -64,7 +66,7 @@ Prohibited activities
 - Greifing
 - Leeching experience by nefarious means. This includes exploits, botting, powerleveling, etc.
 - Powerleveling
-- Dualboxing or Multiboxing in a group setting. See more details on the wiki
+- Dualboxing or Multiboxing in a group setting. More details at: http://supernovaffxi.wikia.com/wiki/I_am_looking_to_play_2%2B_characters_simultaneously._Are_there_any_rules_about_this%3F
 - Botting offensive skillups (Dia,Banish,Bio, etc)
 
 Discouraged activities
@@ -95,7 +97,7 @@ $30 = Moogle Shield or Nomad Moogle Shield
 $50 = Moogle Cap
 $100 = Moogle Masque and Moogle Suit
 
-Any consideration is appreciated.
+Any consideration is appreciated. http://supernovaffxi.wikia.com/wiki/Donate
 
 I love this server and everyone on it, Thanks for being a part of this. :)
 
