@@ -20,17 +20,16 @@ https://www.youtube.com/watch?v=1UdSOjQk2Ho
 7. Check FFXI files. When it's done checking, click Repair Files. This can take quite a while (Up to 10 hours). 
 8. Copy the data folder at PlayOnline\SquareEnix\PlayOnlineViewer\data to the Final Fantasy XI directory at PlayOnline\SquareEnix\FINAL FANTASY XI.
 9. Install the three files in the "3 Visual C++" directory of your Supernova Installation download.
-10. Copy the file in 6 Chocobo Circuit Music to replace a file in "C:\Program Files (x86)\PlayOnline\SquareEnix\final fantasy XI\sound4\win\music\data"
-11. Copy the file in 7 Chocobo Circuit Names to replace a file in "C:\Program Files (x86)\PlayOnline\SquareEnix\final fantasy XI\rom4\1\"
-12. Extract Ashita from the "4 Ashita" directory of your Supernova Installation download.
-13. Configure Ashita to run as administrator, configure the game resolution, and configure addons
-14. Install Teamspeak from the "5 Teamspeak" directory of your Supernova Installation download. The server IP is the same as the FFXI IP. The password is hypnosheep.
-15. Use Ashita to create an account. Please make your account name the same as your intended character name, or your real name.
-16. If you haven't already, register on our forums at supernovaffxi.proboards.com and read the documents there. There are documents you should write your name in.
-17. Create a character and login.
-18. Assimilate with the in-game community by obtaining a linkpearl. Any of the Supernova GMs can give you a pearl. A list of players is at http://supernovaffxi.wikia.com/wiki/Admins
-19. Learn the differences between your Supernova FFXI server and Square Enix's FFXI servers. Type @help to be transported to some NPCs with valuable information.
-20. Check out the Chocobo circuit, the Supernova FFXI hangout, it's been completely reinvented for our purposes! Type @choco to teleport there 
+10. Copy the folder "FINAL FANTASY XI" and paste it in the ".\PlayOnline\SquareEnix"folder.
+11. Extract Ashita from the "4 Ashita" directory of your Supernova Installation download.
+12. Configure Ashita to run as administrator, configure the game resolution, and configure addons
+13. Install Teamspeak from the "5 Teamspeak" directory of your Supernova Installation download. The server IP is the same as the FFXI IP. The password is hypnosheep.
+14. Use Ashita to create an account. Please make your account name the same as your intended character name, or your real name.
+15. If you haven't already, register on our forums at supernovaffxi.proboards.com and read the documents there. There are documents you should write your name in.
+16. Create a character and login.
+17. Assimilate with the in-game community by obtaining a linkpearl. Any of the Supernova GMs can give you a pearl. A list of players is at http://supernovaffxi.wikia.com/wiki/Admins
+18. Learn the differences between your Supernova FFXI server and Square Enix's FFXI servers. Type @help to be transported to some NPCs with valuable information.
+19. Check out the Chocobo circuit, the Supernova FFXI hangout, it's been completely reinvented for our purposes! Type @choco to teleport there 
 
 
 Supernova specifics (the good stuff!)
